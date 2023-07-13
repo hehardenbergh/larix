@@ -2,7 +2,6 @@
 
 <param ve-config 
        title="Origins of the Tamarack Trees"
-       source-image="https://upload.wikimedia.org/wikipedia/commons/b/bf/Timber_between_Larch_Mountain_and_Mount_Hood_%284587520152%29.jpg"
-       banner="https://upload.wikimedia.org/wikipedia/commons/b/bf/Timber_between_Larch_Mountain_and_Mount_Hood_%284587520152%29.jpg"
+       source-image="https://ladaray.files.wordpress.com/2013/11/bigstock-shaman-tree-2348390.jpg"
        author="Hannah Hardenbergh"
        layout="vertical">
