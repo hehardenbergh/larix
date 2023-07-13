@@ -20,3 +20,11 @@ The Arnold Arboretum in Boston, Massachusetts serves as a public oasis within th
        description="Photograph" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/7/78/Weeping_larch.jpg">
+
+Humanity’s fascination with trees has been expressed so many ways across time, from cosmology to botany, to landscape design and stewardship, and recreation. This story will unravel the history of one of the ancients, an exploration of how various peoples have revered the larch tree over centuries, shifting from living beings as the oral traditions of indigenous knowledge tell of shamanic world trees and legends of the larch, to objects and specimens as part of collection processes in western botanical studies in the mid- to late-1800s. With the larch tree at the helm, its many histories beckon a curiosity for how all those narratives can coexist in a future of urban forestry and landscape design.
+
+<param ve-image
+       label="Siberian Shaman illustrations of a tree, symbolizing the connectedness of the world
+       description="photograph"
+       license="public domain"
+       url="https://upload.wikimedia.org/wikipedia/commons/e/e5/Olkhon-trees_%28260579424%29.jpg">
