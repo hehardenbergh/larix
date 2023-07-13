@@ -3,5 +3,6 @@
 <param ve-config 
        title="Origins of the Tamarack Trees"
        source-image="https://ladaray.files.wordpress.com/2013/11/bigstock-shaman-tree-2348390.jpg"
+       banner="https://ladaray.files.wordpress.com/2013/11/bigstock-shaman-tree-2348390.jpg"
        author="Hannah Hardenbergh"
        layout="vertical">
