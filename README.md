@@ -15,3 +15,8 @@ The Arnold Arboretum in Boston, Massachusetts serves as a public oasis within th
        description="Photograph" 
        license="public domain"
        url="golden larch_AA.jpg">
+<param ve-image 
+       label="Larix decidua 'Pendula', Weeping Larch" 
+       description="Photograph" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/7/78/Weeping_larch.jpg">
