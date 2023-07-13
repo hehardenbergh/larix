@@ -28,3 +28,8 @@ Humanity’s fascination with trees has been expressed so many ways across time,
        description="photograph"
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/e/e5/Olkhon-trees_%28260579424%29.jpg">
+
+In the Pacific Northwest, larch season is not one to miss. Long swaths of gold can be found in the mountains, as larix occidentalis (Western Larch) makes a great spectacle for fall hikes. Larix laricina (American larch, eastern larch, or tamarack tree), with a water-loving root system, can be found in wetlands and bogs across the Northern hemisphere from the Great Lakes region to New England. Its Asian counterparts siberica have inhabited the Northern taiga in Siberia for at least 900 years, and potaninii and kaempferi in the temperate forests in China and Japan, respectively. There are many other species in eastern Asia, such as the Himalayan or Sikkim Larch (Larix griffithii), the Yunnan Larch (Larix griffithii var. speciosa), Langtang Larch (Larix himalaica), the “Master’s Larch” (Larix mastersiana) and the Dahurian Larch (Larix gmelinii). Each of these species, though they may appear very similar physically, have distinct biological properties that set them apart. Some can grow above permafrost, some are more susceptible to pollutants in urban environments, and some That the beautiful colors of larch season are catalyzed by annual decay and renewal sparks any park goer’s interest in the ephemerality of this tree. Magic, medicine, mythology, the larch is known for it all. 
+
+<param ve-plant-specimen 
+       jpid="10.5555/al.ap.specimen.p00662193">
