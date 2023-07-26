@@ -8,6 +8,9 @@
        layout="vertical">
 
 ### Introduction
+
+In 2002, a comprehensive study of relationships among wild and cultivated bananas determined that the parthenocarpic “A genotype” of almost all the edible banana groups was derived from either subspecies _banksii_ (from the Papua New Guinea region) or subspecies _errans_ (Philippines) of _Musa acuminata_ (or from both of subspecies).[^ref1]
+
 [1] The Arnold Arboretum in Boston, Massachusetts serves as a public oasis within the Boston public park system, an educational center, and a living collection of tree species. Like a museum, the living archive of temperate woody plants live on 281 acres for the public to visit. There are currently 169 different larch trees representing six different species at the Arnold Arboretum, and some variations within the genus, including the weeping larch (Larix decidua ‘Pendula’) and the golden larch (Pseudolarix). The Arboretum has ensured that the trees have a documented [provenance](https://arboretum.harvard.edu/explorer/) and can be traced back to their place of origin as a seed, acting as a living archive and connecting them to place. The larches keep the time with their deciduous needles, a lively golden expression of fall in October, and a signal of new life in April with vibrant near-fuchsia cones and baby-green needles.
 <param ve-compare curtain
        label="Spring Needles on the Golden Larch, *Pseudolarix amabilis*"
@@ -31,8 +34,8 @@
 [4] Larch tree species belong to the genus larix in the pine family. There are 10-15 species recognized by scientists, with some debate on the interrelated details within the genus: Larix griffithii, Siberica, Potaninii, Kaempferi, Himalaica, Mastersiana, Gmelinii, Laricina, Decidua, Occidentalis, Lyalli. Larch trees are native to North America, Europe, and Asia in the northern hemisphere and prefer colder climates, like most pines. Unlike any other pine species, however, the larch tree is deciduous, similar to other species such as maple, oak, dawn redwood, and cypress trees, shedding their soft, flaxen needles every fall. The larch stores nutrients in dormancy during winter, adapting to tough climates easily: without needles, the less likely their branches are to break due to the weight of snow and the force of wind, and the more fire-resilient they become with new shoots in the spring. They are monoecious, meaning growing both male (staminate) and female (ovulate) cones on one plant. Most larches will not produce cones until they reach 25 years of age, on average. The roots are fibrous and shallow, and wide-reaching.
 <param ve-image
        label="Distribution Map of Larix Species"
-       url="The-world-wide-distribution-of-the-genus-Larix-map-from-Schmidt-1995-Species-numbers_ppm.png"
-       >
+       url="The-world-wide-distribution-of-the-genus-Larix-map-from-Schmidt-1995-Species-numbers_ppm.png">
+       
 
 [5] In the Pacific Northwest, long swaths of gold needles from larix occidentalis (Western larch) sweep the sunny mountainsides, depending on snowmelt to carry nutrients and water to its roots in early summer. Each species prefers distinct growing conditions that set them apart. Larix laricina (American larch, eastern larch, or tamarack) can be found in wet soil along wetlands and bogs across the Northern hemisphere in Canada and the northeast U.S. Its prominent Asian counterparts are siberica, which has inhabited the Northern taiga in Siberia, and potaninii and kaempferi found in the temperate forests in China and Japan, respectively. larix dahuria, or the Dahurian Larch, can thrive above permafrost, larix decidua is more resistant to pollutants in urban environments, and the advantageous larix Lyallii prefers rock outcrops at an elevation of 7,500 feet in the alpine tundra, higher than any other North American tree species.  Most larch trees live for about 200 years, though the European Larch has been reported to live as long as 2,000 years. 
 <param ve-image 
@@ -51,13 +54,12 @@
 <param ve-image 
        url="larix_specimen_smithsonian.jpg">
 
-[8] In 1663, Josselyn arrived at the port of Nantascot after twenty-seven days aboard the Society, a trading post for the Wampanoag Native Americans and European explorers established in 1644 in the town of Hull, Massachusetts.  Josselyn, whose mentions of the larch were some of the earliest descriptions of flora and fauna in New England, was making his way to Boston to embark on his recording of the New England flora (later praised by American writers such as Henry David Thoreau). Josselyn’s accounts included observations about Native Americans, though his primary interest was botany and herbal medicine. “The Turpentine that issueth from the Cones of the Larch-tree ... is singularly good to heal wounds, and to draw out the malice of any Ach,” Josselyn claimed in An Account of two Voyages to New England, published in 1674.  “Groundsels made of Larch-tree will never rot … Oh, that my Countreymen might obtain that blessing with their buildings,” he writes of the benefits of using larch for timber, whether he knew of its fire-resistant qualities so spoken of by Vitruvius.  This suggests that Josselyn encountered one of many ways white settlers leeched plant knowledge from Native American nations as the American colonies grew. Image: “New England's Rarities” title page by John Josselyn
+[8] In 1663, Josselyn arrived at the port of Nantascot after twenty-seven days aboard the *Society*, a trading post for the Wampanoag Native Americans and European explorers established in 1644 in the town of Hull, Massachusetts.  Josselyn, whose mentions of the larch were some of the earliest descriptions of flora and fauna in New England, was making his way to Boston to embark on his recording of the New England flora (later praised by American writers such as Henry David Thoreau). Josselyn’s accounts included observations about Native Americans, though his primary interest was botany and herbal medicine. “The Turpentine that issueth from the Cones of the Larch-tree ... is singularly good to heal wounds, and to draw out the malice of any Ach,” Josselyn claimed in An Account of two Voyages to New England, published in 1674.  “Groundsels made of Larch-tree will never rot … Oh, that my Countreymen might obtain that blessing with their buildings,” he writes of the benefits of using larch for timber, whether he knew of its fire-resistant qualities so spoken of by Vitruvius.  This suggests that Josselyn encountered one of many ways white settlers leeched plant knowledge from Native American nations as the American colonies grew. Image: “New England's Rarities” title page by John Josselyn
 <param ve-image
        url="NE rarities Josselyn.jpg"
        >
 
 
-<param ve-image
-       label="American painter Fidelia Bridges delicately captures flowering cones of a larch tree"
-       url="https://tile.loc.gov/storage-services/service/pnp/pga/14100/14179r.jpg">
+### References
 
+[^ref1]: Xavier Perrier et al., “Multidisciplinary perspectives on banana (_Musa_ spp.) domestication,” _PNAS_ 108 (28) (2011): 11311–11318. [http://dx.DOI.org/10.1073/pnas.1102001108](https://doi.org/10.1073/pnas.1102001108)
