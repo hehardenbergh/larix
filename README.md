@@ -17,6 +17,7 @@ In 2002, a comprehensive study of relationships among wild and cultivated banana
        url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pseudolarix_amabilis_02.jpg"
        >
 <param ve-compare 
+       fit=cover
        url="https://upload.wikimedia.org/wikipedia/commons/4/4e/Larix_laricina_needles_close_up.jpg">
 
 
