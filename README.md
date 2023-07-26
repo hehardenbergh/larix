@@ -9,18 +9,21 @@
 
 ### Introduction
 [*Ilex paraguariensis*](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:315555-2) is an evergreen shrub
-[1] The Arnold Arboretum in Boston, Massachusetts serves as a public oasis within the Boston public park system, an educational center, and a living collection of tree species. Like a museum, the living archive of temperate woody plants live on 281 acres for the public to visit. There are currently 169 different larch trees representing six different species at the Arnold Arboretum, and some variations within the genus, including the weeping larch (Larix decidua ‘Pendula’) and the golden larch (Pseudolarix). The Arboretum has ensured that the trees have a documented [provenance](https://arboretum.harvard.edu/explorer/) and can be traced back to their place of origin as a seed, acting as a living archive and connecting them to place. The larches keep the time with their deciduous needles, a lively golden expression of fall in October, and a signal of new life in April with vibrant near-fuchsia cones and baby-green needles. image: pseudolarix provenance; & Arboretum in fall.<param ve-image 
+[1] The Arnold Arboretum in Boston, Massachusetts serves as a public oasis within the Boston public park system, an educational center, and a living collection of tree species. Like a museum, the living archive of temperate woody plants live on 281 acres for the public to visit. There are currently 169 different larch trees representing six different species at the Arnold Arboretum, and some variations within the genus, including the weeping larch (Larix decidua ‘Pendula’) and the golden larch (Pseudolarix). The Arboretum has ensured that the trees have a documented [provenance](https://arboretum.harvard.edu/explorer/) and can be traced back to their place of origin as a seed, acting as a living archive and connecting them to place. The larches keep the time with their deciduous needles, a lively golden expression of fall in October, and a signal of new life in April with vibrant near-fuchsia cones and baby-green needles. image: pseudolarix provenance; & Arboretum in fall.
+<param ve-compare curtain
        label="new growth needles belonging to the Pseudolarix amabilis, Golden Larch" 
-       description="Photograph" 
-       license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pseudolarix_amabilis_02.jpg">
+<param ve-compare 
+       label="The Golden Larch: Provenance at the Arnold Arboretum"
+       url="
+       >
 <param ve-image 
        label="Larix decidua 'Pendula', Weeping Larch" 
        description="Photograph" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/7/78/Weeping_larch.jpg">
 
-Humanity’s fascination with trees has been expressed so many ways across time, from cosmology to botany, to landscape design and stewardship, and recreation. This story will unravel the history of one of the ancients, an exploration of how various peoples have revered the larch tree over centuries, shifting from living beings as the oral traditions of indigenous knowledge tell of shamanic world trees and legends of the larch, to objects and specimens as part of collection processes in western botanical studies in the mid- to late-1800s. With the larch tree at the helm, its many histories beckon a curiosity for how all those narratives can coexist in a future of urban forestry and landscape design.
+[2] Humanity’s fascination with trees has been expressed in so many ways across time, from cosmology to botany, landscape design to recreation. This story will unravel one history of an ancient tree, the larch. The story follows how various peoples have revered the larch, or larix, over centuries—from Siberian shamanist rituals held for millennia to the classification of the species into rigid western botanical studies beginning in the 18th century. Based on the varying representations of the tree through indigenous rituals, traditional ecological knowledge, and western scientific botanical taxonomies, the Larch has been viewed as both a life form and specimen, but this story considers how indigenous stories about larch trees can benefit in connecting people to place. As the main protagonist, the larch trees carry many histories and beckon a curiosity for how a palimpsest of narratives can coexist for a future of landscape, and the role indigenous knowledge can have in understanding the condition of living systems. image: larix pure stand in Cascade mountains.
 <param ve-image
        label="Siberian Shaman illustrations of a tree, symbolizing the connectedness of the world"
        description="Photograph"
