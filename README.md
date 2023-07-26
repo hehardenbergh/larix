@@ -51,3 +51,12 @@
        jpid="10.5555/al.ap.specimen.p00662193">
 <param ve-image 
        url="larix_specimen_smithsonian.jpg">
+
+[8] In 1663, Josselyn arrived at the port of Nantascot after twenty-seven days aboard the Society, a trading post for the Wampanoag Native Americans and European explorers established in 1644 in the town of Hull, Massachusetts.  Josselyn, whose mentions of the larch were some of the earliest descriptions of flora and fauna in New England, was making his way to Boston to embark on his recording of the New England flora (later praised by American writers such as Henry David Thoreau). Josselyn’s accounts included observations about Native Americans, though his primary interest was botany and herbal medicine. “The Turpentine that issueth from the Cones of the Larch-tree ... is singularly good to heal wounds, and to draw out the malice of any Ach,” Josselyn claimed in An Account of two Voyages to New England, published in 1674.  “Groundsels made of Larch-tree will never rot … Oh, that my Countreymen might obtain that blessing with their buildings,” he writes of the benefits of using larch for timber, whether he knew of its fire-resistant qualities so spoken of by Vitruvius.  This suggests that Josselyn encountered one of many ways white settlers leeched plant knowledge from Native American nations as the American colonies grew. Image: “New England's Rarities” title page by John Josselyn
+<param ve-image
+       url="NE rarities Josselyn.jpg"
+       >
+
+
+
+
