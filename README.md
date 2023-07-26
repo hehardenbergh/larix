@@ -14,10 +14,11 @@ In 2002, a comprehensive study of relationships among wild and cultivated banana
 [1] The Arnold Arboretum in Boston, Massachusetts serves as a public oasis within the Boston public park system, an educational center, and a living collection of tree species. Like a museum, the living archive of temperate woody plants live on 281 acres for the public to visit. There are currently 169 different larch trees representing six different species at the Arnold Arboretum, and some variations within the genus, including the weeping larch (Larix decidua ‘Pendula’) and the golden larch (Pseudolarix). The Arboretum has ensured that the trees have a documented [provenance](https://arboretum.harvard.edu/explorer/) and can be traced back to their place of origin as a seed, acting as a living archive and connecting them to place. The larches keep the time with their deciduous needles, a lively golden expression of fall in October, and a signal of new life in April with vibrant near-fuchsia cones and baby-green needles.
 <param ve-compare curtain
        label="Spring Needles on the Golden Larch, *Pseudolarix amabilis*"
+       fit="cover"
        url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pseudolarix_amabilis_02.jpg"
        >
 <param ve-compare 
-       fit=cover
+       fit="cover"
        url="https://upload.wikimedia.org/wikipedia/commons/4/4e/Larix_laricina_needles_close_up.jpg">
 
 
