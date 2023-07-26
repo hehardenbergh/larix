@@ -58,6 +58,6 @@
 
 
 <param ve-image
-       label="American painter Fidelia Bridges delicately capturing branches of a larch tree and its nimble residents"
+       label="American painter Fidelia Bridges delicately captures flowering cones of a larch tree"
        url="https://tile.loc.gov/storage-services/service/pnp/pga/14100/14179r.jpg">
 
