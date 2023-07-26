@@ -2,8 +2,8 @@
 
 <param ve-config 
        title="What We Know Now: Tracing the Tamarack Tree"
-       source-image="https://ladaray.files.wordpress.com/2013/11/bigstock-shaman-tree-2348390.jpg"
-       banner="https://ladaray.files.wordpress.com/2013/11/bigstock-shaman-tree-2348390.jpg"
+       source-image="https://upload.wikimedia.org/wikipedia/commons/4/4b/Crowns_of_Siberian_larch_in_winter.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/4/4b/Crowns_of_Siberian_larch_in_winter.jpg"
        author="Hannah Hardenbergh"
        layout="vertical">
 
