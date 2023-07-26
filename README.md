@@ -17,7 +17,7 @@ In 2002, a comprehensive study of relationships among wild and cultivated banana
        url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pseudolarix_amabilis_02.jpg"
        >
 <param ve-compare 
-       url=">
+       url="https://upload.wikimedia.org/wikipedia/commons/4/4e/Larix_laricina_needles_close_up.jpg">
 
 
 [2] Humanity’s fascination with trees has been expressed in so many ways across time, from cosmology to botany, landscape design to recreation. This story will unravel one history of an ancient tree, the larch. The story follows how various peoples have revered the larch, or larix, over centuries—from Siberian shamanist rituals held for millennia to the classification of the species into rigid western botanical studies beginning in the 18th century. Based on the varying representations of the tree through indigenous rituals, traditional ecological knowledge, and western scientific botanical taxonomies, the Larch has been viewed as both a life form and specimen, but this story considers how indigenous stories about larch trees can benefit in connecting people to place. As the main protagonist, the larch trees carry many histories and beckon a curiosity for how a palimpsest of narratives can coexist for a future of landscape, and the role indigenous knowledge can have in understanding the condition of living systems. 
