@@ -13,15 +13,16 @@
 <param ve-compare curtain
        label="new growth needles belonging to the Pseudolarix amabilis, Golden Larch" 
        url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pseudolarix_amabilis_02.jpg">
-<param ve-compare 
+<       param ve-compare 
        label="The Golden Larch: Provenance at the Arnold Arboretum"
-       url="
+       url="pseudolarix AA screenshot.png"
        >
-<param ve-image 
+<       param ve-image 
        label="Larix decidua 'Pendula', Weeping Larch" 
        description="Photograph" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/7/78/Weeping_larch.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/7/78/Weeping_larch.jpg"
+       >
 
 [2] Humanity’s fascination with trees has been expressed in so many ways across time, from cosmology to botany, landscape design to recreation. This story will unravel one history of an ancient tree, the larch. The story follows how various peoples have revered the larch, or larix, over centuries—from Siberian shamanist rituals held for millennia to the classification of the species into rigid western botanical studies beginning in the 18th century. Based on the varying representations of the tree through indigenous rituals, traditional ecological knowledge, and western scientific botanical taxonomies, the Larch has been viewed as both a life form and specimen, but this story considers how indigenous stories about larch trees can benefit in connecting people to place. As the main protagonist, the larch trees carry many histories and beckon a curiosity for how a palimpsest of narratives can coexist for a future of landscape, and the role indigenous knowledge can have in understanding the condition of living systems. image: larix pure stand in Cascade mountains.
 <param ve-image
