@@ -23,6 +23,7 @@
        label="Larch trees in fall at Mar Bleue Bog, Southern Ontario"
        description="Photograph"
        license="public domain"
+       zoom=4
        url="https://upload.wikimedia.org/wikipedia/commons/7/79/Autumn%27s_promise_%2848973911991%29.png">
 
 [3] The Larch is known by many names: Tamarack in common English, Tuuru in one Siberian indigenous language called Evenki Tungus, and among the Ojibwe people, an Anishinaabe tribe native to Ontario, Quebec, and Great Lakes regions, “mashkiigwaatig”.  In Potawatomi, “manbemesh.” In the Algonquin language, “menahekwa.”  The Ojibwe word is very similar to the word that Potawatomi people use to refer to all plants, mshkikinek, or “the growers of the world.” According to indigenous biologist Robin Wall Kimmerer, the word also directly translates as “the medicines,” with the root mshkiki meaning “strength of the earth.”  Some names are very specifically related to Native American worldviews of the interrelated network of plants and humans, while others such as “tamarack” were conflated and now are commonly used to refer to more than one species of larch.  The name tamarack is said to have been derived from an Algonquian word which was mispronouned, “akemantak,” then “Hackmatack,” meant to have been translated to “wood used for snowshoes,” though when and where the first documentation of this conflation of terms occurred is unclear.  image: Cree woman building snowshoes from larch wood
