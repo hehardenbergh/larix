@@ -98,25 +98,27 @@ In 2002, a comprehensive study of relationships among wild and cultivated banana
        url="TEK paper.gif">
 
 [15] “Narratives of all kinds—stories, tales, and rumors—are the stuff of ideas—concepts and hypotheses—and the stuffing of history,” writes contemporary authors of Dirt.  But how do we cite, record, and archive an oral history, especially when those stories have been nearly eradicated through colonial and extractive forces in the history of the US? The larch tree is one answer: a living archive creates a gene pool for data. Larix laricina sweeps across the northeastern United States and blooms into the eastern Canadian provinces among large temperate forests. The stories of these trees are held not only within their DNA, but also within the cultures of the First Nations people who first stewarded the land. What follows is a retelling of Ojibwe descendant and author Anne M. Dunn, who chose to share her ancestors’ respect for the larch tree via storytelling in her book, When Beaver was Very Great. The text includes many short stories that are a mixture of traditional Ojibwe tales and modern storytelling, preserving a way of and a perspective of reciprocal understanding about living systems life that predates western botany.  The following origin story tells of the Tamarack’s fall from grace in the lakeside forests of Minnesota:
-Note: text to be shown as the illustration for paragraph
 <param ve-image
-       label=""
-       url="">
+       label="Tamarack"
+       url="It happened long ago that Tamarack was evergreen.jpg">
  
 [16] In addition to living legends as a sign of respect for traditional lifestyles and plant knowledge, the larch tree is historically known both by First Nations and traditional Chinese Medicine practitioners for its medicinal uses.  Across the Pacific, in a vastly different ecosystem within the Russian and Siberian taiga, many indigenous nomadic peoples believe that the larch tree holds great spiritual power and is the connection between their spiritual and physical worlds. Since as early as 600 A.D., the Evenki people, nomadic groups of three to ten immediate families indigenous to northern Siberia and parts of Mongolia and eastern China, held the larch tree near for both practical uses and spiritual meaning. The needles were historically used as insulation inside shelters to protect from the frozen ground in winter. The timber was also used for crafting ceremonial sculptures, such as carvings of birds that sit atop a “spirit pole” at the residence of a shaman to signify the connection between the human and spirit worlds.  The spirit pole is thought to be the point of connection between the spirits and the community.  Images: spirit pole, shaman drum illustration, shaman Alya from online oral history interview.
 <param ve-image
-       label=""
-       url="">
+       label="Altai Mountains Shaman"
+       url="https://upload.wikimedia.org/wikipedia/commons/2/2d/SB_-_Altay_shaman_with_drum.jpg">
+<param ve-image
+       label="copper engraving of a Sami Shaman in Scandinavia"
+       url="https://upload.wikimedia.org/wikipedia/commons/d/d1/Shaman.jpg">
 
 [17] The Evenki people believed that the larch tree, or Tuuru, in their Tungus language which translates as “world tree” in English, was one way to connect their three worlds: the upper world, housing deities and spirits of nature, the middle world inhabited by humans, and the lower world, home to spirits of the dead.  Similarly, the Buryat people, who also indigenous to south-central Siberia, consider the birch tree their “World Tree.” Shamanic traditions still survive today, including securing ribbons to the tree trunk to symbolize a myriad of offerings for the spirits.  Interestingly, thousands of plants of Larix siberica dot the shores of Lake Baikal, where the Buryat people live. Their offerings can be found tied to the ancient larches, cranking their way up towards the sun in search of nutrients, and passing down knowledge from the spirits above. Whether it is Buryat or Evenki shamans placing them, colorful ribbons adorn the most sculptural, wiry branches and trunks of the leafless monuments.  Image: ribbons attached to larch tree at lake Baikal.
 <param ve-image
        label=""
-       url="">
+       url="https://upload.wikimedia.org/wikipedia/commons/b/be/Spirits_Of_Shamanism_%28173117241%29.jpeg">
 
 [18] The Chinese Reindeer-Evenki are a small nomadic group of only two hundred people. Their cultural history and future are in danger of extinction. Nevertheless, they continue to practice traditional ways of life including looking to their shaman as a “mediator between human society and the world of spirits.”  Under the shaman’s leadership, the clan, or kala in Tungus northern dialect, respects that all events in nature, including the birth and death of all people, are attributed to the spirits of the upper world.  Symbolically, the Tuuru was the physical symbol of how the spirits traveled between worlds and was therefore significant for Evenki cosmology. Image: tuuru world tree diagram of upper, middle, lower worlds.
 <param ve-image
        label=""
-       url="">
+       url="AdobeStock_Mongolian Shaman Encampment.jpeg">
 
 ### Design Considerations
 
