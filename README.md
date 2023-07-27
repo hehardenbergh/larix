@@ -101,6 +101,9 @@ In 2002, a comprehensive study of relationships among wild and cultivated banana
 <param ve-image
        label="Tamarack"
        url="It happened long ago that Tamarack was evergreen.jpg">
+<param ve-image
+       label="Map of First Nations tribes before european contact, indigenous to the Great Lakes Region"
+       url="https://upload.wikimedia.org/wikipedia/commons/1/13/Ojibwe_map_pre-contact.svg">
  
 [16] In addition to living legends as a sign of respect for traditional lifestyles and plant knowledge, the larch tree is historically known both by First Nations and traditional Chinese Medicine practitioners for its medicinal uses.  Across the Pacific, in a vastly different ecosystem within the Russian and Siberian taiga, many indigenous nomadic peoples believe that the larch tree holds great spiritual power and is the connection between their spiritual and physical worlds. Since as early as 600 A.D., the Evenki people, nomadic groups of three to ten immediate families indigenous to northern Siberia and parts of Mongolia and eastern China, held the larch tree near for both practical uses and spiritual meaning. The needles were historically used as insulation inside shelters to protect from the frozen ground in winter. The timber was also used for crafting ceremonial sculptures, such as carvings of birds that sit atop a “spirit pole” at the residence of a shaman to signify the connection between the human and spirit worlds.  The spirit pole is thought to be the point of connection between the spirits and the community.  Images: spirit pole, shaman drum illustration, shaman Alya from online oral history interview.
 <param ve-image
