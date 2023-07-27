@@ -36,6 +36,8 @@ In 2002, a comprehensive study of relationships among wild and cultivated banana
 <param ve-video 
        vid="M0-Es_VVohs" >
 
+### Characteristics of Larch Trees
+
 [4] Larch tree species belong to the genus larix in the pine family. There are 10-15 species recognized by scientists, with some debate on the interrelated details within the genus: Larix griffithii, Siberica, Potaninii, Kaempferi, Himalaica, Mastersiana, Gmelinii, Laricina, Decidua, Occidentalis, Lyalli. Larch trees are native to North America, Europe, and Asia in the northern hemisphere and prefer colder climates, like most pines. Unlike any other pine species, however, the larch tree is deciduous, similar to other species such as maple, oak, dawn redwood, and cypress trees, shedding their soft, flaxen needles every fall. The larch stores nutrients in dormancy during winter, adapting to tough climates easily: without needles, the less likely their branches are to break due to the weight of snow and the force of wind, and the more fire-resilient they become with new shoots in the spring. They are monoecious, meaning growing both male (staminate) and female (ovulate) cones on one plant. Most larches will not produce cones until they reach 25 years of age, on average. The roots are fibrous and shallow, and wide-reaching.
 <param ve-image
        label="Distribution Map of Larix Species"
@@ -52,6 +54,7 @@ In 2002, a comprehensive study of relationships among wild and cultivated banana
        label="Diagram of Wetland and Upland Species, USGS"
        url="https://upload.wikimedia.org/wikipedia/commons/a/a1/USGS_image_cropped.jpg">
       
+### Documenting the Larch in Western Botanical Texts
 
 [7] In addition to studying the species’ characteristics in situ, larch trees were documented, classified, and illustrated in many western botanical texts published between 1768 and 1900. At this time, when western botanists such as Carl Linnaeus began classifying and then taxonomizing plants in the 18th and 19th centuries, the standards of botanical studies did not include any information about traditional ecological knowledge or indigenous knowledge about plants.  There are, however, early European traveler’s journals that mention the medicinal properties of the larch before Linnean classification became the standard. For example, John Josselyn, an English traveler and physician, recorded medicinal uses of larix laricina during his travels up the coast to Boston.  He describes the tannin that can be extracted from the trunk of the larch, knowledge that could very likely have been gleaned from interacting or trading with indigenous tribes in the same region. Josselyn’s accounts and others is just one we can trace some origin of traditional ecological knowledge of the American larch tree through the practice of western botanical science. Video: Anishinaabe educator about Tamarack bark.
 <param ve-plant-specimen 
@@ -144,6 +147,8 @@ In 2002, a comprehensive study of relationships among wild and cultivated banana
 <param ve-image
        label=""
        url="">
+
+### Where We Are Now 
 
 [23] Rather than glimpsing at a tamarack tree in winter and assuming it aesthetically unproductive, consider its role in the larger ecosystem in which it lives, including its role with humans. Consider the narratives that have been assigned to the tamarack, the larch, mshkiigwaatig. Perhaps its benefits as a species can further extend beyond telling time between the seasons. Perhaps it can help us connect further to a landscape that has been previously considered “wasteland,” or a people whose stories have been historically erased. Its chartreuse green in spring signals not only new growth but humility, its tough bark not only productive construction material but grit. Consider why, to you, the larch trees lose their needles every fall, and what its purpose is. What are the visual cues that can aid in understanding a species’ role within a larger ecosystem? 
 <param ve-image
