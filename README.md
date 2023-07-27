@@ -9,8 +9,6 @@
 
 ### Introduction
 
-In 2002, a comprehensive study of relationships among wild and cultivated bananas determined that the parthenocarpic “A genotype” of almost all the edible banana groups was derived from either subspecies _banksii_ (from the Papua New Guinea region) or subspecies _errans_ (Philippines) of _Musa acuminata_ (or from both of subspecies).[^ref1]
-
 [1] The Arnold Arboretum in Boston, Massachusetts serves as a public oasis within the Boston public park system, an educational center, and a living collection of tree species. Like a museum, the living archive of temperate woody plants live on 281 acres for the public to visit. There are currently 169 different larch trees representing six different species at the Arnold Arboretum, and some variations within the genus, including the weeping larch (Larix decidua ‘Pendula’) and the golden larch (Pseudolarix). The Arboretum has ensured that the trees have a documented [provenance](https://arboretum.harvard.edu/explorer/) and can be traced back to their place of origin as a seed, acting as a living archive and connecting them to place. The larches keep the time with their deciduous needles, a lively golden expression of fall in October, and a signal of new life in April with vibrant near-fuchsia cones and baby-green needles.
 <param ve-compare curtain
        label="Spring Needles on the Golden Larch, *Pseudolarix amabilis*"
@@ -26,7 +24,7 @@ In 2002, a comprehensive study of relationships among wild and cultivated banana
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/6/64/Larix_laricina_15-p.bot-larix.lari-42.jpg">
 
-[3] The Larch is known by many names: Tamarack in common English, Tuuru in one Siberian indigenous language called Evenki Tungus, and among the Ojibwe people, an Anishinaabe tribe native to Ontario, Quebec, and Great Lakes regions, “mashkiigwaatig”.  In Potawatomi, “manbemesh.” In the Algonquin language, “menahekwa.”  The Ojibwe word is very similar to the word that Potawatomi people use to refer to all plants, mshkikinek, or “the growers of the world.” According to indigenous biologist Robin Wall Kimmerer, the word also directly translates as “the medicines,” with the root mshkiki meaning “strength of the earth.”  Some names are very specifically related to Native American worldviews of the interrelated network of plants and humans, while others such as “tamarack” were conflated and now are commonly used to refer to more than one species of larch.  The name tamarack is said to have been derived from an Algonquian word which was mispronouned, “akemantak,” then “Hackmatack,” meant to have been translated to “wood used for snowshoes,” though when and where the first documentation of this conflation of terms occurred is unclear.  image: Cree woman building snowshoes from larch wood
+[3] The Larch is known by many names: Tamarack in common English, Tuuru in one Siberian indigenous language called Evenki Tungus, and among the Ojibwe people, an Anishinaabe tribe native to Ontario, Quebec, and Great Lakes regions, “mashkiigwaatig”.[^ref1]  In Potawatomi, “manbemesh.” In the Algonquin language, “menahekwa.”  The Ojibwe word is very similar to the word that Potawatomi people use to refer to all plants, mshkikinek, or “the growers of the world.” According to indigenous biologist Robin Wall Kimmerer, the word also directly translates as “the medicines,” with the root mshkiki meaning “strength of the earth.”  Some names are very specifically related to Native American worldviews of the interrelated network of plants and humans, while others such as “tamarack” were conflated and now are commonly used to refer to more than one species of larch.  The name tamarack is said to have been derived from an Algonquian word which was mispronouned, “akemantak,” then “Hackmatack,” meant to have been translated to “wood used for snowshoes,” though when and where the first documentation of this conflation of terms occurred is unclear.  image: Cree woman building snowshoes from larch wood
 <param ve-entity 
        title="Tamarack"
        eid="Q734085">
@@ -171,4 +169,4 @@ In 2002, a comprehensive study of relationships among wild and cultivated banana
 
 ### References
 
-[^ref1]: Xavier Perrier et al., “Multidisciplinary perspectives on banana (_Musa_ spp.) domestication,” _PNAS_ 108 (28) (2011): 11311–11318. [http://dx.DOI.org/10.1073/pnas.1102001108](https://doi.org/10.1073/pnas.1102001108)
+[^ref1]: The Ojibwe People’s Dictionary. 
