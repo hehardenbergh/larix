@@ -144,8 +144,8 @@ In 2002, a comprehensive study of relationships among wild and cultivated banana
 
 [22] The larch tree could be the poster child of wetland restoration given its ephemeral qualities and its affinity to live among a wide variety of other flora. Its associations with soil, wind, water, bugs, and people are at the core of understanding how a wetland ecosystem can function and thrive properly. In an effort to conserve marshes along the eastern coast and great lakes regions of the United States, larch species could be carefully considered for a role in drawing attention towards the significance and history of these landscapes.
 <param ve-image
-       label=""
-       url="">
+       label="Columbus Bog (also known as Sulphur Spring Bog), which is part of the Tamarack Swamp National Natural Landmark in Warren County, Pennsylvania"
+       url="https://upload.wikimedia.org/wikipedia/commons/9/99/TamarackSwampNNL.jpg">
 
 ### Where We Are Now 
 
