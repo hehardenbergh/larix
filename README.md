@@ -53,8 +53,11 @@
        url="larix_specimen_smithsonian.jpg">
 
 [8] In 1663, Josselyn arrived at the port of Nantascot after twenty-seven days aboard the *Society*, a trading post for the Wampanoag Native Americans and European explorers established in 1644 in the town of Hull, Massachusetts.[^ref9] Josselyn, whose mentions of the larch were some of the earliest descriptions of flora and fauna in New England, was making his way to Boston to embark on his recording of the New England flora (later praised by American writers such as Henry David Thoreau). Josselyn’s accounts included observations about Native Americans, though his primary interest was botany and herbal medicine. “The Turpentine that issueth from the Cones of the Larch-tree ... is singularly good to heal wounds, and to draw out the malice of any Ach,” Josselyn claimed in *An Account of two Voyages to New England*, published in 1674.[^ref10] “Groundsels made of Larch-tree will never rot … Oh, that my Countreymen might obtain that blessing with their buildings,” he writes of the benefits of using larch for timber, whether he knew of its fire-resistant qualities so spoken of by Vitruvius.[^ref11] This suggests that Josselyn encountered one of many ways white settlers leeched plant knowledge from Native American nations as the American colonies grew.
-<param ve-image
-       url="NE rarities Josselyn.jpg">
+<param ve-knightlab-timeline
+       source="1zRzuoBAx7zFxTPSvJ64o5bPtbkrZrq9OB7e1HYisy6Y"
+       hash-bookmark="false"
+       initial-zoom="1"
+       height="750">
 
 [9] The first classification of North American Larch trees came long before the establishment of the Arnold Arboretum, back to when French botanist Francois Andre Michaux and his father, Andre Michaux, traveled to the newly formed United States in 1785 with a mission of sending back tree specimens to aid in the harvesting of lumber for constructing ships for the French Navy.[^ref12] Francois Michaux recorded the first classification of North American Larches in The North American Sylva.[^ref13] Following in his father’s footsteps, Michaux became a successful botanist and traveler, documenting American plant life more generally.[^ref14] His father had built a relationship with Thomas Jefferson, which enabled him to strike a contract allowing for westward explorations into territories which were then controlled by Spain. This benefitted both Jefferson, who by sending a French naturalist was at little risk of starting conflict with the Spanish, and Andre Michaux could continue his work, or “herboriser,” which translates to English as “to botanize,” as Michaux’s father frequently described his work in his travel journals.[^ref15]
 <param ve-image
