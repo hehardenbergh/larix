@@ -15,6 +15,7 @@
        url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pseudolarix_amabilis_02.jpg"
        >
 <param ve-image 
+       label="Larch needles beaming gold in fall"
        fit="cover"
        url="https://upload.wikimedia.org/wikipedia/commons/4/4e/Larix_laricina_needles_close_up.jpg">
 
