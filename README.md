@@ -12,7 +12,7 @@
 <param ve-compare curtain
        label="Spring Needles on the Golden Larch, *Pseudolarix amabilis*"
        fit="contain"
-       url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pseudolarix_amabilis_02.jpg"
+       manifest="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pseudolarix_amabilis_02.jpg"
        >
 <param ve-compare 
        fit="contain"
