@@ -73,12 +73,9 @@
        url="sargent-in-library.jpg">
 
 [12] Sargent’s interests in Asian species were purely scientific, though he counted on the endeavors of botanists seeking to introduce new plants to nurseries for commercial value. This is how he met E. H. Wilson, who had been collecting seeds for a large nursery in England called Veitch & Sons. He provided much of the text for Plantae Wilsonianae, another flora of species native to Western Sichuan, the seeds of which Wilson sent to Sargent for the Arboretum.[^ref18] Many of the larches that continue to grow on Boston’s soil today originated from expeditions such as Wilson’s.
-<param ve-entity eid="Q220">
-<param ve-map
-       title="Larches Native to Siberia"
-       center="Q220"
-       basemap="Esri_WorldPhysical"
-       zoom="2">
+<param ve-image
+       label="Trans-siberian Railroad route, Sargent traveled with his son & naturalist John Muir in 1909."
+       url="https://upload.wikimedia.org/wikipedia/commons/1/1c/Transsibirische_Eisenbahn.png">
        
 [13] Wilson collected larix potaninii, Chinese Larch, noting its “decidedly handsome and striking” qualities.[^ref19] He writes of the tree’s practical usefulness for valuable timber in all of western Sichuan region for construction.[^ref20] As Sylvia Barry Sutton, the author of a biography on Sargent, writes, “One is thankful, finally, that it was Wilson and not Sargent who explored China, because it is unlikely that Sargent would have written about anything but the flora.”[^ref21] Indeed, Wilson was interested in much more than the species itself, including cultural references. But if Wilson did record the traditional uses of the Chinese Larch, it was not included in Plantae. It was perhaps included in his more popular travel journals, which were not confined to more strict categorizations. Images: Wilson’s collecting team
 <param ve-image
