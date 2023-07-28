@@ -76,7 +76,8 @@
 <param ve-map
        title="Larches Native to Siberia"
        center="53.524605, 107.963269"
-       zoom="2">
+       basemap="Esri_WorldPhysical"
+       zoom="6">
        
 [13] Wilson collected larix potaninii, Chinese Larch, noting its “decidedly handsome and striking” qualities.[^ref19] He writes of the tree’s practical usefulness for valuable timber in all of western Sichuan region for construction.[^ref20] As Sylvia Barry Sutton, the author of a biography on Sargent, writes, “One is thankful, finally, that it was Wilson and not Sargent who explored China, because it is unlikely that Sargent would have written about anything but the flora.”[^ref21] Indeed, Wilson was interested in much more than the species itself, including cultural references. But if Wilson did record the traditional uses of the Chinese Larch, it was not included in Plantae. It was perhaps included in his more popular travel journals, which were not confined to more strict categorizations. Images: Wilson’s collecting team
 <param ve-image
