@@ -75,7 +75,7 @@
 [12] Sargent’s interests in Asian species were purely scientific, though he counted on the endeavors of botanists seeking to introduce new plants to nurseries for commercial value. This is how he met E. H. Wilson, who had been collecting seeds for a large nursery in England called Veitch & Sons. He provided much of the text for Plantae Wilsonianae, another flora of species native to Western Sichuan, the seeds of which Wilson sent to Sargent for the Arboretum.[^ref18] Many of the larches that continue to grow on Boston’s soil today originated from expeditions such as Wilson’s.
 <param ve-map
        basemap="Esri_WorldPhysical
-       center="Q48"
+       center="33.813378, 100.575892"
        zoom="5">
 <param ve-image
        label="Trans-siberian Railroad route, Sargent traveled with his son & naturalist John Muir in 1909."
