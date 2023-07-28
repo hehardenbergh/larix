@@ -188,15 +188,21 @@ Francois-Andre Michaux, The North American sylva; or A description of the forest
 [^ref14]: John C. Inscoe, "Michaux, Francois Andre." NCpedia.org, January 1, 1991. [https://www.ncpedia.org/biography/michaux-francois-andre](https://www.ncpedia.org/biography/michaux-francois-andre). From  the *Dictionary of North Carolina Biography*, 6 volumes, edited by William S. Powell and published by University of North Carolina Press.
 [^ref15]: As historian Elizabeth Hyde defines this term, Michaux was spending time in the field in order to “know” the plants, and to use them for which the purposes are fit. But not only did he identify them, but he classified them, collected them, and contextualized species within a larger scientific community and way of thinking. He was one of the first botanists in the United States to do this, and his work would continue to be valuable for the development of French gardens and forests into the 19th century. 
 Elizabeth Hyde. 2018. “'The Neighborhood Would Be Very Interesting for a Botanist to Visit,' or André Michaux, French Botanist in the American Field." Journal of the Western Society for French History. Vol. 46. Ann Arbor, MI: Michigan Publishing, University of Michigan Library.
-[^ref16]:
-[^ref
-[^ref
-[^ref
-[^ref
-[^ref
-[^ref
-[^ref
-[^ref
-[^ref
-[^ref
-
+[^ref16]: Sargent, C. S., & Faxon, C. E. (1891). *The silva of North America: a description of the trees which grow naturally in North America exclusive of Mexico*. Houghton, Mifflin and Company. Vol. xii.
+[^ref17]: Alfred Rehder, *Manual of cultivated trees and shrubs hardy in North America: exclusive of the subtropical and warmer temperate regions*. (Macmillan, New York, 1927), v, Core Historical Literature of Agriculture Collection, Cornell University.
+[^ref18]: Though Wilson is credited for the collection of the plants, it is more likely that his assistant Alfred Rehder wrote the majority of the text. Sargent later edited the two volumes.
+[^ref19]: Sargent, Charles Sprague, Ernest Henry Wilson, and Arnold Arboretum. 1913. *Plantae Wilsonianae : an Enumeration of the Woody Plants Collected in Western China for the Arnold Arboretum of Harvard University During the Years 1907, 1908, and 1910 by E. H. Wilson*. (Cambridge [Mass.]: University Press), 19.
+[^ref20]: Sargent and Wilson, *Plantae Wilsonianae*. 19.
+[^ref21]: Sutton, S. B. 1970. Charles Sprague Sargent and the Arnold Arboretum. (Cambridge: Harvard University Press), 220.
+[^ref22]: Fikret Berkes Sacred Ecology: Traditional Ecological Knowledge and Resource Management. (Philadelphia, PA: Taylor & Francis), 6. 1999.
+[^ref23]: Born, Megan, Helene Mary Furján, Lily Jencks, and Phillip M. Crosby. *Dirt*. Philadelphia : Cambridge, Mass.: PennDesign ; MIT Press, 2012.
+[^ref24]: By making visible traditional knowledge through storytelling, there is also potential to restore an ancient, non-extractive approach to the tree, respecting the ways in which it benefits us.
+[^ref25]: The golden larch is one of the fifty fundamental herbs in traditional Chinese medicine. Pseudolarix amabilis - jīn qián sōng (金钱松) - is used as a dermatologic antifungal remedy.
+[^ref26]: Simon Fraser University Museum of Archaeology and Ethnology. "Evenki Shamanism". Accessed June 14, 2023. [https://www.sfu.ca/archaeology/museum/exhibits/virtual-exhibits/russian-traditional-village-life/evenki-shamanism.html](https://www.sfu.ca/archaeology/museum/exhibits/virtual-exhibits/russian-traditional-village-life/evenki-shamanism.html).
+[^ref27]: Kay Crossley, Pamela. *Orphan Warriors: Three Manchu Generations and the End of the Qing World*. Princeton: Princeton University Press, 1990.
+[^ref28]: Aado Lintrop. *The Great Oak and Brother-Sister*. ed. Mare Koiva and Andres Kuperjanov, *Folklore*, vol. 16: 35–58. (2001). [doi:10.7592/FEJF2001.16.oak2](doi:10.7592/FEJF2001.16.oak2).
+[^ref29]: Aleksandra Wierucka, “Modern Forms of Buryat Shaman Activity on the Olkhon Island.”  *Anthropological Notebooks*, vol. 19(3), 101-119. Slovene Anthropological Society (2013): [http://www.drustvo-antropologov.si/AN/PDF/2013_3/Anthropological_Notebooks_XIX_3_Wierucka.pdf](http://www.drustvo-antropologov.si/AN/PDF/2013_3/Anthropological_Notebooks_XIX_3_Wierucka.pdf)
+[^ref30]: Homayun Sidky, "On the Antiquity of Shamanism and its Role in Human Religiosity." *Method and Theory in the Study of Religion 22*, 68-92 (2010): [https://www.researchgate.net/publication/233507259_On_the_Antiquity_of_Shamanism_and_its_Role_in_Human_Religiosity](https://www.researchgate.net/publication/233507259_On_the_Antiquity_of_Shamanism_and_its_Role_in_Human_Religiosity)
+[^ref31]: Sidky, "On the Antiquity of Shamanism and its Role in Human Religiosity."
+[^ref32]: National Park Service. "Why are Wetlands Important?" Accessed July 14 2023. [https://www.nps.gov/subjects/wetlands/why.htm#:~:text=Wetlands%20are%20highly%20productive%20and,all%20threatened%20and%20endangered%20species.](https://www.nps.gov/subjects/wetlands/why.htm#:~:text=Wetlands%20are%20highly%20productive%20and,all%20threatened%20and%20endangered%20species.)
+[^ref33]: No land was considered untouched or "wild" by indigenous people before European settlers arrived in North America. Rosalyn LaPier, lecture to Plant Humanities Summer Program, July 18, 2023. Dumbarton Oaks. See also: “Say goodbye to the words ‘Wild’ and ‘Wilderness’,” Missoula Current, August 23, 2021. [https://missoulacurrent.com/wilderness/](https://missoulacurrent.com/wilderness/)
