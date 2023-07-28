@@ -170,12 +170,18 @@
 
 [^ref1]: [The Ojibwe People’s Dictionary](https://ojibwe.lib.umn.edu/search?utf8=%E2%9C%93&q=tamarack&commit=Search&type=english). 
 [^ref2]: [The Proto-Algonquian Online Dictionary](https://protoalgonquian.atlas-ling.ca/#!/results)
-[^ref3]: Robin Wall Kimmerer, lecture, Plant Humanities Initiative, September 15, 2022. [https://www.doaks.org/events/plant-humanities/2022-plant-humanities-conference].
-[^ref
-[^ref
-[^ref
-[^ref
-[^ref
+[^ref3]: Robin Wall Kimmerer, lecture, Plant Humanities Initiative, September 15, 2022. [https://www.doaks.org/events/plant-humanities/2022-plant-humanities-conference](https://www.doaks.org/events/plant-humanities/2022-plant-humanities-conference).
+[^ref4]: Technically speaking, "tamarack" is the common name in English for only the Eastern/American larch, not any other species.
+[^ref5]: Research into the original word from one of the Algonquian languages is difficult as many languages have not been digitized through online dictionaries. The Ojibwe People’s dictionary translates a similar word, aagimaak, to “white ash,” though its direct translation of tamarack is mshkiigwaatig.  In Ojibwe, the word for “tree,” “plant,” and “wooden frame” among other meanings related to human uses of lumber, is aatigw. See [https://ojibwe.lib.umn.edu/main-entry/aagimaak-na](https://ojibwe.lib.umn.edu/main-entry/aagimaak-na) and eastern Ojibwe, [https://dictionary.nishnaabemwin.atlas-ling.ca/#/results](https://dictionary.nishnaabemwin.atlas-ling.ca/#/results). See also “Hackmatack.” Merriam-Webster.com Dictionary, Merriam-Webster, [https://www.merriam-webster.com/dictionary/hackmatack](https://www.merriam-webster.com/dictionary/hackmatack). Accessed 6 Jul. 2023.
+[^ref6]: U.S. Department of Agriculture Southern Research Station Publications, "*Larix lyalli* Parl. Alpine Larch." [https://www.srs.fs.usda.gov/pubs/misc/ag_654/volume_1/larix/lyallii.htm](https://www.srs.fs.usda.gov/pubs/misc/ag_654/volume_1/larix/lyallii.htm).
+[^ref7]: Ronan Daly, "Ectomycorrhizal symbiosis." Microbewiki/Kenyon College, 2021. [https://microbewiki.kenyon.edu/index.php/Ectomycorrhizal_symbiosis#cite_note-deeper-1](https://microbewiki.kenyon.edu/index.php/Ectomycorrhizal_symbiosis#cite_note-deeper-1)
+[^ref8]: There are many studies on the exclusion of indigenous knowledge among western science more broadly. More contemporary arguments for the benefits of indigenous knowledge to be integrated within western science are also abundant. See the National Park Service Database on Traditional Ecological Knowledge, which cites many indigenous voices (https://www.nps.gov/subjects/tek/tek-vs-western-science.htm) and Knopf, Kerstin. “The Turn Toward the Indigenous: Knowledge Systems and Practices in the Academy.” Amerikastudien / American Studies 60, no. 2/3 (2015): 179–200. [http://www.jstor.org/stable/44071904](http://www.jstor.org/stable/4407190).
+
+See also floras of north American trees discussed in this narrative: 
+Francois-Andre Michaux, The North American sylva; or A description of the forest trees of the United States, Canada, and Nova Scotia, : considered particularly in respect to their use in the arts, and their introduction into commerce; to which is added a description of the most useful of the European forest trees. Illustrated by 156 coloured copperplate engravings, by Redoute, Bessa, etc. [Philadelphia, Pennsylvania], Robert P. Smith, Philadelphia, 1853.
+
+Sargent, C. S., & Faxon, C. E. (1891). The silva of North America: a description of the trees which grow naturally in North America exclusive of Mexico. Houghton, Mifflin and Company. Vol. xii.
+
 [^ref
 [^ref
 [^ref
