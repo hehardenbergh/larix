@@ -176,20 +176,19 @@
 [^ref6]: U.S. Department of Agriculture Southern Research Station Publications, "*Larix lyalli* Parl. Alpine Larch." [https://www.srs.fs.usda.gov/pubs/misc/ag_654/volume_1/larix/lyallii.htm](https://www.srs.fs.usda.gov/pubs/misc/ag_654/volume_1/larix/lyallii.htm).
 [^ref7]: Ronan Daly, "Ectomycorrhizal symbiosis." Microbewiki/Kenyon College, 2021. [https://microbewiki.kenyon.edu/index.php/Ectomycorrhizal_symbiosis#cite_note-deeper-1](https://microbewiki.kenyon.edu/index.php/Ectomycorrhizal_symbiosis#cite_note-deeper-1)
 [^ref8]: There are many studies on the exclusion of indigenous knowledge among western science more broadly. More contemporary arguments for the benefits of indigenous knowledge to be integrated within western science are also abundant. See the National Park Service Database on Traditional Ecological Knowledge, which cites many indigenous voices (https://www.nps.gov/subjects/tek/tek-vs-western-science.htm) and Knopf, Kerstin. “The Turn Toward the Indigenous: Knowledge Systems and Practices in the Academy.” Amerikastudien / American Studies 60, no. 2/3 (2015): 179–200. [http://www.jstor.org/stable/44071904](http://www.jstor.org/stable/4407190).
-
 See also floras of north American trees discussed in this narrative: 
 Francois-Andre Michaux, The North American sylva; or A description of the forest trees of the United States, Canada, and Nova Scotia, : considered particularly in respect to their use in the arts, and their introduction into commerce; to which is added a description of the most useful of the European forest trees. Illustrated by 156 coloured copperplate engravings, by Redoute, Bessa, etc. [Philadelphia, Pennsylvania], Robert P. Smith, Philadelphia, 1853.
-
 Sargent, C. S., & Faxon, C. E. (1891). The silva of North America: a description of the trees which grow naturally in North America exclusive of Mexico. Houghton, Mifflin and Company. Vol. xii.
-
-[^ref
-[^ref
-[^ref
-[^ref
-[^ref
-[^ref
-[^ref
-[^ref
+[^ref9]: Maria Lovato, "Hull is celebrating its 375th birthday." Boston Globe, August 19 2019. [https://www.bostonglobe.com/metro/2019/08/19/hull-celebrating-its-birthday/s09q1B91rm7bBZlHezs7zN/story.html](https://www.bostonglobe.com/metro/2019/08/19/hull-celebrating-its-birthday/s09q1B91rm7bBZlHezs7zN/story.html)
+[^ref10]: Josselyn, An Account of Two Voyages to New England, 1674. 67.
+[^ref11]: Vitruvius accounted a story of Caesar assaulting a town whose towers were made of larch, the stronghold’s name was Larignum, one explanation for how the Larch tree genus received its binomial name Larix.  Marcus Vitruvius Pollio: *de Architectura*, Book II [9.15-16].
+[^ref12]: Predating Michaux, the larch tree had been identified in Europe by English botanist Philip Miller who published descriptions in *The Gardeners Dictionary* in 1768, and German-Estonian botanist Carl Frederich Ledebour, who authored *Flora Altaica* by 1833.
+[^ref13]: Originally published in French in 1810, and later in English in 1817, this taxonomy was later enhanced with the work of botanist Thomas Nuttall later in the 1850s. The text was one of the first representations of American trees west of the Mississippi River.
+Francois-Andre Michaux, The North American sylva; or A description of the forest trees of the United States, Canada, and Nova Scotia, : considered particularly in respect to their use in the arts, and their introduction into commerce; to which is added a description of the most useful of the European forest trees. Illustrated by 156 coloured copperplate engravings, by Redoute, Bessa, etc. [Philadelphia, Pennsylvania], Robert P. Smith, Philadelphia, 1853. [https://www.biodiversitylibrary.org/bibliography/118984?utm_medium=social%20media&utm_source=blogger&utm_campaign=Book%20of%20the%20Month&utm_content=Smithsonian%20Libraries](https://www.biodiversitylibrary.org/bibliography/118984?utm_medium=social%20media&utm_source=blogger&utm_campaign=Book%20of%20the%20Month&utm_content=Smithsonian%20Libraries)
+[^ref14]: John C. Inscoe, "Michaux, Francois Andre." NCpedia.org, January 1, 1991. [https://www.ncpedia.org/biography/michaux-francois-andre](https://www.ncpedia.org/biography/michaux-francois-andre). From  the *Dictionary of North Carolina Biography*, 6 volumes, edited by William S. Powell and published by University of North Carolina Press.
+[^ref15]: As historian Elizabeth Hyde defines this term, Michaux was spending time in the field in order to “know” the plants, and to use them for which the purposes are fit. But not only did he identify them, but he classified them, collected them, and contextualized species within a larger scientific community and way of thinking. He was one of the first botanists in the United States to do this, and his work would continue to be valuable for the development of French gardens and forests into the 19th century. 
+Elizabeth Hyde. 2018. “'The Neighborhood Would Be Very Interesting for a Botanist to Visit,' or André Michaux, French Botanist in the American Field." Journal of the Western Society for French History. Vol. 46. Ann Arbor, MI: Michigan Publishing, University of Michigan Library.
+[^ref16]:
 [^ref
 [^ref
 [^ref
