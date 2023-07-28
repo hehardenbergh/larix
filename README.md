@@ -8,7 +8,6 @@
        layout="vertical">
 
 ### Introduction
-
 [1] The Arnold Arboretum in Boston, Massachusetts serves as a public oasis within the Boston public park system, an educational center, and a living collection of tree species. Like a museum, the living archive of temperate woody plants live on 281 acres for the public to visit. There are currently 169 different larch trees representing six different species at the Arnold Arboretum, and some variations within the genus, including the weeping larch (Larix decidua ‘Pendula’) and the golden larch (Pseudolarix). The Arboretum has ensured that the trees have a documented [provenance](https://arboretum.harvard.edu/explorer/) and can be traced back to their place of origin as a seed, acting as a living archive and connecting them to place. The larches keep the time with their deciduous needles, a lively golden expression of fall in October, and a signal of new life in April with vibrant near-fuchsia cones and baby-green needles.
 <param ve-compare curtain
        label="Spring Needles on the Golden Larch, *Pseudolarix amabilis*"
@@ -31,13 +30,11 @@
        vid="M0-Es_VVohs" >
 
 ### Characteristics of Larch Trees
-
 [4] Larch tree species belong to the genus larix in the pine family. There are 10-15 species recognized by scientists, with some debate on the interrelated details within the genus: Larix griffithii, Siberica, Potaninii, Kaempferi, Himalaica, Mastersiana, Gmelinii, Laricina, Decidua, Occidentalis, Lyalli. Larch trees are native to North America, Europe, and Asia in the northern hemisphere and prefer colder climates, like most pines. Unlike any other pine species, however, the larch tree is deciduous, similar to other species such as maple, oak, dawn redwood, and cypress trees, shedding their soft, flaxen needles every fall. The larch stores nutrients in dormancy during winter, adapting to tough climates easily: without needles, the less likely their branches are to break due to the weight of snow and the force of wind, and the more fire-resilient they become with new shoots in the spring. They are monoecious, meaning growing both male (staminate) and female (ovulate) cones on one plant. Most larches will not produce cones until they reach 25 years of age, on average. The roots are fibrous and shallow, and wide-reaching.
 <param ve-image
        label="Distribution Map of Larix Species"
        url="The-world-wide-distribution-of-the-genus-Larix-map-from-Schmidt-1995-Species-numbers_ppm.png">
        
-
 [5] In the Pacific Northwest, long swaths of gold needles from larix occidentalis (Western larch) sweep the sunny mountainsides, depending on snowmelt to carry nutrients and water to its roots in early summer. Each species prefers distinct growing conditions that set them apart. Larix laricina (American larch, eastern larch, or tamarack) can be found in wet soil along wetlands and bogs across the Northern hemisphere in Canada and the northeast U.S. Its prominent Asian counterparts are siberica, which has inhabited the Northern taiga in Siberia, and potaninii and kaempferi found in the temperate forests in China and Japan, respectively. larix dahuria, or the Dahurian Larch, can thrive above permafrost, larix decidua is more resistant to pollutants in urban environments, and the advantageous larix Lyallii prefers rock outcrops at an elevation of 7,500 feet in the alpine tundra, higher than any other North American tree species.[^ref6] Most larch trees live for about 200 years, though the European Larch has been reported to live as long as 2,000 years. 
 <param ve-image 
        label="Snow dusts the mountains as the Western Larch glow with vibrant hues of orange. Photo: David Restivo, National Park Service"
@@ -49,7 +46,6 @@
        url="https://upload.wikimedia.org/wikipedia/commons/a/a1/USGS_image_cropped.jpg">
       
 ### Documenting the Larch in Western Botanical Texts
-
 [7] In addition to studying the species’ characteristics in situ, larch trees were documented, classified, and illustrated in many western botanical texts published between 1768 and 1900. At this time, when western botanists such as Carl Linnaeus began classifying and then taxonomizing plants in the 18th and 19th centuries, the standards of botanical studies did not include any information about traditional ecological knowledge or indigenous knowledge about plants.[^ref8] There are, however, early European traveler’s journals that mention the medicinal properties of the larch before Linnean classification became the standard. For example, John Josselyn, an English traveler and physician, recorded medicinal uses of larix laricina during his travels up the coast to Boston.  He describes the tannin that can be extracted from the trunk of the larch, knowledge that could very likely have been gleaned from interacting or trading with indigenous tribes in the same region. Josselyn’s accounts and others is just one we can trace some origin of traditional ecological knowledge of the American larch tree through the practice of western botanical science.
 <param ve-plant-specimen 
        jpid="10.5555/al.ap.specimen.p00662193">
@@ -121,7 +117,6 @@
        url="AdobeStock_Mongolian Shaman Encampment.jpeg">
 
 ### Design Considerations
-
 [19] Traditional knowledge practices teach us more about plants than medicinal and practical purposes. They teach us about our relationship to larger ecological systems. They relate us to place. Through oral traditions such as the Ojibwe legend about the tamarack, we begin to further understand the context of the species, as in, the place in which it exists.  We begin to understand the patterns of humans and plants through one species, and the symbioses between us. Through this general restructuring of living systems, our objectives for designing spaces can shift as well. It can represent those plant-people relationships by planting certain species together, making connections by storytelling through plants. The key in this description of using plants as the catalyst for the design is that it must come in collaboration with the people whose stories are being told. The design thereby becomes the agent, and the people become the protagonist. If one is to tell the story of the larch tree through a design, it depends entirely on the stories which have preceded it. 
 <param ve-image
        label="Larch, from The Park and the Forest, 1841 lithograph. Source: Art Institute of Chicago"
@@ -145,7 +140,6 @@
        url="https://upload.wikimedia.org/wikipedia/commons/9/99/TamarackSwampNNL.jpg">
 
 ### Where We Are Now 
-
 [23] Rather than glimpsing at a tamarack tree in winter and assuming it aesthetically unproductive, consider its role in the larger ecosystem in which it lives, including its role with humans. Consider the narratives that have been assigned to the tamarack, the larch, mshkiigwaatig. Perhaps its benefits as a species can further extend beyond telling time between the seasons. Perhaps it can help us connect further to a landscape that has been previously considered “wasteland,” or a people whose stories have been historically erased. Its chartreuse green in spring signals not only new growth but humility, its tough bark not only productive construction material but grit. Consider why, to you, the larch trees lose their needles every fall, and what its purpose is. What are the visual cues that can aid in understanding a species’ role within a larger ecosystem? 
 <param ve-image
        label="Tamarack (Larix laricina) sapling, Lackawanna County, along the Pinchot Trail in Pinchot State Forest"
@@ -161,13 +155,7 @@
        label=""
        url="pexel_tamarack low angle.jpg">
 
-
-
-
-
-
 ### References
-
 [^ref1]: [The Ojibwe People’s Dictionary](https://ojibwe.lib.umn.edu/search?utf8=%E2%9C%93&q=tamarack&commit=Search&type=english). 
 [^ref2]: [The Proto-Algonquian Online Dictionary](https://protoalgonquian.atlas-ling.ca/#!/results)
 [^ref3]: Robin Wall Kimmerer, lecture, Plant Humanities Initiative, September 15, 2022. [https://www.doaks.org/events/plant-humanities/2022-plant-humanities-conference](https://www.doaks.org/events/plant-humanities/2022-plant-humanities-conference).
