@@ -12,12 +12,7 @@
 <param ve-image
        label="Spring Needles on the Golden Larch, *Pseudolarix amabilis*"
        fit="cover"
-       url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pseudolarix_amabilis_02.jpg"
-       >
-<param ve-image 
-       label="Larch needles beaming gold in fall"
-       fit="cover"
-       url="https://upload.wikimedia.org/wikipedia/commons/4/4e/Larix_laricina_needles_close_up.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pseudolarix_amabilis_02.jpg">
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/2/2a/Larix_sibirica_with_golden_foliage.jpg">
 
@@ -25,9 +20,7 @@
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/6/64/Larix_laricina_15-p.bot-larix.lari-42.jpg">
 <param ve-image
-       url="https://upload.wikimedia.org/wikipedia/commons/9/9f/%D0%A0%D0%BE%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D0%BE%D0%BB%D0%B1%D1%8B_%D1%81%D1%8D%D1%80%D0%B3%D1%8D.jpg">
-<param ve-image
-       url="https://upload.wikimedia.org/wikipedia/commons/e/e3/Ernest_Henry_Wilson_in_Taiwan_mountains.jpg">
+url="https://upload.wikimedia.org/wikipedia/commons/9/9f/%D0%A0%D0%BE%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D0%BE%D0%BB%D0%B1%D1%8B_%D1%81%D1%8D%D1%80%D0%B3%D1%8D.jpg">
 
 [3] The Larch is known by many names: Tamarack in common English, Tuuru in one Siberian indigenous language called Evenki Tungus, and among the Ojibwe people, an Anishinaabe tribe native to Ontario, Quebec, and Great Lakes regions, “mashkiigwaatig”.[^ref1] In Potawatomi, “manbemesh.” In the Algonquin language, “menahekwa.”[^ref2] The Ojibwe word is very similar to the word that Potawatomi people use to refer to all plants, mshkikinek, or “the growers of the world.” According to indigenous biologist Robin Wall Kimmerer, the word also directly translates as “the medicines,” with the root mshkiki meaning “strength of the earth.”[^ref3] Some names are very specifically related to Native American worldviews of the interrelated network of plants and humans, while others such as “tamarack” were conflated and now are commonly used to refer to more than one species of larch.[^ref4] The name tamarack is said to have been derived from an Algonquian word which was mispronouned, “akemantak,” then “Hackmatack,” meant to have been translated to “wood used for snowshoes,” though when and where the first documentation of this conflation of terms occurred is unclear.[^ref5]
 <param ve-entity 
