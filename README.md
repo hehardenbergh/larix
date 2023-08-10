@@ -61,10 +61,6 @@ url="https://upload.wikimedia.org/wikipedia/commons/9/9f/%D0%A0%D0%BE%D0%B4%D0%B
        height="750">
 
 [9] The first classification of North American Larch trees came long before the establishment of the Arnold Arboretum, back to when French botanist Francois Andre Michaux and his father, Andre Michaux, traveled to the newly formed United States in 1785 with a mission of sending back tree specimens to aid in the harvesting of lumber for constructing ships for the French Navy.[^ref12] Francois Michaux recorded the first classification of North American Larches in The North American Sylva.[^ref13] Following in his father’s footsteps, Michaux became a successful botanist and traveler, documenting American plant life more generally.[^ref14] His father had built a relationship with Thomas Jefferson, which enabled him to strike a contract allowing for westward explorations into territories which were then controlled by Spain. This benefitted both Jefferson, who by sending a French naturalist was at little risk of starting conflict with the Spanish, and Andre Michaux could continue his work, or “herboriser,” which translates to English as “to botanize,” as Michaux’s father frequently described his work in his travel journals.[^ref15]
-<param ve-image
-       label="Francois-Andre Michaux"
-       center="0,1413,3688,2576"
-       url="https://upload.wikimedia.org/wikipedia/commons/6/63/F._Andrew_Michaux_%28NYPL_Hades-255839-EM12361A%29.jpg">
 <param ve-iframe 
        src="https://archive.org/details/northamericansyl03mich/page/n5/mode/2up?view=theater">
 
@@ -72,6 +68,10 @@ url="https://upload.wikimedia.org/wikipedia/commons/9/9f/%D0%A0%D0%BE%D0%B4%D0%B
 <param ve-image
        label="Illustration of Larix laricina in Michaux's taxonomy, illustrated by Pancrace Bessa."
        url="https://upload.wikimedia.org/wikipedia/commons/8/83/NAS-153_Larix_laricina.png">
+<param ve-image
+       label="Francois-Andre Michaux"
+       center="0,1413,3688,2576"
+       url="https://upload.wikimedia.org/wikipedia/commons/6/63/F._Andrew_Michaux_%28NYPL_Hades-255839-EM12361A%29.jpg">
 
 [11] Enter Charles Sprague Sargent, a leading American botanist, conservationist, and educator whose work in taxonomizing North American flora became essential to the public’s education of trees that were not native to New England. In 1873, Sargent became the first director of the Arnold Arboretum. Sargent sought to protect American forests from harvesting lumber, and worked alongside landscape architects and city planners to ensure the future of the trees at the Arboretum would be undisturbed. Sargent followed his predecessors in the rigid field of western botany to categorize and document plants for the larger purpose of expanding plant knowledge in the United States, producing his own flora, *The silva of North America: a description of the trees which grow naturally in North America exclusive of Mexico*.[^ref16] The work was quantitative, simple, fundamental, and streamlined, with minimal cultural references. It is in Sargent’s flora, however, that a footnote leads to the story of John Josselyn. With “untiring zeal and energy,” Sargent worked to introduce tree species from China, Siberia, Mongolia, Japan, Korea, Tibet, and Nepal to the U.S. through a series of expeditions led by experienced plant collectors to whom he outsourced his work.[^ref17] What survives of these expeditions are the species that make up the living collection at the arboretum.
 <param ve-image
