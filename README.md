@@ -65,9 +65,8 @@ url="https://upload.wikimedia.org/wikipedia/commons/9/9f/%D0%A0%D0%BE%D0%B4%D0%B
        label="Francois-Andre Michaux"
        center="0,1413,3688,2576"
        url="https://upload.wikimedia.org/wikipedia/commons/6/63/F._Andrew_Michaux_%28NYPL_Hades-255839-EM12361A%29.jpg">
-<param ve-image
-       label="Michaux, 'The North American Sylva'"
-       url="northamericansy1mich_0013.jpg">
+<param ve-iframe 
+       src="https://archive.org/details/northamericansyl03mich/page/n5/mode/2up?view=theater">
 
 [10] Francois Michaux continued his father’s botanical studies, spending several years documenting the trees in northeastern Unites States and Canada, resulting in a three-volume flora entitled, The North American Sylva; or, A Description of the Forest Trees of the United States, Canada, and Nova Scotia. He later dedicated his time managing farmland in France, interested in the cultivation of trees grown from the seeds he collected in North America. Both Andre and Francois Michaux’s work provided a strong base upon which American botanists were to build scientific knowledge of larch trees for the next century. 
 <param ve-image
