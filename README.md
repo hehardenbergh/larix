@@ -8,7 +8,13 @@
        layout="vertical">
 
 ### Introduction
-[1] The Arnold Arboretum in Boston, Massachusetts serves as a public oasis within the Boston public park system, an educational center, and a living collection of tree species. Like a museum, the living archive of temperate woody plants live on 281 acres for the public to visit. There are currently 169 different larch trees representing six different species at the Arnold Arboretum, and some variations within the genus, including the weeping larch (Larix decidua ‘Pendula’) and the golden larch (Pseudolarix). The Arboretum has ensured that the trees have a documented [provenance](https://arboretum.harvard.edu/explorer/) and can be traced back to their place of origin as a seed, acting as a living archive and connecting them to place. The larches keep the time with their deciduous needles, a lively golden expression of fall in October, and a signal of new life in April with vibrant near-fuchsia cones and baby-green needles.
+[1] Long ago, according to Native American legend, the Tamarack tree was once an evergreen. It painted the hillsides of the Great Lakes region a bright chartreuse green, all year round. Anne M. Dunn, a descendant and storyteller of the Ojibwe people, shares the story of how the tamarack first lost its needles in her book, Fire in the Village: New and Selected Stories.  One winter, an injured chickadee sought shelter under its branches during a fierce storm. But the Tamarack would not lend the bird any needles for warmth. For this, their Great Spirit punished the Tamarack: “Every autumn, your fine green needles will turn brown and fall off. Then you will stand naked in the forest all winter, as a reminder to others that it is always better to be kind and merciful than it is to be vain and selfish.” Through the story, the Tamarack becomes an indicator of something larger than itself—the fleeting ephemeral nature of life on earth, and a reminder of the reciprocity that living beings can nurture. 
+<param ve-entity 
+       eid="Q112731266" 
+       title="evergreen">
+<param ve-entity
+       eid="Q255872"
+       title="Ojibwe people">
 <param ve-image
        label="Spring Needles on the Golden Larch, *Pseudolarix amabilis*"
        fit="cover"
