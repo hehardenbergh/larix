@@ -177,27 +177,34 @@ url="https://upload.wikimedia.org/wikipedia/commons/b/be/Spirits_Of_Shamanism_%2
 [^ref7]: 10-15 species are recognized by scientists, with some debate on the interrelated details within the genus: Larix griffithii, Siberica, Potaninii, Kaempferi, Himalaica, Mastersiana, Gmelinii, Laricina, Decidua, Occidentalis, Lyalli.
 [^ref8]: Pine trees in general have a crop of pine cones every three to seven years on average. [https://www.duluthnewstribune.com/lifestyle/ask-a-master-gardener-weather-influences-pine-cone-production#:~:text=a%20hot%20fire.-,](https://www.duluthnewstribune.com/lifestyle/ask-a-master-gardener-weather-influences-pine-cone-production#:~:text=a%20hot%20fire.-,)
 [^ref9]: The Dahurian Larch (larix dahuria), can thrive above permafrost, the European Larch (larix decidua) is more resistant to pollutants in urban environments, and the advantageous Subalpine Larch (larix lyallii) prefers rock outcrops at an elevation of 7,500 feet in the alpine tundra, higher than any other North American tree species. [https://www.srs.fs.usda.gov/pubs/misc/ag_654/volume_1/larix/lyallii.htm](https://www.srs.fs.usda.gov/pubs/misc/ag_654/volume_1/larix/lyallii.htm)
-[^ref10]: 
-[^ref11]: 
-[^ref12]: 
-[^ref13]: 
-[^ref14]: 
-[^ref15]: 
-[^ref16]: 
-[^ref17]: 
-[^ref18]: 
-[^ref19]: 
-[^ref20]: 
-[^ref21]: 
-[^ref22]: 
-[^ref23]:
-[^ref24]:
-[^ref25]:
-[^ref26]: 
-[^ref27]:
-[^ref28]: 
-[^ref29]: 
-[^ref30]: 
-[^ref31]: 
-[^ref32]: 
-[^ref33]: 
+[^ref10]: “Ectomycorrhizal symbiosis.” [https://microbewiki.kenyon.edu/index.php/Ectomycorrhizal_symbiosis#cite_note-deeper-1](https://microbewiki.kenyon.edu/index.php/Ectomycorrhizal_symbiosis#cite_note-deeper-1)
+[^ref11]: Asa Gray, a professor of botany at Harvard and a colleague of Charles Darwin, wrote in 1859 on his idea of “biographical disjuncts,” or the fascination with why native plant species that were native to North America were so morphologically similar to those of East Asia, namely Japan. This was some of the earliest applications of Darwin’s evolutionary theory before his publication of Origin of Species. Hung, Kuang-Chi. 2010. “The Place That “Offers the Greatest Interest:” Northeast Asia and the Making of Asa Gray's Disjunction Thesis.” Harvard Papers in Botany 15 (2): 231–50. [https://doi.org/10.3100/025.015.0206](https://doi.org/10.3100/025.015.0206).
+[^ref12]: Josselyn, An Account of Two Voyages to New England, 1674. 67.
+[^ref13]: Marcus Vitruvius Pollio: de Architectura, Book II [9.15-16]. Vitruvius accounted a story of Caesar assaulting a town whose towers were made of larch, the stronghold’s name was Larignum, one explanation for how the Larch tree genus received its binomial name Larix.
+[^ref14]: There are many studies on the exclusion of indigenous knowledge among western science more broadly. More contemporary arguments for the benefits of indigenous knowledge to be integrated within western science are also abundant. See the National Park Service Database on Traditional Ecological Knowledge, which cites many indigenous voices (https://www.nps.gov/subjects/tek/tek-vs-western-science.htm) and Knopf, Kerstin. “The Turn Toward the Indigenous: Knowledge Systems and Practices in the Academy.” Amerikastudien / American Studies 60, no. 2/3 (2015): 179–200. http://www.jstor.org/stable/44071904.
+
+See also floras of north American trees discussed in this narrative: 
+Francois-Andre Michaux, The North American sylva; or A description of the forest trees of the United States, Canada, and Nova Scotia, : considered particularly in respect to their use in the arts, and their introduction into commerce; to which is added a description of the most useful of the European forest trees. Illustrated by 156 coloured copperplate engravings, by Redoute, Bessa, etc. [Philadelphia, Pennsylvania], Robert P. Smith, Philadelphia, 1853.
+Sargent, C. S., & Faxon, C. E. (1891). The silva of North America: a description of the trees which grow naturally in North America exclusive of Mexico. Houghton, Mifflin and Company. Vol. xii.
+[^ref15]: Predating Michaux, the larch tree had been identified in Europe by English botanist Philip Miller who published descriptions in The Gardeners Dictionary in 1768, and German-Estonian botanist Carl Frederich Ledebour, who authored Flora Altaica by 1833.
+[^ref16]: His father had built a relationship with Thomas Jefferson, which enabled him to travel westward to botanize, or herboriser, as Michaux’s father frequently described his work in his travel journals. As historian Elizabeth Hyde defines this term, Michaux was spending time in the field in order to “know” the plants, and to use them for which the purposes are fit. But not only did he identify them, but he classified them, collected them, and contextualized species within a larger scientific community and way of thinking. He was one of the first botanists in the United States to do this, and his work would continue to be valuable for the development of French gardens and forests into the 19th century. 
+Elizabeth Hyde. 2018. “The Neighborhood Would Be Very Interesting for a Botanist to Visit,” or André Michaux, French Botanist in the American Field. Journal of the Western Society for French History. Vol. 46. Ann Arbor, MI: Michigan Publishing, University of Michigan Library.
+[^ref17]: Originally published in French in 1810, and later in English in 1817, this flora was later enhanced with the work of botanist Thomas Nuttall later in the 1850s. The text was one of the first representations of American trees west of the Mississippi River.
+Francois-Andre Michaux, The North American sylva; or A description of the forest trees of the United States, Canada, and Nova Scotia, : considered particularly in respect to their use in the arts, and their introduction into commerce; to which is added a description of the most useful of the European forest trees. Illustrated by 156 coloured copperplate engravings, by Redoute, Bessa, etc. [Philadelphia, Pennsylvania], Robert P. Smith, Philadelphia, 1853. [https://www.biodiversitylibrary.org/bibliography/118984?utm_medium=social%20media&utm_source=blogger&utm_campaign=Book%20of%20the%20Month&utm_content=Smithsonian%20Libraries](https://www.biodiversitylibrary.org/bibliography/118984?utm_medium=social%20media&utm_source=blogger&utm_campaign=Book%20of%20the%20Month&utm_content=Smithsonian%20Libraries).
+[^ref18]: Sargent, C. S., & Faxon, C. E. (1891). The Silva of North America: a description of the trees which grow naturally in North America exclusive of Mexico. Houghton, Mifflin and Company. Vol. xii.
+[^ref19]: Alfred Rehder, “Manual of cultivated trees and shrubs hardy in North America: exclusive of the subtropical and warmer temperate regions.” Macmillan, New York. 1927. Core Historical Literature of Agriculture Collection, Cornell University.
+[^ref20]: Though Wilson is credited for the collection of the plants, it is more likely that his assistant wrote the majority of the text and Sargent later edited the two volumes.
+[^ref21]: Plantae Wilsonianae, 19.
+[^ref22]:  Ibid.
+[^ref23]: Sutton, S. B. 1970. Charles Sprague Sargent and the Arnold Arboretum. Cambridge: Harvard University Press. 220.
+[^ref24]: See the Arnold Arboretum’s Archives.
+[^ref25]: Dirt, vol. 2, 2012. 
+[^ref26]: The golden larch is one of the fifty fundamental herbs in traditional Chinese medicine. Pseudolarix amabilis - jīn qián sōng (金钱松) - is used as a dermatologic antifungal remedy.
+[^ref27]: Vancouver Museum
+[^ref28]: Kay Crossley, Orphan Warriors: Three Manchu Generations and the End of the Qing World. 1990.
+[^ref29]: Lintrop, Aado (2001). "The Great Oak and Brother-Sister". Folklore. 16: 35–58. [doi:10.7592/FEJF2001.16.oak2](doi:10.7592/FEJF2001.16.oak2).
+[^ref30]: “The Social Significance of the Shaman among the Chinese Reindeer-Evenki” in Chilson, C., & Knecht, P. (2003). Shamans in Asia. RoutledgeCurzon. 31.
+[^ref31]: Chilson & Knect, 32.
+[^ref32]: Wierucka, “Modern Forms of Buryat Shaman Activity on the Olkhon Island.” Anthropological Notebooks, XIX/3, 2013.
+[^ref33]: https://www.nps.gov/subjects/wetlands/why.htm#:~:text=Wetlands%20are%20highly%20productive%20and,all%20threatened%20and%20endangered%20species.
+[^ref34]: No land was considered untouched or wild by Native Americans before European settlers arrived. Rosalyn LaPier, lecture, July 18. Dumbarton Oaks.
