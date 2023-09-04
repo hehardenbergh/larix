@@ -9,9 +9,8 @@
 
 ### Introduction
 [1] Long ago, according to Native American legend, the Tamarack tree was once an evergreen tree. It painted the hillsides of the Great Lakes region a bright chartreuse green, all year round. Anne M. Dunn, a descendant and storyteller of the [Ojibwe people](https://pluralism.org/anishinaabe-ojibwe-ways
-), shares the story of how the tamarack first lost its needles in her book, Fire in the Village: New and Selected Stories. One winter, an injured chickadee sought shelter under its branches during a fierce storm. But the Tamarack would not lend the bird any needles for warmth. For this, their Great Spirit punished the Tamarack: “Every autumn, your fine green needles will turn brown and fall off. Then you will stand naked in the forest all winter, as a reminder to others that it is always better to be kind and merciful than it is to be vain and selfish.” Through the story, the Tamarack becomes an indicator of something larger than itself—the fleeting ephemeral nature of life on earth, and a reminder of the reciprocity that living beings can nurture. 
+), shares the story of how the tamarack first lost its needles in her book, Fire in the Village: New and Selected Stories[^ref1]. One winter, an injured chickadee sought shelter under its branches during a fierce storm. But the Tamarack would not lend the bird any needles for warmth. For this, their Great Spirit punished the Tamarack: “Every autumn, your fine green needles will turn brown and fall off. Then you will stand naked in the forest all winter, as a reminder to others that it is always better to be kind and merciful than it is to be vain and selfish.” Through the story, the Tamarack becomes an indicator of something larger than itself—the fleeting ephemeral nature of life on earth, and a reminder of the reciprocity that living beings can nurture. 
 <param ve-entity eid="Q112731266" title="evergreen">
-<param ve-entity eid="Q255872" title="Ojibwe people">
 <param ve-image
        label="Spring Needles on the Golden Larch, *Pseudolarix amabilis*"
        fit="cover"
@@ -168,7 +167,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/9/9f/%D0%A0%D0%BE%D0%B4%D0%B
        url="pexel_tamarack low angle.jpg">
 
 ### References
-[^ref1]: [The Ojibwe People’s Dictionary](https://ojibwe.lib.umn.edu/search?utf8=%E2%9C%93&q=tamarack&commit=Search&type=english). 
+[^ref1]: Anne M. Dunn’s Fire in the Village includes many short stories that are a mixture of traditional Ojibwe tales and modern storytelling, preserving a way of and a perspective of reciprocal understanding about living systems life that predates western botany. Dunn, Anne M., and Annie Humphrey. Fire in the Village: New and Selected Stories. Duluth, Minnesota: Holy Cow! Press. 2016. 14-15.
 [^ref2]: [The Proto-Algonquian Online Dictionary](https://protoalgonquian.atlas-ling.ca/#!/results)
 [^ref3]: Robin Wall Kimmerer, lecture, Plant Humanities Initiative, September 15, 2022. [https://www.doaks.org/events/plant-humanities/2022-plant-humanities-conference](https://www.doaks.org/events/plant-humanities/2022-plant-humanities-conference).
 [^ref4]: Technically speaking, "tamarack" is the common name in English for only the Eastern/American larch, not any other species.
