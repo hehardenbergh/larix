@@ -27,21 +27,21 @@ url="https://upload.wikimedia.org/wikipedia/commons/9/9f/%D0%A0%D0%BE%D0%B4%D0%B
 <param ve-video 
        vid="M0-Es_VVohs" >
 
-### Characteristics of Larch Trees
 [4] Humanity’s fascination with trees has been expressed in so many ways across time, from cosmology, to botany, and landscape design. Historical representations depict the tree as both a life form and a specimen through indigenous rituals, Traditional Ecological Knowledge, and western scientific botanical taxonomies. This story considers how indigenous stories about larch trees connect people to place. The larch trees carry many histories and beckon a curiosity for how a palimpsest of narratives can coexist for a future of landscape and plant knowledge, and the role indigenous knowledge can have in understanding living systems. 
 <param ve-entity title="Traditional Ecological Knowledge" eid="Q7832334">
 <param ve-image
        label="Distribution Map of Larix Species"
        url="larch world distribution 1.jpg">
-       
-[5] Larch tree species belong to the genus larix in the pine family. There are more than ten species native to the northern hemisphere in North America, Europe, and Asia and preferring colder climates, like most pines.  Unlike any other pine species, however, the larch tree is deciduous. The larch stores nutrients in dormancy during winter, adapting to tough climates easily: without needles, branches are less likely to break due to the weight of snow and the force of wind. They are also more fire-resilient when new shoots emerge in the spring. Larches are monoecious. Most larches will not produce cones until they reach 25 years of age, on average.  The roots are fibrous and shallow, and wide-reaching.
+
+### Characteristics & Habitat of the Larch 
+[5] Larch tree species belong to the genus larix in the pine family. There are more than ten species native to the northern hemisphere in North America, Europe, and Asia and preferring colder climates, like most pines.[^ref7] Unlike any other pine species, however, the larch tree is deciduous. The larch stores nutrients in dormancy during winter, adapting to tough climates easily: without needles, branches are less likely to break due to the weight of snow and the force of wind. They are also more fire-resilient when new shoots emerge in the spring. Larches are monoecious. Most larches will not produce cones until they reach 25 years of age, on average.[^ref8] The roots are fibrous and shallow, and wide-reaching.
 <param ve-entity title="deciduous" eid="Q1131316">
 <param ve-entity title="monoecious" eid="Q66368485">
 <param ve-image 
        label="Snow dusts the mountains as the Western Larch glow with vibrant hues of orange. Photo: David Restivo, National Park Service"
        url="https://upload.wikimedia.org/wikipedia/commons/a/ab/Typical_Fall_Day_%285114857905%29.jpg">
 
-[6] Larches always grow among other tree species, happily in pure stands and occasionally as an understory tree to Douglas firs, ponderosa pine, hemlock, redcedar, lodgepole pine, and black spruce. Their main predators are caterpillars, porcupines, and squirrels. In the summer, ospreys are commonly found nesting in the larch’s crown. Among the three North American larch species, ectomycorrhizal fungi are often found burrowing in its tree bark, microorganisms that are essential for 90% of all temperate and boreal forest trees for nutrient cycling, plant health, decomposition, and carbon sequestration.[^ref7] Like most forest trees, the larch is part of a network of living systems.
+[6] In the Pacific Northwest, long swaths of gold needles from Western Larch (larix occidentalis) cover the sunny mountainsides, depending on snowmelt to carry nutrients and water to its roots in early summer. Each species prefers distinct growing conditions that set them apart. The Tamarack, or American Larch (larix laricina), can be found in wet soil along wetlands and bogs across the Northern hemisphere in Canada and the northeast U.S. Its prominent Asian counterparts are siberica, which has inhabited the Northern taiga in Siberia, and potaninii and kaempferi found in the temperate forests in China and Japan, respectively. 
 <param ve-image
        label="Diagram of Wetland and Upland Species, USGS"
        url="https://upload.wikimedia.org/wikipedia/commons/a/a1/USGS_image_cropped.jpg">
@@ -172,8 +172,8 @@ url="https://upload.wikimedia.org/wikipedia/commons/9/9f/%D0%A0%D0%BE%D0%B4%D0%B
 [^ref4]: Technically speaking, tamarack is the common name for only the Eastern/American larch, not any other species. The name tamarack is said to have been derived from an Algonquian word which was mispronouned, “akemantak,” then “Hackmatack,” meant to have been translated to “wood used for snowshoes,” though when and where the first documentation of this conflation of terms occurred is unclear. Research into the original word from one of the Algonquian languages is difficult as many languages have not been digitized through online dictionaries. The Ojibwe People’s dictionary translates a similar word, aagimaak, to “white ash,” though its direct translation of tamarack is mshkiigwaatig. In Ojibwe, the word for “tree,” “plant,” and “wooden frame” among other meanings related to human uses of lumber, is aatigw. See [https://ojibwe.lib.umn.edu/main-entry/aagimaak-na](https://ojibwe.lib.umn.edu/main-entry/aagimaak-na) and eastern Ojibwe, [https://dictionary.nishnaabemwin.atlas-ling.ca/#/results](https://dictionary.nishnaabemwin.atlas-ling.ca/#/results). See also “Hackmatack.” Merriam-Webster.com Dictionary, Merriam-Webster, [https://www.merriam-webster.com/dictionary/hackmatack](https://www.merriam-webster.com/dictionary/hackmatack). Accessed 6 Jul. 2023.
 [^ref5]: The Potawatomi are another Anishinaabe tribe native to the Great Lakes Region like the Ojibwe. Originally one people, the Ojibwe, Ottawa and Potawatomi developed after the Anishinaabe reached Mackinac island on their migration west from the Atlantic coast.
 [^ref6]: Robin Wall Kimmerer, lecture, Plant Humanities Initiative, September 15, 2022. [https://www.doaks.org/events/plant-humanities/2022-plant-humanities-conference](https://www.doaks.org/events/plant-humanities/2022-plant-humanities-conference).
-[^ref7]: 
-[^ref8]: 
+[^ref7]: 10-15 species are recognized by scientists, with some debate on the interrelated details within the genus: Larix griffithii, Siberica, Potaninii, Kaempferi, Himalaica, Mastersiana, Gmelinii, Laricina, Decidua, Occidentalis, Lyalli.
+[^ref8]: Pine trees in general have a crop of pine cones every three to seven years on average. [https://www.duluthnewstribune.com/lifestyle/ask-a-master-gardener-weather-influences-pine-cone-production#:~:text=a%20hot%20fire.-,](https://www.duluthnewstribune.com/lifestyle/ask-a-master-gardener-weather-influences-pine-cone-production#:~:text=a%20hot%20fire.-,)
 [^ref9]: 
 [^ref10]: 
 [^ref11]: 
