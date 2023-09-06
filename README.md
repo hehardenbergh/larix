@@ -8,7 +8,8 @@
        layout="vertical">
 
 ### Introduction
-[1] Long ago, according to Native American legend, the Tamarack tree was once an evergreen tree. It painted the hillsides of the Great Lakes region a bright chartreuse green, all year round. Anne M. Dunn, a descendant and storyteller of the [Ojibwe people](https://pluralism.org/anishinaabe-ojibwe-ways), shares the story of how the tamarack first lost its needles in her book, *Fire in the Village: New and Selected Stories*.[^ref1] 
+[1] Long ago, according to Native American legend, the Tamarack tree was once evergreen. It painted the hillsides of the Great Lakes region a bright chartreuse green, all year round. Anne M. Dunn, a descendant and storyteller of the [Ojibwe people](https://pluralism.org/anishinaabe-ojibwe-ways), shares the story of how the tamarack first lost its needles in her book, *Fire in the Village: New and Selected Stories*.[^ref1] 
+<param ve-entity eid="Q112731266" title="evergreen">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2a/Larix_sibirica_with_golden_foliage.jpg">
 <param ve-image
        label="Spring Needles on the Golden Larch, *Pseudolarix amabilis*"
@@ -16,7 +17,6 @@
        url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pseudolarix_amabilis_02.jpg">
 
 One winter, an injured chickadee sought shelter under its branches during a fierce storm. But the Tamarack would not lend the bird any needles for warmth. For this, their Great Spirit punished the Tamarack: “Every autumn, your fine green needles will turn brown and fall off. Then you will stand naked in the forest all winter, as a reminder to others that it is always better to be kind and merciful than it is to be vain and selfish.” Through the story, the Tamarack becomes something larger than itself—the fleeting ephemeral nature of life on earth, and a reminder of the reciprocity that living beings can nurture in relationship with one another. 
-<param ve-entity eid="Q112731266" title="evergreen">
 <param ve-image url="pexel_tamarack low angle.jpg">
 <param ve-image url="fire in the village.jpeg"
 
