@@ -32,8 +32,8 @@ One winter, an injured chickadee sought shelter under its branches during a fier
 [4] Humanity’s fascination with trees has been expressed in so many ways across time, from cosmology, to botany, and landscape design. Historical representations depict the tree as both a life form and a specimen through indigenous rituals, Traditional Ecological Knowledge, and western scientific botanical taxonomies. This story considers how indigenous stories about larch trees connect people to place. The larch trees carry many histories and beckon a curiosity for how such a palimpsest can coexist to bolster future landscape stewardship and plant knowledge, and the role indigenous knowledge can have in understanding living systems. 
 <param ve-entity title="Traditional Ecological Knowledge" eid="Q7832334">
 <param ve-image
-       label="Distribution Map of Larix Species"
-       url="larch world distribution 1.jpg">
+       label="A Cree woman making snowshoes at Roggan River, Quebec / Femme crie fabriquant des raquettes, Roggan River (Québec)"
+       url="Cree Woman making snowshoes at Roggin River, Quebec.jpg">
 
 ### Characteristics & Habitat of the Larch 
 [5] Larch tree species belong to the genus larix in the pine family. There are more than ten species native to the northern hemisphere in North America, Europe, and Asia and preferring colder climates, like most pines.[^ref7] Unlike any other pine species, however, the larch tree is deciduous. The larch stores nutrients in dormancy during winter, adapting to tough climates easily: without needles, branches are less likely to break due to the weight of snow and the force of wind. They are also more fire-resilient when new shoots emerge in the spring. Larches are monoecious. Most larches will not produce cones until they reach 25 years of age, on average.[^ref8] The roots are fibrous and shallow, and wide-reaching.
