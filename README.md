@@ -28,7 +28,7 @@ One winter, an injured chickadee sought shelter under its branches during a fier
 <param ve-video 
        vid="M0-Es_VVohs" >
 
-[4] Humanity’s fascination with trees has been expressed in so many ways across time, from cosmology, to botany, and landscape design. Historical representations depict the tree as both a life form and a specimen through indigenous rituals, Traditional Ecological Knowledge, and western scientific botanical taxonomies. This story considers how indigenous stories about larch trees connect people to place. The larch trees carry many histories and beckon a curiosity for how a palimpsest of narratives can coexist for a future of landscape and plant knowledge, and the role indigenous knowledge can have in understanding living systems. 
+[4] Humanity’s fascination with trees has been expressed in so many ways across time, from cosmology, to botany, and landscape design. Historical representations depict the tree as both a life form and a specimen through indigenous rituals, Traditional Ecological Knowledge, and western scientific botanical taxonomies. This story considers how indigenous stories about larch trees connect people to place. The larch trees carry many histories and beckon a curiosity for how such a palimpsest can coexist to bolster future landscape stewardship and plant knowledge, and the role indigenous knowledge can have in understanding living systems. 
 <param ve-entity title="Traditional Ecological Knowledge" eid="Q7832334">
 <param ve-image
        label="Distribution Map of Larix Species"
