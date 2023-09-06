@@ -87,10 +87,8 @@ One winter, an injured chickadee sought shelter under its branches during a fier
        url="291170-4512874-cropped-scaled.jpg">
 
 [14] Wilson collected Chinese Larch (larix potaninii), noting its “decidedly handsome and striking” qualities.  He writes of the tree’s practical usefulness for valuable timber in all of western Sichuan region for construction.  As Sylvia Barry Sutton, the author of a biography on Sargent, writes, “One is thankful, finally, that it was Wilson and not Sargent who explored China, because it is unlikely that Sargent would have written about anything but the flora.”  Indeed, Wilson was interested in much more than the species itself, including cultural references, but Wilson did not include the traditional uses of the Chinese Larch, in Plantae. Rather, he preferred to take his camera along all expeditions and capture the culture of local Chinese communities via photographs. 
-<param ve-image
-       label="Source: Environmental Health Perspectives Journal, 'The Value of Traditional Ecological Knowledge for the Environmental Health Sciences and Biomedical Research'"
-       center="-62,-14,626,366"
-       url="TEK paper.gif">
+<param ve-iframe 
+       src="https://archive.org/details/northamericansyl03mich/page/n5/mode/2up?view=theater">
 
 ### Traditional Uses of the Larch
 [15] “Narratives of all kinds—stories, tales, and rumors—are the stuff of ideas—concepts and hypotheses—and the stuffing of history,” writes contemporary authors of Dirt.  But how do we cite, record, and archive an oral history, especially when those stories have been nearly eradicated through colonial and extractive forces in the history of the US? The larch tree could be one answer, as a living archive. 
