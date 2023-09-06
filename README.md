@@ -9,14 +9,15 @@
 
 ### Introduction
 [1] Long ago, according to Native American legend, the Tamarack tree was once an evergreen tree. It painted the hillsides of the Great Lakes region a bright chartreuse green, all year round. Anne M. Dunn, a descendant and storyteller of the [Ojibwe people](https://pluralism.org/anishinaabe-ojibwe-ways), shares the story of how the tamarack first lost its needles in her book, *Fire in the Village: New and Selected Stories*.[^ref1] 
-
-One winter, an injured chickadee sought shelter under its branches during a fierce storm. But the Tamarack would not lend the bird any needles for warmth. For this, their Great Spirit punished the Tamarack: “Every autumn, your fine green needles will turn brown and fall off. Then you will stand naked in the forest all winter, as a reminder to others that it is always better to be kind and merciful than it is to be vain and selfish.” Through the story, the Tamarack becomes something larger than itself—the fleeting ephemeral nature of life on earth, and a reminder of the reciprocity that living beings can nurture in relationship with one another. 
-<param ve-entity eid="Q112731266" title="evergreen">
 <param ve-image
        label="Spring Needles on the Golden Larch, *Pseudolarix amabilis*"
        fit="cover"
        url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pseudolarix_amabilis_02.jpg">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2a/Larix_sibirica_with_golden_foliage.jpg">
+
+One winter, an injured chickadee sought shelter under its branches during a fierce storm. But the Tamarack would not lend the bird any needles for warmth. For this, their Great Spirit punished the Tamarack: “Every autumn, your fine green needles will turn brown and fall off. Then you will stand naked in the forest all winter, as a reminder to others that it is always better to be kind and merciful than it is to be vain and selfish.” Through the story, the Tamarack becomes something larger than itself—the fleeting ephemeral nature of life on earth, and a reminder of the reciprocity that living beings can nurture in relationship with one another. 
+<param ve-entity eid="Q112731266" title="evergreen">
+<param ve-image url="pexel_tamarack low angle.jpg">
 
 [2] Today, the needles of a Tamarack meet the ground every autumn. Visitors note the passage of time. Its lively golden expression in October is momentary, and vibrant near-fuchsia cones and baby-green needles are a cycle of new growth in spring. This and the Tamarack’s “wind-swept sweetness” defines the character of the landscapes where it grows, places we can begin to understand more fully through indigenous knowledge, stories, and the plant’s biology.[^ref2] Plant knowledge held through the oral traditions of indigenous peoples is imperative for viewing plants as living archives rather than specimens, a shift which is necessary to make in understanding how to use plants for ecological design and restoration. With its rich roots and spiny branches covering most of New England, the ephemerality of the Tamarack could become a symbol for the conservation of America’s wetlands.
 <param ve-image
