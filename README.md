@@ -39,9 +39,8 @@ One winter, an injured chickadee sought shelter under its branches during a fier
 [5] Larch tree species belong to the genus larix in the pine family. There are more than ten species native to the northern hemisphere in North America, Europe, and Asia and preferring colder climates, like most pines.[^ref7] Unlike any other pine species, however, the larch tree is deciduous. The larch stores nutrients in dormancy during winter, adapting to tough climates easily: without needles, branches are less likely to break due to the weight of snow and the force of wind. They are also more fire-resilient when new shoots emerge in the spring. Larches are monoecious. Most larches will not produce cones until they reach 25 years of age, on average.[^ref8] The roots are fibrous and shallow, and wide-reaching.
 <param ve-entity title="deciduous" eid="Q1131316">
 <param ve-entity title="monoecious" eid="Q66368485">
-<param ve-image 
-       label="A Worldwide Distribution of Larch Trees"
-       url="larch world distribution 1.jpg">
+<param ve-image
+       url="https://upload.wikimedia.org/wikipedia/commons/1/12/Japanese_Larch_Larix_kaempferi_Cone_and_Needles_3008px.jpg">
 
 [6] Larches grow old, but not alone. Like most forest trees, the larch is part of a network of living systems. Even though most  live for about 200 years, and the European Larch has been reported to live as long as 2,000 years, almost all larches grow among other tree species. They grow happily in pure stands and occasionally as an understory tree to other conifers.  Insects and small mammals consume the tree’s bark and needles. Often, ospreys will choose to nest in the larch’s crown. Among the three North American larch species, ectomycorrhizal fungi are often found burrowing in its tree bark, microorganisms that are essential for 90% of all temperate and boreal forest trees for nutrient cycling, plant health, decomposition, and carbon sequestration. 
 <param ve-plant-specimen 
@@ -50,8 +49,7 @@ One winter, an injured chickadee sought shelter under its branches during a fier
        url="larix_specimen_smithsonian.jpg">
        
 [7] In the Pacific Northwest, long swaths of gold needles from Western Larch (larix occidentalis) cover the sunny mountainsides, depending on snowmelt to carry nutrients and water to its roots in early summer. Each species prefers distinct growing conditions that set them apart. The Tamarack, or American Larch (larix laricina), can be found in wet soil along wetlands and bogs across the Northern hemisphere in Canada and the northeast U.S. Its prominent Asian counterparts are siberica, which has inhabited the Northern taiga in Siberia, and potaninii and kaempferi found in the temperate forests in China and Japan, respectively.[^ref9]
-<param ve-image
-       url="https://upload.wikimedia.org/wikipedia/commons/1/12/Japanese_Larch_Larix_kaempferi_Cone_and_Needles_3008px.jpg">
+<param ve-image label="A Worldwide Distribution of Larch Trees" url="larch world distribution 1.jpg">
 
 [8] One need not look far in New England’s temperate forests before catching the golden cloak of larch needles in fall. In a more urban context, about 169 different larch trees representing six different species currently thrive at the Arnold Arboretum in Boston. The Arboretum has ensured that the trees have a documented  provenance](https://arboretum.harvard.edu/explorer/) and can be traced back to their place of origin as a seed, connecting them to place. Each larch on the grounds is an organism with its own life story. Some of the plants migrated thousands of years ago, within the last glacial maximum, up the eastern coast of North America.  Others were acquired by botanists from other continents just over one hundred years ago.
 <param ve-knightlab-timeline
