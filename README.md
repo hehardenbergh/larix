@@ -9,8 +9,7 @@
 
 ### Introduction
 [1] Long ago, according to Native American legend, the Tamarack tree was once evergreen. It painted the hillsides of the Great Lakes region a bright chartreuse green, all year round. Anne M. Dunn, a descendant and storyteller of the [Ojibwe people](https://pluralism.org/anishinaabe-ojibwe-ways), shares the story of how the tamarack first lost its needles in her book, *Fire in the Village: New and Selected Stories*.[^ref1]
-<param ve-entity 
-       eid="Q112731266" title="evergreen">
+<param ve-entity eid="Q112731266" title="evergreen">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2a/Larix_sibirica_with_golden_foliage.jpg">
 <param ve-image
        label="Spring Needles on the Golden Larch, *Pseudolarix amabilis*"
@@ -19,13 +18,10 @@
 
 One winter, an injured chickadee sought shelter under its branches during a fierce storm. But the Tamarack would not lend the bird any needles for warmth. For this, their Great Spirit punished the Tamarack: “Every autumn, your fine green needles will turn brown and fall off. Then you will stand naked in the forest all winter, as a reminder to others that it is always better to be kind and merciful than it is to be vain and selfish.” Through the story, the Tamarack becomes something larger than itself—the fleeting ephemeral nature of life on earth, and a reminder of the reciprocity that living beings can nurture in relationship with one another. 
 <param ve-image url="pexel_tamarack low angle.jpg">
-<param ve-image url="fire in the village.jpeg"
+<param ve-image url="fire in the village.jpeg">
 
 [2] Today, the needles of a Tamarack meet the ground every autumn. Visitors note the passage of time. Its lively golden expression in October is momentary, and vibrant near-fuchsia cones and baby-green needles are a cycle of new growth in spring. This and the Tamarack’s “wind-swept sweetness” defines the character of the landscapes where it grows, places we can begin to understand more fully through indigenous knowledge, stories, and the plant’s biology.[^ref2] Plant knowledge held through the oral traditions of indigenous peoples is imperative for viewing plants as living archives rather than specimens, a shift which is necessary to make in understanding how to use plants for ecological design and restoration. With its rich roots and spiny branches covering most of New England, the ephemerality of the Tamarack could become a symbol for the conservation of America’s wetlands.
-<param ve-image
-       url="https://upload.wikimedia.org/wikipedia/commons/6/64/Larix_laricina_15-p.bot-larix.lari-42.jpg">
-<param ve-image
-url="https://upload.wikimedia.org/wikipedia/commons/9/9f/%D0%A0%D0%BE%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D0%BE%D0%BB%D0%B1%D1%8B_%D1%81%D1%8D%D1%80%D0%B3%D1%8D.jpg">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/64/Larix_laricina_15-p.bot-larix.lari-42.jpg">
 
 [3] People refer to the larch tree (larix) with many different names in different places: Tamarack in common English, Tuuru in one Siberian indigenous dialect, and among the Ojibwe people, mshkiigwaatig.[^ref3] Some names are very specifically related to indigenous worldviews of the interrelated network of plants and humans, while others such as “tamarack” were conflated and now commonly refer to more than one species of larch.[^ref4] The Ojibwe word is somewhat similar to the word that Potawatomi people use to refer to all plants, mshkikinek, or “the growers of the world."[^ref5] According to indigenous biologist Robin Wall Kimmerer, mshkikinek also directly translates as “the medicines,” with the root mshkiki meaning “strength of the earth.”[^ref6] By understanding the indigenous names and meanings associated with plants such as the larch, it is possible to consider a species more as a living form within a diverse system of plants rather than a specimen or an object. 
 <param ve-entity title="Tamarack" eid="Q734085">
