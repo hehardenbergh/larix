@@ -115,7 +115,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/b/be/Spirits_Of_Shamanism_%2
        label=""
        url="AdobeStock_Mongolian Shaman Encampment.jpeg">
 
-[19] Shamanic traditions that center larch trees exist today, including securing ribbons to the tree trunk to symbolize a myriad of offerings for the spirits.  Thousands of Siberian larch (larix siberica) dot the shores of Lake Baikal, where the Buryat people live, another nomadic clan in the Siberian region. Their offerings can be found tied to the ancient larches, cranking their way up towards the sun in search of nutrients, and passing down knowledge from the spirits above. Colorful ribbons adorn the most sculptural, wiry branches and trunks of the leafless monuments.  
+[19] Shamanic traditions that center larch trees exist today, including securing ribbons to the tree trunk to symbolize a myriad of offerings for the spirits.  Thousands of Siberian larch (larix siberica) dot the shores of Lake Baikal, where the Buryat people live, another nomadic clan in the Siberian region. Their offerings can be found tied to the ancient larches that careen towards the sun in search of nutrients, passing down knowledge from the spirits above. Colorful ribbons adorn the most sculptural, wiry branches and trunks of the leafless monuments.  
 <param ve-image
        label="Larch, from The Park and the Forest, 1841 lithograph. Source: Art Institute of Chicago"
        url="Larch, from The Park and the Forest 1841.jpg">
