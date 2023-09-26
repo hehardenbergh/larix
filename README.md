@@ -147,8 +147,8 @@ url="https://upload.wikimedia.org/wikipedia/commons/b/be/Spirits_Of_Shamanism_%2
  
 [25] Indigenous communities and scholars have continued to practice learning and studying traditional ecological knowledge from both their ancestral lineage and from scholarly pursuits. It is apparent that plant knowledge, while the U.S. government attempted to erase it during the 19th century, is invaluable in understanding how people are connected to plants. Plants are, in Potawatomi, literally, “miishkikinek,” or, “the medicines.” Indigenous scientists, ethnobotanists, and biologists such as Robin Wall Kimmerer and Rosalyn LaPier have studied extensively how traditional ecological knowledge connects, rather than divides, the layers of human and botanical living systems. Understanding how indigenous tribes read the landscape allows for the understanding of a place through its original stewards.  Considering what the land used to look like and how it used to be cultivated is important in filling the holes of understanding the soil beneath our feet, and righting the misnomers that were created in an effort to divide people from land, rather than connect it. 
 <param ve-image
-       label=""
-       url="pexel_tamarack low angle.jpg">
+       label="Robin Wall Kimmerer's accounts of the interconnectedness of plants and people in *Braiding Sweetgrass*"
+       url="https://upload.wikimedia.org/wikipedia/commons/9/9b/Braiding_Sweetgrass_book_cover.jpg">
 
 [26] Traditional practices protect ecosystems by forging a strong connection of people with place through an understanding of plant systems and relationships. When considered alongside western botanical studies, the two sources of knowledge have very different perspectives to offer. In using texts such as Sargent’s Silva of North America to identify the larch, and in considering the spiritual meaning of the species for shaman rituals, a sense of place can be understood more meaningfully as a complex network of individuals coexisting in places that are unique to the climate, species, and rituals of that area.  
 <param ve-image
