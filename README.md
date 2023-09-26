@@ -99,8 +99,7 @@ One winter, an injured chickadee sought shelter under its branches during a fier
  
 [16] In addition to living legends as a sign of respect for traditional lifestyles and plant knowledge, the larch tree is historically known both by First Nations and traditional Chinese Medicine practitioners for its medicinal uses.  Across the Pacific, in a vastly different ecosystem within the Russian and Siberian taiga, many indigenous nomadic peoples believe that the larch tree holds great spiritual power and is the connection between their spiritual and physical worlds. Since as early as 600 A.D., the Evenki people, nomadic groups of three to ten immediate families indigenous to northern Siberia and parts of Mongolia and eastern China, held the larch tree near for both practical uses and spiritual meaning. The needles were historically used as insulation inside shelters to protect from the frozen ground in winter. The timber was also used for crafting ceremonial sculptures, such as carvings of birds that sit atop a “spirit pole” at the residence of a shaman to signify the connection between the human and spirit worlds.  The spirit pole is thought to be the point of connection between the spirits and the community.  Images: spirit pole, shaman drum illustration, shaman Alya from online oral history interview.
 <param ve-image
-       label="Altai Mountains Shaman"
-       url="https://upload.wikimedia.org/wikipedia/commons/2/2d/SB_-_Altay_shaman_with_drum.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/6/6f/Western_Larch_%28Larix_occidentalis%29_--_young_leaves.jpg">
 <param ve-image
        label="copper engraving of a Sami Shaman in Scandinavia"
        url="https://upload.wikimedia.org/wikipedia/commons/d/d1/Shaman.jpg">
@@ -117,8 +116,8 @@ url="https://upload.wikimedia.org/wikipedia/commons/b/be/Spirits_Of_Shamanism_%2
 
 [19] Shamanic traditions that center larch trees exist today, including securing ribbons to the tree trunk to symbolize a myriad of offerings for the spirits.  Thousands of Siberian larch (larix siberica) dot the shores of Lake Baikal, where the Buryat people live, another nomadic clan in the Siberian region. Their offerings can be found tied to the ancient larches that careen towards the sun in search of nutrients, passing down knowledge from the spirits above. Colorful ribbons adorn the most sculptural, wiry branches and trunks of the leafless monuments.  
 <param ve-image
-       label="Larch, from The Park and the Forest, 1841 lithograph. Source: Art Institute of Chicago"
-       url="Larch, from The Park and the Forest 1841.jpg">
+       label=""
+       url="">
 
 ### Design Considerations
 [20] Traditional knowledge practices teach us more about plants than medicinal and practical purposes. They teach us about our relationship to larger ecological systems. They relate us to place. Through oral traditions such as the Ojibwe legend about the tamarack, we begin to further understand the context of the species, as in, the place in which it exists.  We begin to understand the patterns of humans and plants through one species, and the symbioses between us. Through this general restructuring of living systems, our objectives for designing spaces can shift as well. It can represent those plant-people relationships by planting certain species together, making connections by storytelling through plants. The key in this description of using plants as the catalyst for the design is that it must come in collaboration with the people whose stories are being told. The design thereby becomes the agent, and the people become the protagonist. If one is to tell the story of the larch tree through a design, it depends entirely on the stories which have preceded it. 
@@ -130,8 +129,8 @@ url="https://upload.wikimedia.org/wikipedia/commons/b/be/Spirits_Of_Shamanism_%2
 
 [21] That the beautiful colors of larch season are catalyzed by annual decay and renewal sparks any park goer’s interest in the ephemerality of the larch tree. Aesthetically, larch species are not a popular choice for design projects, but there is a huge opportunity to consider them as a proponent for encouraging wetland habitats across New England. Larch forests usually have a dense herbaceous layer, and a somewhat full shrub layer, taking part in a rich ecosystem along riparian borders.  Additionally, in the United States wetland habitat was historically filled in to transform marshes into fields that could sustain agricultural crops. At the time of European settlement, the U.S. region (excluding Alaska) had 221 million acres of wetlands. By 1980s, 50% of these wetlands had disappeared. Generally viewed as wastelands in the 1700s, colonizers began constructing ditches to drain wetlands along the American colonies, and rerouting waterways into canals to navigate to western regions. Manipulation of American watersheds continued through the industrial revolution and increased sharply in the 1900s through government-supported rebate programs for farmers, levees, water-diversion projects, and dams. 
 <param ve-image
-       label=""
-       url="https://upload.wikimedia.org/wikipedia/commons/b/bb/Larix_laricina_15-p.bot-larix.lari-56.jpg">
+       label="Larch, from The Park and the Forest, 1841 lithograph. Source: Art Institute of Chicago"
+       url="Larch, from The Park and the Forest 1841.jpg">
 
 [22] Wetlands are incredibly biodiverse ecosystems, an important component for ecological health. They enhance water quality, control erosion, sequester carbon, and provide crucial habitat for threatened species.  The protection of American wetland regions began slowly, in the 1950s, and in the 1980s federal efforts have aided in restoring about 90,000 acres in just three years. They also create a unique sense of place with their seasonal changes, their dynamic dropping of needles, their affinity for living among other forest trees creates a density and a prickliness that makes it difficult to wander between, if they are growing closely. A larch at the marsh edge signifies abundant water in the soil, which may lead to further investigations about its context. 
 <param ve-image
