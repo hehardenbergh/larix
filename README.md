@@ -89,13 +89,13 @@ One winter, an injured chickadee sought shelter under its branches during a fier
        src="https://archive.org/details/northamericansyl03mich/page/n6/mode/2up?view=theater">
 
 ### Traditional Uses of the Larch
-[15] “Narratives of all kinds—stories, tales, and rumors—are the stuff of ideas—concepts and hypotheses—and the stuffing of history,” writes contemporary authors of Dirt.  But how do we cite, record, and archive an oral history, especially when those stories have been nearly eradicated through colonial and extractive forces in the history of the US? The larch tree could be one answer, as a living archive. 
+[15] “Narratives of all kinds—stories, tales, and rumors—are the stuff of ideas—concepts and hypotheses—and the stuffing of history,” writes contemporary authors of *Dirt*.  But how do we cite, record, and archive an oral history, especially when those stories have been nearly eradicated through colonial and extractive forces in the history of the US? The larch tree could be one answer, as a living archive. 
 <param ve-image
        label="Tamarack"
        url="It happened long ago that Tamarack was evergreen.jpg">
 <param ve-image
-       label="Map of First Nations tribes before european contact, indigenous to the Great Lakes Region"
-       url="https://upload.wikimedia.org/wikipedia/commons/1/13/Ojibwe_map_pre-contact.svg">
+       label="Anishinaabekwe (Ojibwe-vrouw), traditioneel gekleed in buckskin (hertenleer). Source: Minnesota Historical Society."
+       url="https://commons.wikimedia.org/wiki/File:Ojibwe_woman_with_baby_in_tiginaagan.png">
  
 [16] In addition to living legends as a sign of respect for traditional lifestyles and plant knowledge, the larch tree is historically known both by First Nations and traditional Chinese Medicine practitioners for its medicinal uses.  Across the Pacific, in a vastly different ecosystem within the Russian and Siberian taiga, many indigenous nomadic peoples believe that the larch tree holds great spiritual power and is the connection between their spiritual and physical worlds. Since as early as 600 A.D., the Evenki people, nomadic groups of three to ten immediate families indigenous to northern Siberia and parts of Mongolia and eastern China, held the larch tree near for both practical uses and spiritual meaning. The needles were historically used as insulation inside shelters to protect from the frozen ground in winter. The timber was also used for crafting ceremonial sculptures, such as carvings of birds that sit atop a “spirit pole” at the residence of a shaman to signify the connection between the human and spirit worlds.  The spirit pole is thought to be the point of connection between the spirits and the community.  Images: spirit pole, shaman drum illustration, shaman Alya from online oral history interview.
 <param ve-image
@@ -188,7 +188,7 @@ Francois-Andre Michaux, The North American sylva; or A description of the forest
 [^ref22]:  Ibid.
 [^ref23]: Sutton, S. B. 1970. Charles Sprague Sargent and the Arnold Arboretum. Cambridge: Harvard University Press. 220.
 [^ref24]: See the Arnold Arboretum’s Archives.
-[^ref25]: Dirt, vol. 2, 2012. 
+[^ref25]: M. Born, H. M. Furján, L. Jencks, P.M. & Crosby. Dirt. Vol. 2. PennDesign; MIT Press. 2012.
 [^ref26]: The golden larch is one of the fifty fundamental herbs in traditional Chinese medicine. Pseudolarix amabilis - jīn qián sōng (金钱松) - is used as a dermatologic antifungal remedy.
 [^ref27]: Vancouver Museum
 [^ref28]: Kay Crossley, Orphan Warriors: Three Manchu Generations and the End of the Qing World. 1990.
