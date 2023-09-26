@@ -151,6 +151,9 @@ url="https://upload.wikimedia.org/wikipedia/commons/b/be/Spirits_Of_Shamanism_%2
        url="pexel_tamarack low angle.jpg">
 
 [26] Traditional practices protect ecosystems by forging a strong connection of people with place through an understanding of plant systems and relationships. When considered alongside western botanical studies, the two sources of knowledge have very different perspectives to offer. In using texts such as Sargent’s Silva of North America to identify the larch, and in considering the spiritual meaning of the species for shaman rituals, a sense of place can be understood more meaningfully as a complex network of individuals coexisting in places that are unique to the climate, species, and rituals of that area.  
+<param ve-image
+       label=""
+       url="belton_hills_middle_fork_0.jpg">
 
 ### References
 
