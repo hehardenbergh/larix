@@ -115,9 +115,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/b/be/Spirits_Of_Shamanism_%2
        url="AdobeStock_Mongolian Shaman Encampment.jpeg">
 
 [19] Shamanic traditions that center larch trees exist today, including securing ribbons to the tree trunk to symbolize a myriad of offerings for the spirits.  Thousands of Siberian larch (larix siberica) dot the shores of Lake Baikal, where the Buryat people live, another nomadic clan in the Siberian region. Their offerings can be found tied to the ancient larches that careen towards the sun in search of nutrients, passing down knowledge from the spirits above. Colorful ribbons adorn the most sculptural, wiry branches and trunks of the leafless monuments.  
-<param ve-image
-       label=""
-       url="">
+<param ve-image       url="https://upload.wikimedia.org/wikipedia/commons/9/9f/%D0%A0%D0%BE%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D0%BE%D0%BB%D0%B1%D1%8B_%D1%81%D1%8D%D1%80%D0%B3%D1%8D.jpg">
 
 ### Design Considerations
 [20] Traditional knowledge practices teach us more about plants than medicinal and practical purposes. They teach us about our relationship to larger ecological systems. They relate us to place. Through oral traditions such as the Ojibwe legend about the tamarack, we begin to further understand the context of the species, as in, the place in which it exists.  We begin to understand the patterns of humans and plants through one species, and the symbioses between us. Through this general restructuring of living systems, our objectives for designing spaces can shift as well. It can represent those plant-people relationships by planting certain species together, making connections by storytelling through plants. The key in this description of using plants as the catalyst for the design is that it must come in collaboration with the people whose stories are being told. The design thereby becomes the agent, and the people become the protagonist. If one is to tell the story of the larch tree through a design, it depends entirely on the stories which have preceded it. 
