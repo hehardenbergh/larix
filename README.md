@@ -91,18 +91,12 @@ One winter, an injured chickadee sought shelter under its branches during a fier
 ### Traditional Uses of the Larch
 [15] “Narratives of all kinds—stories, tales, and rumors—are the stuff of ideas—concepts and hypotheses—and the stuffing of history,” writes contemporary authors of *Dirt*.  But how do we cite, record, and archive an oral history, especially when those stories have been nearly eradicated through colonial and extractive forces in the history of the US? The larch tree could be one answer, as a living archive. 
 <param ve-image
-       label="Tamarack"
-       url="It happened long ago that Tamarack was evergreen.jpg">
-<param ve-image
        label="Anishinaabekwe (Ojibwe-vrouw), traditioneel gekleed in buckskin (hertenleer). Source: Minnesota Historical Society."
        url="https://commons.wikimedia.org/wiki/File:Ojibwe_woman_with_baby_in_tiginaagan.png">
  
 [16] In addition to living legends as a sign of respect for traditional lifestyles and plant knowledge, the larch tree is historically known both by First Nations and traditional Chinese Medicine practitioners for its medicinal uses.  Across the Pacific, in a vastly different ecosystem within the Russian and Siberian taiga, many indigenous nomadic peoples believe that the larch tree holds great spiritual power and is the connection between their spiritual and physical worlds. Since as early as 600 A.D., the Evenki people, nomadic groups of three to ten immediate families indigenous to northern Siberia and parts of Mongolia and eastern China, held the larch tree near for both practical uses and spiritual meaning. The needles were historically used as insulation inside shelters to protect from the frozen ground in winter. The timber was also used for crafting ceremonial sculptures, such as carvings of birds that sit atop a “spirit pole” at the residence of a shaman to signify the connection between the human and spirit worlds.  The spirit pole is thought to be the point of connection between the spirits and the community.
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/6/6f/Western_Larch_%28Larix_occidentalis%29_--_young_leaves.jpg">
-<param ve-image
-       label="copper engraving of a Sami Shaman in Scandinavia"
-       url="https://upload.wikimedia.org/wikipedia/commons/d/d1/Shaman.jpg">
 
 [17] Tuuru translates to “World Tree” in Evenki Tungus language. The Evenki people believe that Tuuru connected their three worlds: the upper world where deities and spirits of nature resided, the middle world inhabited by humans, and the lower world, home to spirits of the dead. Shamans in Siberia believe that the tree is their bridge that connects them to the three worlds.  Perhaps the larch is chosen for its grittiness, its strength to survive the harsh taiga, or for its fire-resistant bark. While it is not clear why Evenki Shamans choose the larch tree, this practice of selecting a tree as symbolic of worldviews is common among many shamanic religions. 
 <param ve-image
@@ -137,8 +131,8 @@ url="https://upload.wikimedia.org/wikipedia/commons/b/be/Spirits_Of_Shamanism_%2
 
 [23] The larch tree could be the poster child of wetland restoration given its ephemeral qualities and its affinity to live among a wide variety of other plants. Its associations with soil, wind, water, bugs, and people are at the core of understanding how a wetland ecosystem can function and thrive properly. In an effort to conserve marshes along the eastern coast and great lakes regions of the United States, larch species could be carefully considered for a role in drawing attention towards the significance and history of these landscapes.
 <param ve-image
-       label="Tamarack (Larix laricina) sapling, Lackawanna County, along the Pinchot Trail in Pinchot State Forest"
-       url="https://upload.wikimedia.org/wikipedia/commons/6/67/Tamarack_Swamp_%282%29_%289460385629%29.jpg">
+       label="The Tamarack: A Stabilizer for Ecological Communities"
+       url="Hardenbergh_wetland sketch-02.png">
 
 ### Where We Are Now
 [24] Rather than glimpsing at a tamarack tree in winter and assuming it aesthetically unproductive, consider its role in the larger ecosystem in which it lives, including its role with humans. Consider the narratives that have been assigned to the tamarack, the larch, mshkiigwaatig. Perhaps its benefits as a species can further extend beyond telling time between the seasons. Perhaps it can help us connect further to a landscape that has been previously considered “wasteland,” or a people whose stories have been historically erased. Its chartreuse green in spring signals not only new growth but humility, its tough bark not only productive construction material but grit. Consider why, to you, the larch trees lose their needles every fall, and what its purpose is. What are the visual cues that can aid in understanding a species’ role within a larger ecosystem? 
@@ -152,8 +146,8 @@ url="https://upload.wikimedia.org/wikipedia/commons/b/be/Spirits_Of_Shamanism_%2
 
 [26] Traditional practices protect ecosystems by forging a strong connection of people with place through an understanding of plant systems and relationships. When considered alongside western botanical studies, the two sources of knowledge have very different perspectives to offer. In using texts such as Sargent’s Silva of North America to identify the larch, and in considering the spiritual meaning of the species for shaman rituals, a sense of place can be understood more meaningfully as a complex network of individuals coexisting in places that are unique to the climate, species, and rituals of that area.  
 <param ve-image
-       label=""
-       url="belton_hills_middle_fork_0.jpg">
+       label="Tamarack (Larix laricina) sapling, Lackawanna County, along the Pinchot Trail in Pinchot State Forest"
+       url="https://upload.wikimedia.org/wikipedia/commons/6/67/Tamarack_Swamp_%282%29_%289460385629%29.jpg"
 
 ### References
 
