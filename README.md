@@ -12,7 +12,7 @@
 <param ve-entity eid="Q112731266" title="evergreen">
 <param ve-image fit="cover" url="https://upload.wikimedia.org/wikipedia/commons/2/2a/Larix_sibirica_with_golden_foliage.jpg">
 <param ve-image label="Spring Needles on the Golden Larch, *Pseudolarix amabilis*" fit="cover" url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pseudolarix_amabilis_02.jpg">
-<param ve-image url="fire in the village.jpeg">
+<param ve-image center="-88,11,444,367" url="fire in the village.jpeg">
 
 One winter, an injured chickadee sought shelter under its branches during a fierce storm. But the Tamarack would not lend the bird any needles for warmth. For this, their Great Spirit punished the Tamarack: “Every autumn, your fine green needles will turn brown and fall off. Then you will stand naked in the forest all winter, as a reminder to others that it is always better to be kind and merciful than it is to be vain and selfish.” Through the story, the Tamarack becomes something larger than itself—the fleeting ephemeral nature of life on earth, and a reminder of the reciprocity that living beings can nurture in relationship with one another. 
 <param ve-image url="pexel_tamarack low angle.jpg">
