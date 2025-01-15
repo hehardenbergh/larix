@@ -1,7 +1,7 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config 
-       title="What We Know Now: Tracing the Tamarack Tree"
+       title="What We Know Now: Tracing the Tamarack"
        source-image="https://upload.wikimedia.org/wikipedia/commons/4/4b/Crowns_of_Siberian_larch_in_winter.jpg"
        banner="https://upload.wikimedia.org/wikipedia/commons/4/4b/Crowns_of_Siberian_larch_in_winter.jpg"
        author="Hannah Hardenbergh"
@@ -20,14 +20,14 @@ The needles of each Tamarack meet the ground every autumn, golden and crisp, mar
 The Tamarack tree species belongs to the genus Larix in western botanical nomenclature and is known by many names across different regions. In North America, the common name Tamarack refers to the American Larch (Larix laricina), also known as the Eastern Larch and Hackmatack. The other ten widely accepted species in the same genus are generally referred to as Larch trees. This narrative focuses on the characteristics of the Tamarack, while also introducing other Larch species to compare their significances within indigenous cultures across different regions globally. Among the Ojibwe Nation in the Great Lakes Region, the Tamarack is called mshkiigwaatig in the Ojibwa language, among other names.  Some of these names specifically relate to Indigenous philosophies about the interconnectedness of humans and plants, such as the Siberian Indigenous dialect name “Tuuru” for the Siberian Larch (Larix sibirica), while others such as “tamarack” are adopted from misinterpretations of indigenous words in English from colonial times, and as a result carry little to no holistic meaning in English.  The Ojibwe word is similar to the word that Potawatomi people use to refer to all plants, mshkikinek, or “the growers of the world.”  According to ecologist, ethnobotanist, and Indigenous scholar Robin Wall Kimmerer, mshkikinek directly translates as “medicines,” with the root mshkiki meaning “strength of the earth.”  
 <param ve-image label="Larch Forest, Riverside, in the Pacific Northwest" url="belton_hills_middle_fork_0.jpg">
 
-Humanity’s fascination with trees has been expressed in many ways across time, from cosmology to botany to landscape design. Trees are often treated as both living organisms and botanical specimens through Indigenous rituals, traditional ecological knowledge, and Western scientific taxonomies.  The legend of the Tamarack and the Chickadee illustrates how Indigenous storytelling can connect people to place through plant species. Larch trees are featured in many histories, inspiring us to think of how a palimpsest of narratives can inform the future of landscape and plant knowledge, and what role Indigenous knowledge can play in understanding living systems. 
+Humanity’s fascination with trees has been expressed in many ways across time, from cosmology to botany to landscape design. Trees are often treated as both living organisms and botanical specimens through Indigenous rituals, traditional ecological knowledge, and Western scientific taxonomies.  The legend of the Tamarack and the Chickadee illustrates how Indigenous storytelling can connect people to place through plant species. Tamarack trees and other Larix species are featured in many histories, inspiring us to think of how a palimpsest of narratives can inform the future of landscape and plant knowledge, and what role Indigenous knowledge can play in understanding living systems. 
 <param ve-entity title="Tamarack" eid="Q734085">
 <param ve-video 
        vid="M0-Es_VVohs">
 
 
 ### Characteristics and Habitat
-Larch tree species belong to the genus Larix in the pine family. There are more than ten species native to the northern hemisphere in North America, Europe, and Asia, and like most pine trees, they prefer colder climates.  Unlike any other pine species, however, the larch is deciduous. It stores nutrients in dormancy during winter, adapting to tough climates easily: without needles, branches are less likely to break from the weight of snow and the force of wind. It is also more fire resilient when new shoots emerge in the spring. Its roots are fibrous, shallow, and wide-reaching. The larch is monoecious--having male and female cones. On average, most tamaracks don’t produce cones until they are twenty-five years old.  
+Larch trees belong to the pine family and are native to the northern hemisphere in North America, Europe, and Asia.   Like most pine trees, they prefer colder climates. Unlike any other pine species, however, the larch is deciduous. It stores nutrients in dormancy during winter, adapting to tough climates easily: without needles, branches are less likely to break from the weight of snow and the force of wind. It is also more fire resilient when new shoots emerge in the spring. Its roots are fibrous, shallow, and wide-reaching. The larch is monoecious--having male and female cones. On average, most tamaracks don’t produce cones until they are twenty-five years old.  
 <param ve-entity title="deciduous" eid="Q1131316">
 <param ve-entity title="monoecious" eid="Q66368485">
 
