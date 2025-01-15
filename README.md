@@ -18,8 +18,8 @@ As Ojibwe author Anne M. Dunn writes in her book, *Fire in the Village: New and 
 The needles of each Tamarack meet the ground every autumn, golden and crisp, marking the passage of time. Its lively expression in October is brief and wondrous. Vibrant fuchsia cones and baby-green needles are part of the cycle of new growth in spring. This and the Tamarack’s “wind-swept sweetness” define the character of the landscapes where it grows.[^ref2] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pseudolarix_amabilis_02.jpg"
        fit="cover" 
-       label="Spring Needles on the Golden Larch, *Pseudolarix amabilis*"
-       title="baby-green needles" fit="4063,2284,1128,931">
+       label="Spring Needles on the Golden Larch, *Pseudolarix amabilis*">
+<param ve-entity title="baby-green needles" fit="4063,2284,1128,931">
 
 These become places we can begin to understand more fully through [Traditional Ecological Knowledge](https://blog.ucsusa.org/science-blogger/the-importance-of-traditional-ecological-knowledge-tek-when-examining-climate-change/) (TEK) and stories in addition to the plant’s biology. Plant knowledge held through the oral traditions of Indigenous peoples compels us to view plants as living archives rather than simply specimens, a shift in perspective that is necessary to understand how to use plants for ecological design and restoration. With its rich roots and spiny branches covering most of New England, the tree’s seasonal qualities could become a symbol for the conservation of America’s wetlands.
 <param ve-image label="View of a forested Larch tree, from below" url="pexel_tamarack low angle.jpg">
