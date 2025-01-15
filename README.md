@@ -8,8 +8,8 @@
        layout="vertical">
 
 ### Introduction
-One [Ojibwe](https://pluralism.org/anishinaabe-ojibwe-ways) legend tells of a lone chickadee who sought shelter under a Tamarack tree in winter. During a fierce storm, the chickadee was cold, trapped, and alone. It asked the Tamarack tree to lower its branches for warmth, but the tree refused. For this, the Great Spirit, ==Wenabozho=={Q833857}, punished the Tamarack. 
-<param ve-entity eid="Q112731266" title="evergreen">
+One [Ojibwe](https://pluralism.org/anishinaabe-ojibwe-ways) legend tells of a lone chickadee who sought shelter under a Tamarack tree in winter. During a fierce storm, the chickadee was cold, trapped, and alone. It asked the Tamarack tree to lower its branches for warmth, but the tree refused. For this, the Great Spirit, Wenabozho, punished the Tamarack. 
+<param ve-entity eid="Q833857" title="Wenabozho">
 <param ve-image fit="cover" url="https://upload.wikimedia.org/wikipedia/commons/2/2a/Larix_sibirica_with_golden_foliage.jpg">
 <param ve-image label="Spring Needles on the Golden Larch, *Pseudolarix amabilis*" fit="cover" url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pseudolarix_amabilis_02.jpg">
 
