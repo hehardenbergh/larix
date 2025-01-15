@@ -3,15 +3,9 @@
 <param ve-config 
        title="What We Know Now: Tracing the Tamarack"
        source-image="https://upload.wikimedia.org/wikipedia/commons/4/4b/Crowns_of_Siberian_larch_in_winter.jpg"
-       banner="https://upload.wikimedia.org/wikipedia/commons/4/4b/Crowns_of_Siberian_larch_in_winter.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/4/4b/Crowns_of_Siberian_larch_in_winter.jpg" height=100
        author="Hannah Hardenbergh"
        layout="vertical">
-
-# Bedroom in Arles
-
-Van Gogh's own title for this composition was simply **The Bedroom** (French: _La Chambre à coucher_). There are three authentic versions described in his letters, easily distinguishable from one another by the pictures on the wall to the right.[^1]
-
-**Bedroom in Arles** (French: _La Chambre à Arles_; Dutch: _Slaapkamer te Arles_) is the title given to each of three similar paintings by 19th-century Dutch Post-Impressionist painter ==Vincent van Gogh=={description="A text only popover"}.
 
 ### Introduction
 One [Ojibwe](https://pluralism.org/anishinaabe-ojibwe-ways) legend tells of a lone chickadee who sought shelter under a Tamarack tree in winter. During a fierce storm, the chickadee was cold, trapped, and alone. It asked the Tamarack tree to lower its branches for warmth, but the tree refused. For this, the Great Spirit, Wenabozho, punished the Tamarack. 
