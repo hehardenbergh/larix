@@ -100,8 +100,7 @@ Sargent’s interest in Asian species was primarily scientific, though he also c
        url="291170-4512874-cropped-scaled.jpg">
 
 Wilson referred to Chinese Larch *(Larix potaninii)*, noting its “decidedly handsome and striking” qualities.[^ref21] He writes of the tree’s practical use for construction as a valuable timber in the western Sichuan region.[^ref22] As Sylvia Barry Sutton, the author of Sargent’s biography, writes: “One is thankful, finally, that it was Wilson and not Sargent who explored China, because it is unlikely that Sargent would have written about anything but the flora.”[^ref23] Indeed, Wilson was interested in much more than the species itself, although he did not mention any of the traditional uses of the Chinese Larch. 
-<param ve-iframe 
-       src="https://archive.org/details/northamericansyl03mich/page/n6/mode/2up?view=theater">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/db/Pseudolarix_kaempferi_4zz.jpg" label="Chinese Larch, 'Pseudolarix kaempferi.'">
 
 ### Traditional Uses of the Tamarack
 “Narratives of all kinds—stories, tales, and rumors—are the stuff of ideas—concepts and hypotheses—and the stuffing of history,” write the authors of [*Dirt*](https://mitpress.mit.edu/9780262516921/dirt/).[^ref24] But how do we cite, record, and archive oral histories, especially when such stories have been nearly eradicated through colonial and extractive forces? The Tamarack tree, as a living archive, could be one answer.
