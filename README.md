@@ -133,7 +133,7 @@ Traditional practices ultimately protect ecosystems by forging a strong connecti
        url="https://upload.wikimedia.org/wikipedia/commons/9/9b/Braiding_Sweetgrass_book_cover.jpg">
 
 If we consider the Tamarack as a wetland stabilizer that aids in phytoremediation, associating the tree with values of reciprocity can further generate values and respect for our wetland ecologies, which can catalyze efforts to restore and preserve this important landscape typology. When considered alongside Western botanical studies, the two sources of knowledge have very different perspectives to offer. In using texts such as Charles Sargent’s *Silva of North America* to identify the Tamarack, and in considering the spiritual meaning of the species for shaman rituals, a sense of place can be understood more meaningfully as a complex network of individuals coexisting in places that are unique to the climate, species, and rituals of that area. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4c/Mechanisms_involved_in_phytoremediation.png">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4c/Mechanisms_involved_in_phytoremediation.png" fit="77,-257,3594,3095">
 
 
 ### Design Considerations
