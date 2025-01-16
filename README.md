@@ -49,7 +49,7 @@ Humanity’s fascination with trees has been expressed in many ways across time,
 Larch trees belong to the pine family and are native to the northern hemisphere in North America, Europe, and Asia.[^ref8] Like most pine trees, they prefer colder climates. Unlike any other pine species, however, the Larch is deciduous. It stores nutrients in dormancy during winter, adapting to tough climates easily: without needles, branches are less likely to break from the weight of snow and the force of wind. It is also more fire resilient when new shoots emerge in the spring. Its roots are fibrous, shallow, and wide-reaching. The Larch is monoecious--having male and female cones. On average, most tamaracks don’t produce cones until they are twenty-five years old.[^ref9]
 <param ve-entity title="deciduous" eid="Q1131316">
 <param ve-entity title="monoecious" eid="Q66368485">
-<param ve-image label="Small wetland at the headwaters of Doe Run, a mountain stream in Loyalsock State Forest, Lycoming County Pennsylvania. Tamarack trees line the edge of the water." url="1000pxmountainbog.jpg">
+<param ve-image label="Small wetland at the headwaters of Doe Run, a mountain stream in Loyalsock State Forest, Lycoming County Pennsylvania. Tamarack trees line the edge of the water." url="1000pxmountainbog.jpg" fit="240,0,761,642">
 
 Each tamarack species prefers distinct growing conditions. In the Pacific Northwest, long swaths of gold needles from Western Larch *(Larix occidentalis)* cover the sunny mountainsides, depending on snowmelt to carry nutrients and water to its roots in early summer. The Tamarack, or American Larch *(Larix laricina)*, can be found in wet soil along wetlands and bogs across the Northern Hemisphere in Canada and the northeastern United States. Its prominent Asian counterparts are *Larix siberica*, which has inhabited the Northern taiga in Siberia, and *potaninii* and *kaempferi*, found in the temperate forests in China and Japan, respectively.[^ref10]
 <param ve-plant-specimen 
@@ -59,7 +59,7 @@ Each tamarack species prefers distinct growing conditions. In the Pacific Northw
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/12/Japanese_Larch_Larix_kaempferi_Cone_and_Needles_3008px.jpg">
 
 Larches grow old, but not alone. Like most forest trees, the Larch is part of a network of living systems. Even though most live for about 200 years, and the European Larch has been reported to live as long as 2,000 years, almost all grow among other tree species. They often grow in pure stands and occasionally as an understory tree to other conifers. Insects and small mammals consume the tree’s bark and needles. Often, ospreys will choose to nest in its crown. 
-<param ve-compare url="larchnoneedles.jpg" fit="cover">
+<param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/f/fb/Hollihaka_Park_Oulu_20120115.JPG" fit="cover">
 <param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/e/eb/Larix_decidua_Modrzew_europejski_2023-06-25_01.jpg" fit="cover">
 
 Among the three North American species, ectomycorrhizal fungi are often found burrowing in their tree roots; these microorganisms are essential for 90 percent of all temperate and boreal forest trees for nutrient cycling, plant health, decomposition, and carbon sequestration.[^ref11]
