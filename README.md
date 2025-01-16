@@ -20,7 +20,7 @@ As Ojibwe author Anne M. Dunn writes in her book, *Fire in the Village: New and 
 
 In the telling of the story, the Tamarack becomes a signifier of something larger than itself, the ephemeral nature of life on earth, and the reciprocity that living beings should practice and nurture.
 <param ve-image fit="-88,34,444,366" url="fire in the village.jpeg">
-     
+
 The needles of each Tamarack meet the ground every autumn, golden and crisp, marking the passage of time. Its lively expression in October is brief and wondrous. <span data-mouseover-image-zoomto="377,276,231,191">Vibrant fuchsia cones</span> and <span data-mouseover-image-zoomto="257,13,332,274">baby-green needles</span> are part of the cycle of new growth in spring. This and the Tamarack’s “wind-swept sweetness” define the character of the landscapes where it grows.[^ref2] 
 <param ve-image url="coneandneedles.jpg"
        fit="cover"
@@ -66,7 +66,6 @@ Among the three North American species, ectomycorrhizal fungi are often found bu
 One need not look far into New England’s temperate forests in the fall before seeing the golden cloak of Tamarack needles. In an urban context, 169 Larches representing six species, including the Tamarack, currently thrive at the Arnold Arboretum in Boston. The Arboretum has documented each of the trees’ provenance, tracing their place of origin as a seed and telling their life story. Many of the trees arrived as seeds, shipped from other continents in the 1800s to exhibit *Larix’s* diversity of species. Botanists were confident these non-native species would thrive alongside the Tamarack in the New England climate due to similar growing conditions in east Asia.[^ref12]
 <param ve-image label="A Worldwide Distribution of Larch Trees" url="larch world distribution 1.jpg">
 
-
 ### Western Botanical Documentations of Tamarack
 Early European travelers’ accounts sometimes referred to the medicinal properties of the Tamarack in North America before Linnean classification became the standard in the eighteenth century. John Josselyn, an English traveler and physician, recorded medicinal uses of the tree while recording species of plants in America. “The Turpentine that issueth from the Cones of the Larch-tree ... is singularly good to heal wounds, and to draw out the malice of any Ach,” recalls Josselyn in his travel record, *An Account of two Voyages to New England*, in 1674.[^ref13] “Groundsels made of Larch-tree will never rot … Oh, that my Countreymen might obtain that blessing with their buildings,” he writes of the benefits of using the tree for timber.[^ref14] Josselyn’s account also preserves some Indigenous knowledge of North American trees recorded at the time by white settlers.
 <param ve-knightlab-timeline
@@ -102,7 +101,6 @@ Wilson referred to Chinese Larch *(Larix potaninii)*, noting its “decidedly ha
 <param ve-iframe 
        src="https://archive.org/details/northamericansyl03mich/page/n6/mode/2up?view=theater">
 
-
 ### Traditional Uses of the Tamarack
 “Narratives of all kinds—stories, tales, and rumors—are the stuff of ideas—concepts and hypotheses—and the stuffing of history,” write the authors of [*Dirt*](https://mitpress.mit.edu/9780262516921/dirt/).[^ref24] But how do we cite, record, and archive oral histories, especially when such stories have been nearly eradicated through colonial and extractive forces? The Tamarack tree, as a living archive, could be one answer.
 <param ve-image
@@ -135,7 +133,6 @@ Traditional practices ultimately protect ecosystems by forging a strong connecti
 If we consider the Tamarack as a wetland stabilizer that aids in phytoremediation, associating the tree with values of reciprocity can further generate values and respect for our wetland ecologies, which can catalyze efforts to restore and preserve this important landscape typology. When considered alongside Western botanical studies, the two sources of knowledge have very different perspectives to offer. In using texts such as Charles Sargent’s *Silva of North America* to identify the Tamarack, and in considering the spiritual meaning of the species for shaman rituals, a sense of place can be understood more meaningfully as a complex network of individuals coexisting in places that are unique to the climate, species, and rituals of that area. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4c/Mechanisms_involved_in_phytoremediation.png" fit="77,-257,3594,3095">
 
-
 ### Design Considerations
 Traditional knowledge practices teach us more about plants than just their medicinal and other practical uses. They teach us about our **relationship with larger ecological systems**. They relate us to place. Through oral traditions like the Ojibwe legend about the tamarack, we begin to understand the spiritual meaning of the species, and the place that it occupies in the worldview of Indigenous communities. Through a single species, we begin to understand the symbiotic patterns of the relationship between humans and plants. This deeper understanding can also shift our perspective on the meaning and purpose of designed spaces. 
 <param ve-video vid="eH5zJxQETl4" play=189>
@@ -165,7 +162,6 @@ Due to these characteristics, the Tamarack could be the poster child of wetland 
        url="Hardenbergh_wetland sketch-02.png">
 
 ### References
-
 [^ref1]: Anne M. Dunn is a storyteller and descendant of the Ojibwe people. Her book, Fire in the Village, includes many short stories that are a mixture of traditional Ojibwe tales and modern storytelling, preserving an Indigenous perspective on the reciprocal understanding among living systems that predates Western botany. Dunn, Anne M., and Humphrey. A. Fire in the Village: New and Selected Stories. (Duluth, Minnesota: Holy Cow! Press, 2016), 14–15. 
 The story is also recorded online by KKWE Niijii Radio, a community-based radio station located in White Earth, Minnesota, aimed to revitalize Native American cultures and traditions: https://beta.prx.org/stories/110294.
 [^ref2]: Gertrude Jekyll. Wood and Garden: Notes and Thoughts, Practical and Critical, of a Working Amateur. Second Edition. (London: Longmans, Green, and Co., 1899). 
@@ -174,19 +170,18 @@ The story is also recorded online by KKWE Niijii Radio, a community-based radio 
 [^ref5]: Like the Ojibwe, the Potawatomi are a Anishinaabe tribe native to the Great Lakes Region. Originally one people, the Ojibwe, Ottawa, and Potawatomi split after the Anishinaabe reached Mackinac Island on their migration west from the Atlantic coast.
 [^ref6]: Robin Wall Kimmerer, lecture series, “Roundtable on Plant Humanities” with Felix Driver, William Friedman, Jessica B. Harris, and Londa Schiebinger. Moderated by Yota Batsaki. Plant Humanities Conference at Dumbarton Oaks Research Institute, Washington, D.C., September 15, 2022. https://www.doaks.org/events/plant-humanities/2022-plant-humanities-conference.
 [^ref7]: In Sacred Ecology, Fikret Berkes suggests that “the study of traditional ecological knowledge begins with the study of species identifications and classification (ethnobiology) and proceeds to considerations of peoples’ understandings of ecological processes and their relationships with the environment (human ecology).” To Berkes, traditional ecological knowledge implies three main components: local-based knowledge of the environment, practices such as agriculture, and beliefs defining people’s interactions with nature. Berkes, Fikret. Sacred Ecology: Traditional Ecological Knowledge and Resource Management. (Philadelphia, PA: Taylor & Francis, 1999), 6.
-
 [^ref8]: Scientists recognize 10 to 15 species, with some debate on the interrelated details within the genus: Larix griffithii, Siberica, Potaninii, Kaempferi, Himalaica, Mastersiana, Gmelinii, Laricina, Decidua, Occidentalis, Lyalli.
 [^ref9]: Pine trees on average have a crop of pinecones every three to seven years. https://www.duluthnewstribune.com/lifestyle/ask-a-master-gardener-weather-influences-pine-cone-production#:~:text=a%20hot%20fire-Pine%20trees%20don't%20produce%20the%20same%20number%20of%20cones,reproduction%20and%20produce%20more%20cones.
 [^ref10]: The Dahurian Larch (Larix dahuria) can thrive above permafrost, the European Larch (Larix decidua) is more resistant to pollutants in urban environments, and the advantageous Subalpine Larch (Larix lyallii) prefers rock outcrops at an elevation of 7,500 feet in the alpine tundra, higher than any other North American tree species. https://www.srs.fs.usda.gov/pubs/misc/ag_654/volume_1/Larix/lyallii.htm.
-[^ref11]:  “Ectomycorrhizal symbiosis.” Microbe Wiki. https://microbewiki.kenyon.edu/index.php/Ectomycorrhizal_symbiosis#cite_note-deeper-1.
+[^ref11]: “Ectomycorrhizal symbiosis.” Microbe Wiki. https://microbewiki.kenyon.edu/index.php/Ectomycorrhizal_symbiosis#cite_note-deeper-1.
 [^ref12]: In 1859, Asa Gray, a professor of botany at Harvard and a correspondent of Charles Darwin, put forward his idea of “biographical disjuncts” to explain why plant species that were native to North America were so morphologically like those of Japan. This is an example of the earliest applications of Darwin’s evolutionary theory before his publication of Origin of Species. Hung, Kuang-Chi. “‘The Place That Offers the Greatest Interest’: Northeast Asia and the Making of Asa Gray's Disjunction Thesis.” Harvard Papers in Botany (2010) 15 (2): 231–50. https://doi.org/10.3100/025.015.0206.
 [^ref13]: Josselyn, John, An Account of Two Voyages to New England. (London: Printed for Giles Widdows, 1674), 67.
-[^ref14]:  To trace the name Larix even further, during the 1st century BC, Roman architect Vitruvius provided an account of Caesar assaulting a town whose towers were made of larch wood. The stronghold’s name was Larignum, which explains how the larch tree genus received its name Larix. Marcus Vitruvius Pollio: The Ten Books of Architecture, Book II [9.15-16]. (Torino: Giulio Einaudi, 1997). 
+[^ref14]: To trace the name Larix even further, during the 1st century BC, Roman architect Vitruvius provided an account of Caesar assaulting a town whose towers were made of larch wood. The stronghold’s name was Larignum, which explains how the larch tree genus received its name Larix. Marcus Vitruvius Pollio: The Ten Books of Architecture, Book II [9.15-16]. (Torino: Giulio Einaudi, 1997). 
 [^ref15]: For the exclusion of Indigenous knowledge by western science, and more recent advocacy of its inclusion, see the National Park Service Database on Traditional Ecological Knowledge, which cites many Indigenous voices 
 https://www.nps.gov/subjects/tek/tek-vs-western-science.htm) and Knopf, Kerstin. “The Turn Toward the Indigenous: Knowledge Systems and Practices in the Academy.” Amerikastudien/American Studies 60 (2015) no. 2/3: 179–200. http://www.jstor.org/stable/44071904. 
 [^ref16]: André Michaux became a prominent botanist in the United States and had built a relationship with Thomas Jefferson, which enabled him to travel west to botanize, or herboriser, as he frequently described his work in his travel journals. According to historian Elizabeth Hyde, Michaux was spending time in the field to “know” the plants, not only to identify them, but also to classify and collect, sharing his findings with the larger scientific community. He was one of the first botanists in the United States to do this, and his work would influence the development of French gardens and forests into the nineteenth century. Elizabeth Hyde, “‘The Neighborhood Would Be Very Interesting for a Botanist to Visit,’ or André Michaux, French Botanist in the American Field.” Journal of the Western Society for French History. Vol. 46. Ann Arbor, MI: Michigan Publishing, University of Michigan Library.
 [^ref17]: Francois André Michaux, The North American sylva; or A description of the forest trees of the United States, Canada, and Nova Scotia: considered particularly in respect to their use in the arts, and their introduction into commerce; to which is added a description of the most useful of the European forest trees. Illustrated by 156 coloured copperplate engravings, by Redoute, Bessa, etc. (Philadelphia: Robert P. Smith, Philadelphia, 1853). Predating Michaux, the larch tree had been identified in Europe by English botanist Philip Miller, who published its descriptions in The Gardeners Dictionary in 1768, and German-Estonian botanist Carl Frederich Ledebour, who authored Flora Altaica in 1833.
-[^ref18]:  Originally published in French in 1810, and later in English in 1817, this publication was enhanced with the work of botanist Thomas Nuttall in the 1850s. The text was one of the first references to American trees west of the Mississippi River.
+[^ref18]: Originally published in French in 1810, and later in English in 1817, this publication was enhanced with the work of botanist Thomas Nuttall in the 1850s. The text was one of the first references to American trees west of the Mississippi River.
 https://www.biodiversitylibrary.org/bibliography/118984?utm_medium=social%20media&utm_source=blogger&utm_campaign=Book%20of%20the%20Month&utm_content=Smithsonian%20Libraries
 [^ref19]: Charles Sargent and Faxon, C. E.  The Silva of North America: a description of the trees which grow naturally in North America exclusive of Mexico. Vol. xii. (Boston: Houghton, Mifflin and Company, 1891). 
 [^ref20]: Alfred Rehder. Manual of cultivated trees and shrubs hardy in North America: exclusive of the subtropical and warmer temperate regions. Core Historical Literature of Agriculture Collection, Cornell University. (New York: Macmillan, 1927). 
@@ -195,15 +190,13 @@ https://www.biodiversitylibrary.org/bibliography/118984?utm_medium=social%20medi
 [^ref23]: Sylvia Sutton. Charles Sprague Sargent and the Arnold Arboretum. (Cambridge: Harvard University Press, 1970), 220.
 [^ref24]: Megan Born. Dirt. Vol. 2. Cambridge, MA: MIT Press, 2012.
 [^ref25]: The golden larch is one of the fifty fundamental herbs in traditional Chinese medicine. Pseudolarix amabilis - jīn qián sōng (金钱松) - is used as a dermatologic antifungal remedy.
-[^ref26]:  “Evenki Shamanism.” Museum of Archaeology and Ethnology, Simon Fraser University.
+[^ref26]: “Evenki Shamanism.” Museum of Archaeology and Ethnology, Simon Fraser University.
 [^ref27]: Aado Lintrop, "The Great Oak and Brother-Sister." Folklore. 16 (2001): 35–58. doi:10.7592/FEJF2001.16.oak2.
-[^ref28]:   “The Social Significance of the Shaman among the Chinese Reindeer-Evenki” in Clark Chilson and Knecht, P. Shamans in Asia. (Abingdon, UK: Routledge, 2003),  31.
-[^ref29]:   Chilson, 32.
-[^ref30]:   Wierucka, “Modern Forms of Buryat Shaman Activity on the Olkhon Island.” Anthropological Notebooks, XIX/3, 2013.
-[^ref31]:  One example is a collective that aims to restore the declining harvests of wild rice in the Midwest, named Kawe Gidaa-naanaagadawendaamin Manoomin Research Collective, which translates from Ojibwe to “We must first consider wild rice.” “State of Water: Protecting and Understanding Wild Rice, Sacred to Ojibwe People.” CBS News, Accessed September 4, 2024, https://www.cbsnews.com/minnesota/news/state-of-water-addressing-the-environmental-impacts-on-wild-rice-sacred-to-ojibwe-people/.
+[^ref28]: “The Social Significance of the Shaman among the Chinese Reindeer-Evenki” in Clark Chilson and Knecht, P. Shamans in Asia. (Abingdon, UK: Routledge, 2003),  31.
+[^ref29]: Chilson, 32.
+[^ref30]: Wierucka, “Modern Forms of Buryat Shaman Activity on the Olkhon Island.” Anthropological Notebooks, XIX/3, 2013.
+[^ref31]: One example is a collective that aims to restore the declining harvests of wild rice in the Midwest, named Kawe Gidaa-naanaagadawendaamin Manoomin Research Collective, which translates from Ojibwe to “We must first consider wild rice.” “State of Water: Protecting and Understanding Wild Rice, Sacred to Ojibwe People.” CBS News, Accessed September 4, 2024, https://www.cbsnews.com/minnesota/news/state-of-water-addressing-the-environmental-impacts-on-wild-rice-sacred-to-ojibwe-people/.
 [^ref32]: “Wetlands, Lakes & Streams,” Division of Resource Management, Leech Lake Band of Ojibwe. Accessed September 4, 2024, https://www.llojibwe.org/drm/environmental/wetlands.html.
-[^ref33]:  “Wetlands, Lakes & Streams.”
+[^ref33]: “Wetlands, Lakes & Streams.”
 [^ref34]: Vittoria Di Palma offers a critical stance on how emotions of disgust and contempt were assigned to landscapes such as bogs, swamps, and forests in eighteenth-century England. See Vittoria Di Palma. Wasteland: a History. (New Haven: Yale University Press, 2014).
 [^ref35]: “Why are Wetlands Important?” National Park Service. https://www.nps.gov/subjects/wetlands/why.htm#:~:text=Wetlands%20are%20highly%20productive%20and,all%20threatened%20and%20endangered%20species.
-
-
