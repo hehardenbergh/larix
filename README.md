@@ -19,7 +19,7 @@ As Ojibwe author Anne M. Dunn writes in her book, *Fire in the Village: New and 
 <param ve-image fit="-88,34,444,366" url="fire in the village.jpeg">
 
 In the telling of the story, the Tamarack becomes a signifier of something larger than itself, the ephemeral nature of life on earth, and the reciprocity that living beings should practice and nurture.
-<param ve-image fit="-88,34,444,366" url="fire in the village.jpeg">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Through_the_year_with_birds_and_poets_%28poems%29%3B_%281900%29_%2814564594379%29.jpg">
 
 The needles of each Tamarack meet the ground every autumn, golden and crisp, marking the passage of time. Its lively expression in October is brief and wondrous. <span data-mouseover-image-zoomto="377,276,231,191">Vibrant fuchsia cones</span> and <span data-mouseover-image-zoomto="257,13,332,274">baby-green needles</span> are part of the cycle of new growth in spring. This and the Tamarack’s “wind-swept sweetness” define the character of the landscapes where it grows.[^ref2] 
 <param ve-image url="coneandneedles.jpg"
