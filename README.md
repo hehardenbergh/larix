@@ -16,7 +16,7 @@ As Ojibwe author Anne M. Dunn writes in her book, *Fire in the Village: New and 
 <param ve-image fit="-88,34,444,366" url="fire in the village.jpeg">
      
 The needles of each Tamarack meet the ground every autumn, golden and crisp, marking the passage of time. Its lively expression in October is brief and wondrous. <span data-mouseover-image-zoomto="825,791,517,427">Vibrant fuchsia cones</span> and <span data-mouseover-image-zoomto="4063,2284,1128,931">baby-green needles</span> are part of the cycle of new growth in spring. This and the Tamarack’s “wind-swept sweetness” define the character of the landscapes where it grows.[^ref2] 
-<param ve-image url="newcones.jpeg"
+<param ve-image url="coneandneedles.jpg"
        fit="cover"
        label="Cones develop around 25 years after Tamarack trees first sprout.">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pseudolarix_amabilis_02.jpg"
