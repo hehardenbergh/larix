@@ -28,7 +28,7 @@ These become places we can begin to understand more fully through [Traditional E
 <param ve-image url="tamaracknearwater.jpeg">
 
 The Tamarack tree species belongs to the genus *Larix* in western botanical nomenclature and is known by many names across different regions. In North America, the common name Tamarack refers to the American Larch *(Larix laricina)*, also known as the Eastern Larch and Hackmatack. The other ten widely accepted species in the same genus are generally referred to as Larch trees. This narrative focuses on the characteristics of the Tamarack, while also introducing other Larch species to compare their significances within indigenous cultures across different regions globally. 
-<param ve-image label="Larch Forest" url="goldfire.jpg">
+<param ve-video vid="L3ApTi-6iNM">
 <param ve-entity eid="Q734085" title="American Larch">
 
 Among the Ojibwe Nation in the Great Lakes Region, the Tamarack is called *mshkiigwaatig* in the Ojibwa language, among other names.[^ref3] Some of these names specifically relate to Indigenous philosophies about the interconnectedness of humans and plants, such as the Siberian Indigenous dialect name *Tuuru* for the Siberian Larch *(Larix sibirica)*, while others such as “tamarack” are adopted from misinterpretations of indigenous words in English from colonial times, and as a result carry little to no holistic meaning in English.[^ref4] The Ojibwe word is similar to the word that Potawatomi people use to refer to all plants, *mshkikinek*, or “the growers of the world.”[^ref5] According to 2022 MacArthur Fellow, ecologist, ethnobotanist, and Indigenous scholar Robin Wall Kimmerer, *mshkikinek* directly translates as “medicines,” with the root *mshkiki* meaning “strength of the earth.”[^ref6]
@@ -153,12 +153,9 @@ Due to these characteristics, the Tamarack could be the poster child of wetland 
        url="Hardenbergh_wetland sketch-02.png">
 
        
-### old
-### Where We Are Now
 
-<param ve-video
-       vid="L3ApTi-6iNM">
- 
+
+
 
 <param ve-image
        label="Robin Wall Kimmerer's accounts of the interconnectedness of plants and people in *Braiding Sweetgrass*"
