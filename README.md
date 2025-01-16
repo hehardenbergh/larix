@@ -10,27 +10,29 @@
 ### Introduction
 One [Ojibwe](https://pluralism.org/anishinaabe-ojibwe-ways) legend tells of a lone chickadee who sought shelter under a Tamarack tree in winter. During a fierce storm, the chickadee was cold, trapped, and alone. Chickadee asked the Tamarack tree to lower its branches for warmth, but the tree refused. For this, the Great Spirit, Wenabozho, punished the Tamarack. 
 <param ve-entity eid="Q833857" title="Wenabozho">
-<param ve-image fit="cover" url="https://upload.wikimedia.org/wikipedia/commons/2/2a/Larix_sibirica_with_golden_foliage.jpg">
+<param ve-image fit="cover" url="https://upload.wikimedia.org/wikipedia/commons/2/2a/Larix_sibirica_with_golden_foliage.jpg"
+       label="Tamarack Tree needles turn a golden yellow in autumn. Image source: Wikimedia Commons">
 
 As Ojibwe author Anne M. Dunn writes in her book, *Fire in the Village: New and Selected Stories*,[^ref1] *Wenabozho* promises the Tamarack,
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Through_the_year_with_birds_and_poets_%28poems%29%3B_%281900%29_%2814564594379%29.jpg">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Through_the_year_with_birds_and_poets_%28poems%29%3B_%281900%29_%2814564594379%29.jpg"
+       label="Ojibwe stories help show the interconnectedness and relationships between species, an ideology fundamental to many indigenous philosophies. Image source: Wikimedia Commons.">
 
 > *“Every autumn, your fine green needles will turn brown and fall off. Then you will stand naked in the forest all winter, as a reminder to others that it is always better to be kind and merciful than it is to be vain and selfish.”*
 
 In the telling of the story, the Tamarack becomes a signifier of something larger than itself, the ephemeral nature of life on earth, and the reciprocity that living beings should practice and nurture.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Through_the_year_with_birds_and_poets_%28poems%29%3B_%281900%29_%2814564594379%29.jpg">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Through_the_year_with_birds_and_poets_%28poems%29%3B_%281900%29_%2814564594379%29.jpg"
+       label="Ojibwe stories help show the interconnectedness and relationships between species, an ideology fundamental to many indigenous philosophies. Image source: Wikimedia Commons.">
 
 The needles of each Tamarack meet the ground every autumn, golden and crisp, marking the passage of time. Its lively expression in October is brief and wondrous. <span data-mouseover-image-zoomto="377,276,231,191">Vibrant fuchsia cones</span> and <span data-mouseover-image-zoomto="257,13,332,274">baby-green needles</span> are part of the cycle of new growth in spring. This and the Tamarack’s “wind-swept sweetness” define the character of the landscapes where it grows.[^ref2] 
 <param ve-image url="coneandneedles.jpg"
        fit="cover"
-       label="Cones develop around 25 years after Tamarack trees first sprout.">
+       label="Cones develop around 25 years after Tamarack trees first sprout. Image Source: iNaturalist.org">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pseudolarix_amabilis_02.jpg"
        fit="cover" 
-       label="New spring needles on the Golden Larch *(Pseudolarix amabilis)*.">
+       label="New spring needles on the Golden Larch, 'Pseudolarix amabilis.' Image source: Wikimedia Commons">
 
 These become places we can begin to understand more fully through [Traditional Ecological Knowledge](https://blog.ucsusa.org/science-blogger/the-importance-of-traditional-ecological-knowledge-tek-when-examining-climate-change/) (TEK) and stories in addition to the plant’s biology. Plant knowledge held through the oral traditions of Indigenous peoples compels us to view plants as living archives rather than simply specimens, a shift in perspective that is necessary to understand how to use plants for ecological design and restoration. With its rich roots and spiny branches covering most of New England, the tree’s seasonal qualities could become a symbol for the conservation of America’s wetlands.
-<param ve-image label="View of a forested Tamarack tree, from below" url="pexel_tamarack low angle.jpg">
-<param ve-image url="tamaracknearwater.jpeg">
+<param ve-image label="View of a forested Tamarack tree, from below. Image source: Flickr" url="pexel_tamarack low angle.jpg">
 
 The Tamarack tree species belongs to the genus *Larix* in western botanical nomenclature and is known by many names across different regions. In North America, the common name Tamarack refers to the American Larch *(Larix laricina)*, also known as the Eastern Larch and Hackmatack. The other ten widely accepted species in the same genus are generally referred to as Larch trees. This narrative focuses on the characteristics of the Tamarack, while also introducing other Larch species to compare their significances within indigenous cultures across different regions globally. 
 <param ve-video vid="L3ApTi-6iNM">
@@ -42,7 +44,8 @@ Among the Ojibwe Nation in the Great Lakes Region, the Tamarack is called *mshki
 
 Humanity’s fascination with trees has been expressed in many ways across time, from cosmology to botany to landscape design. Trees are often treated as both living organisms and botanical specimens through Indigenous rituals, traditional ecological knowledge, and Western scientific taxonomies.[^ref7] The legend of the Tamarack and the Chickadee illustrates how Indigenous storytelling can connect people to place through plant species. Tamarack trees and other *Larix* species are featured in many histories, inspiring us to think of how a palimpsest of narratives can inform the future of landscape and plant knowledge, and what role Indigenous knowledge can play in understanding living systems. 
 <param ve-entity title="Tamarack" eid="Q734085">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e8/Tom_Thomson_Tamarack_Swamp.jpg">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e8/Tom_Thomson_Tamarack_Swamp.jpg"
+       label="'Tamarack Swamp,' by Tom Thomson. Oil on Panel. Image source: Wikimedia Commons">
 
 ### Characteristics and Habitat
 Larch trees belong to the pine family and are native to the northern hemisphere in North America, Europe, and Asia.[^ref8] Like most pine trees, they prefer colder climates. Unlike any other pine species, however, the Larch is deciduous. It stores nutrients in dormancy during winter, adapting to tough climates easily: without needles, branches are less likely to break from the weight of snow and the force of wind. It is also more fire resilient when new shoots emerge in the spring. Its roots are fibrous, shallow, and wide-reaching. The Larch is monoecious--having male and female cones. On average, most tamaracks don’t produce cones until they are twenty-five years old.[^ref9]
