@@ -8,11 +8,13 @@
        layout="vertical">
 
 ### Introduction
-One [Ojibwe](https://pluralism.org/anishinaabe-ojibwe-ways) legend tells of a lone chickadee who sought shelter under a Tamarack tree in winter. During a fierce storm, the chickadee was cold, trapped, and alone. It asked the Tamarack tree to lower its branches for warmth, but the tree refused. For this, the Great Spirit, Wenabozho, punished the Tamarack. 
+One [Ojibwe](https://pluralism.org/anishinaabe-ojibwe-ways) legend tells of a lone chickadee who sought shelter under a Tamarack tree in winter. During a fierce storm, the chickadee was cold, trapped, and alone. Chickadee asked the Tamarack tree to lower its branches for warmth, but the tree refused. For this, the Great Spirit, Wenabozho, punished the Tamarack. 
 <param ve-entity eid="Q833857" title="Wenabozho">
 <param ve-image fit="cover" url="https://upload.wikimedia.org/wikipedia/commons/2/2a/Larix_sibirica_with_golden_foliage.jpg">
 
-As Ojibwe author Anne M. Dunn writes in her book, *Fire in the Village: New and Selected Stories*,[^ref1] *Wenabozho* promises the Tamarack that “every autumn, your fine green needles will turn brown and fall off. Then you will stand naked in the forest all winter, as a reminder to others that it is always better to be kind and merciful than it is to be vain and selfish.” In the telling of the story, the Tamarack becomes a signifier of something larger than itself, the ephemeral nature of life on earth, and the reciprocity that living beings should practice and nurture.
+As Ojibwe author Anne M. Dunn writes in her book, *Fire in the Village: New and Selected Stories*,[^ref1] *Wenabozho* promises the Tamarack,
+
+> “every autumn, your fine green needles will turn brown and fall off. Then you will stand naked in the forest all winter, as a reminder to others that it is always better to be kind and merciful than it is to be vain and selfish.” In the telling of the story, the Tamarack becomes a signifier of something larger than itself, the ephemeral nature of life on earth, and the reciprocity that living beings should practice and nurture.
 <param ve-image fit="-88,34,444,366" url="fire in the village.jpeg">
      
 The needles of each Tamarack meet the ground every autumn, golden and crisp, marking the passage of time. Its lively expression in October is brief and wondrous. <span data-mouseover-image-zoomto="377,276,231,191">Vibrant fuchsia cones</span> and <span data-mouseover-image-zoomto="257,13,332,274">baby-green needles</span> are part of the cycle of new growth in spring. This and the Tamarack’s “wind-swept sweetness” define the character of the landscapes where it grows.[^ref2] 
