@@ -105,18 +105,13 @@ Wilson referred to Chinese Larch *(Larix potaninii)*, noting its “decidedly ha
 ### Traditional Uses of the Tamarack
 “Narratives of all kinds—stories, tales, and rumors—are the stuff of ideas—concepts and hypotheses—and the stuffing of history,” write the authors of [*Dirt*](https://mitpress.mit.edu/9780262516921/dirt/).[^ref24] But how do we cite, record, and archive oral histories, especially when such stories have been nearly eradicated through colonial and extractive forces? The Tamarack tree, as a living archive, could be one answer.
 <param ve-image
-       label="Anishinaabekwe (Ojibwe-vrouw), traditioneel gekleed in buckskin (hertenleer). Source: Minnesota Historical Society."
-       url="https://upload.wikimedia.org/wikipedia/commons/a/af/Ojibwe_woman_with_baby_in_tiginaagan.png"
-       fit="-101,18,507,437">
+       url="https://upload.wikimedia.org/wikipedia/commons/6/6f/Western_Larch_%28Larix_occidentalis%29_--_young_leaves.jpg" label="Needles growing from the branch of a Western Larch, 'Larix occidentalis.'">
 
 In addition to its medicinal uses known to both First Nations and traditional Chinese Medicine practitioners, _Larix_ is a subject of living legends that reflect traditional lifestyles and plant knowledge.[^ref25] Across the Pacific, the world’s largest taiga stretches across Siberia from the Ural Mountains to the Pacific Ocean. People indigenous to the region believe that the Siberian Larch holds great spiritual power and is the connection between their spiritual and physical worlds. Since as early as 600 CE, the Evenki people, nomadic groups of three to ten immediate families indigenous to northern Siberia and parts of Mongolia and eastern China, revered the Larch tree for its practical uses and spiritual meaning. In the winter, they use its needles for insulation inside shelters as protection from the frozen ground. They use the timber for crafting ceremonial sculptures, such as carvings of birds that sit atop a “spirit pole” at the residence of a shaman to signify the connection between the human and spirit worlds.[^ref26]
-<param ve-image
-       url="https://upload.wikimedia.org/wikipedia/commons/6/6f/Western_Larch_%28Larix_occidentalis%29_--_young_leaves.jpg">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2a/Larix_sibirica_Urals2.jpg" label="Siberian Larch, 'Larix sibirica' in autumn colour with a dusting of fresh snow in the Ural Mountains, Russia. Image source: Wikimedia Commons">
 
 *Tuuru* translates to “World Tree” in the Indigenous Siberian Evenki Tungus language. The Evenki people believe that *Tuuru* connected their three worlds: the upper world, where deities and spirits of nature resided, the middle world, inhabited by humans, and the lower world, home to spirits of the dead. Siberian Shamans believe that the tree is the bridge that connects them to the three worlds.[^ref27] Perhaps the Siberian Larch is chosen for its grittiness, its strength to survive the harsh taiga, or for its fire-resistant bark. While it is not clear why Evenki Shamans chose the Larch tree, the practice of selecting a tree as symbolic of worldviews is common among many shamanic religions. 
-<param ve-image
-       label=""
-url="https://upload.wikimedia.org/wikipedia/commons/b/be/Spirits_Of_Shamanism_%28173117241%29.jpeg">
+<param ve-image label="Spiritual poles on lake Baikal in Khuzhir, Russia. Image source: Wikimedia Commons" url="https://upload.wikimedia.org/wikipedia/commons/b/be/Spirits_Of_Shamanism_%28173117241%29.jpeg">
 
 The Chinese Reindeer-Evenki are a small nomadic group of 200 people whose culture is in danger of extinction. They continue to practice traditional ways of life including having their shaman as a “mediator between human society and the world of spirits.”[^ref28] Under shamans’ leadership, the clan, or *kala* in Tungus northern dialect, developed a system of beliefs whereby the spirits of the upper world cause all events in nature, including births and deaths.[^ref29] *Tuuru* is the physical symbol of how the spirits travel between worlds and is, therefore, one of the cornerstones of Evenki cosmology.
 <param ve-image
