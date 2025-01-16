@@ -121,6 +121,9 @@ Shamanic traditions that center on the Larch tree continue today, including secu
 <param ve-image       url="https://upload.wikimedia.org/wikipedia/commons/9/9f/%D0%A0%D0%BE%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D0%BE%D0%BB%D0%B1%D1%8B_%D1%81%D1%8D%D1%80%D0%B3%D1%8D.jpg">
 
 Traditional practices ultimately protect ecosystems by forging a strong connection of people with place through an understanding of plant relationships.[^ref31] Consider how the spiritual practice of Ojibwe storytelling may impact the daily practice of protecting the value of wetlands, lakes, and the species that thrive there. The [Tribal Council of the Leech Lake Band of Ojibwe](https://www.llojibwe.org/drm/environmental/environmental.html)’s Division of Resource Management and Environmental Lands Department lists resources and information about wetland health and protection on its website for local landowners to reference and to encourage wetland restoration on the Leech Lake Reservation in northern Minnesota.[^ref32] While there are no direct mentions of the Tamarack, their website lists the importance of healthy wetlands, including how vegetation along agricultural areas has aided in containing excess phosphorus and nitrogen from runoff water.[^ref33] 
+<param ve-image
+       label="Robin Wall Kimmerer's accounts of the interconnectedness of plants and people in *Braiding Sweetgrass*"
+       url="https://upload.wikimedia.org/wikipedia/commons/9/9b/Braiding_Sweetgrass_book_cover.jpg">
 
 If we consider the Tamarack as a wetland stabilizer that aids in phytoremediation, associating the tree with values of reciprocity can further generate values and respect for our wetland ecologies, which can catalyze efforts to restore and preserve this important landscape typology. When considered alongside Western botanical studies, the two sources of knowledge have very different perspectives to offer. In using texts such as Charles Sargent’s *Silva of North America* to identify the Tamarack, and in considering the spiritual meaning of the species for shaman rituals, a sense of place can be understood more meaningfully as a complex network of individuals coexisting in places that are unique to the climate, species, and rituals of that area. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4c/Mechanisms_involved_in_phytoremediation.png">
@@ -151,20 +154,6 @@ Due to these characteristics, the Tamarack could be the poster child of wetland 
 <param ve-image
        label="The Tamarack: A Stabilizer for Ecological Communities"
        url="Hardenbergh_wetland sketch-02.png">
-
-       
-
-
-
-
-<param ve-image
-       label="Robin Wall Kimmerer's accounts of the interconnectedness of plants and people in *Braiding Sweetgrass*"
-       url="https://upload.wikimedia.org/wikipedia/commons/9/9b/Braiding_Sweetgrass_book_cover.jpg">
-
-
-<param ve-image
-       label="Tamarack (Larix laricina) sapling, Lackawanna County, along the Pinchot Trail in Pinchot State Forest"
-       url="https://upload.wikimedia.org/wikipedia/commons/6/67/Tamarack_Swamp_%282%29_%289460385629%29.jpg"
 
 ### References
 
