@@ -13,7 +13,6 @@ One [Ojibwe](https://pluralism.org/anishinaabe-ojibwe-ways) legend tells of a lo
 <param ve-image fit="cover" url="https://upload.wikimedia.org/wikipedia/commons/2/2a/Larix_sibirica_with_golden_foliage.jpg">
 
 As Ojibwe author Anne M. Dunn writes in her book, *Fire in the Village: New and Selected Stories*,[^ref1] *Wenabozho* promises the Tamarack,
-<param ve-image fit="-88,34,444,366" url="fire in the village.jpeg">
 
 > “Every autumn, your fine green needles will turn brown and fall off. Then you will stand naked in the forest all winter, as a reminder to others that it is always better to be kind and merciful than it is to be vain and selfish.”
 <param ve-image fit="-88,34,444,366" url="fire in the village.jpeg">
