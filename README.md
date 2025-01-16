@@ -62,9 +62,8 @@ Larches grow old, but not alone. Like most forest trees, the Larch is part of a 
 <param ve-compare url="larchnoneedles.jpg" fit="cover">
 <param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/e/eb/Larix_decidua_Modrzew_europejski_2023-06-25_01.jpg" fit="cover">
 
-
 Among the three North American species, ectomycorrhizal fungi are often found burrowing in their tree roots; these microorganisms are essential for 90 percent of all temperate and boreal forest trees for nutrient cycling, plant health, decomposition, and carbon sequestration.[^ref11]
-<param ve-image center="1,-13,1137,958" label="Purple Coryne Sarcoides living happily on a Larch trunk" url="https://upload.wikimedia.org/wikipedia/commons/3/3a/Purple_Coryne_sarcoides_on_larch_stump%2C_often_round_annual_rings%2C_The_Glyn%2C_10_10_1982_%2825385830249%29.jpg">
+<param ve-image center="1,-13,1137,958" label="Ectomychorrhizal Activity within 1-2mm of soil directly surrounding a root, an area called the Rhizosphere. " url="https://upload.wikimedia.org/wikipedia/commons/a/a5/Mycorrhizal_root_tips_%28amanita%29.jpg">
 
 One need not look far into New England’s temperate forests in the fall before seeing the golden cloak of Tamarack needles. In an urban context, 169 Larches representing six species, including the Tamarack, currently thrive at the Arnold Arboretum in Boston. The Arboretum has documented each of the trees’ provenance, tracing their place of origin as a seed and telling their life story. Many of the trees arrived as seeds, shipped from other continents in the 1800s to exhibit *Larix’s* diversity of species. Botanists were confident these non-native species would thrive alongside the Tamarack in the New England climate due to similar growing conditions in east Asia.[^ref12]
 <param ve-image label="A Worldwide Distribution of Larch Trees" url="larch world distribution 1.jpg">
