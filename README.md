@@ -66,9 +66,7 @@ Early European travelers’ accounts sometimes referred to the medicinal propert
        source="1zRzuoBAx7zFxTPSvJ64o5bPtbkrZrq9OB7e1HYisy6Y"
        timenav-position="bottom"
        hash-bookmark="false"
-       initial-zoom="1"
-       height="500"
-       fit="center">
+       height="750">
 
 Several Western botanists who traveled the globe attempted to document and classify all species of Larch trees, including the Tamarack. North America was of particular interest, and between 1768 and 1900, several scientists published taxonomies of the trees native to the continent. Such publications, however, seldom included information about traditional ecological knowledge or Indigenous knowledge about plants.[^ref15]
 <param ve-iframe 
