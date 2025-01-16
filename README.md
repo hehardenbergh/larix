@@ -66,12 +66,19 @@ Among the three North American species, ectomycorrhizal fungi are often found bu
 <param ve-image center="1,-13,1137,958" label="Ectomychorrhizal Activity within 1-2mm of soil directly surrounding a root, an area called the Rhizosphere. Illustration by Author." url="diagram_michorrizal fungi in tamarack roots_Section 2.png">
 
 One need not look far into New England’s temperate forests in the fall before seeing the golden cloak of Tamarack needles. In an urban context, 169 Larches representing six species, including the Tamarack, currently thrive at the <span data-mouseover-map-flyto="42.29866800637251, -71.12696103381026, 10">Arnold Arboretum</span> in Boston. The Arboretum has documented each of the trees’ provenance, tracing their place of origin as a seed and telling their life story. Many of the trees arrived as seeds, shipped from other continents in the 1800s to exhibit *Larix’s* diversity of species. Botanists were confident these non-native species would thrive alongside the Tamarack in the New England climate due to similar growing conditions in east Asia.[^ref12]
-<param ve-map center="Q568666" zoom=4 title="Many Larch species, including the Tamarack, were transported to the Arnold Arboretum to produce a living archive of plant material in Boston, Massachusetts. The arboretum is open to the public." show-labels basemap="Esri_WorldPhysical">
+<param ve-map center="Q568666" 
+       zoom=4 
+       title="Many Larch species, including the Tamarack, were transported to the Arnold Arboretum to produce a living archive of plant material in Boston, Massachusetts. The arboretum is open to the public." 
+       prefer-geojson 
+       basemap="Esri_WorldPhysical">
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/0/0f/Lilac_Sunday_view%2C_Arnold_Arboretum%2C_Jamaica_Plain_MA.jpg"
        coords="42.29866800637251, -71.12696103381026"
        size="512, 328"
        circle="true">
-<param ve-map-layer geojson>
+<param ve-map-layer geojson
+       url="https://raw.githubusercontent.com/hehardenbergh/larix/refs/heads/main/mapgraphics.json"
+       show-labels
+       stroke-width="0">
 
 ### Western Botanical Documentations of Tamarack
 Early European travelers’ accounts sometimes referred to the medicinal properties of the Tamarack in North America before Linnean classification became the standard in the eighteenth century. John Josselyn, an English traveler and physician, recorded medicinal uses of the tree while recording species of plants in America. “The Turpentine that issueth from the Cones of the Larch-tree ... is singularly good to heal wounds, and to draw out the malice of any Ach,” recalls Josselyn in his travel record, *An Account of two Voyages to New England*, in 1674.[^ref13] “Groundsels made of Larch-tree will never rot … Oh, that my Countreymen might obtain that blessing with their buildings,” he writes of the benefits of using the tree for timber.[^ref14] Josselyn’s account also preserves some Indigenous knowledge of North American trees recorded at the time by white settlers.
