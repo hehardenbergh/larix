@@ -159,7 +159,7 @@ Wetlands are incredibly biodiverse ecosystems that sustain the ecological health
        label="Columbus Bog (also known as Sulphur Spring Bog), which is part of the Tamarack Swamp National Natural Landmark in Warren County, Pennsylvania"
        url="https://upload.wikimedia.org/wikipedia/commons/9/99/TamarackSwampNNL.jpg">
 
-Due to these characteristics, the Tamarack could be the poster child of wetland restoration within the design disciplines. The associations it builds with soil, water, climate, and people are at the core of creating a functional and thriving wetland ecosystem. To conserve marshes along the eastern coast and Great Lakes regions of the United States, the Tamarack could help highlight the significance and history of these landscapes.	
+Due to these characteristics, the Tamarack could be the poster child of wetland restoration within the design disciplines. The associations it builds with soil, water, climate, and people are at the core of creating a functional and thriving wetland ecosystem. Drawing from Ojibwe stories about the Tamarack can incite a level of reciprocity and acknowledging the tree's role in a larger living network of beings, one which designers should protect and curate for the health of future wetland landscapes. To conserve marshes along the eastern coast and Great Lakes regions of the United States, the Tamarack could help highlight the significance and history of these landscapes.	
 <param ve-image
        label="The Tamarack: A Stabilizer for Ecological Communities"
        url="Hardenbergh_wetland sketch-02.png">
