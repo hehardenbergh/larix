@@ -59,8 +59,9 @@ Each tamarack species prefers distinct growing conditions. In the Pacific Northw
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/12/Japanese_Larch_Larix_kaempferi_Cone_and_Needles_3008px.jpg">
 
 Larches grow old, but not alone. Like most forest trees, the Larch is part of a network of living systems. Even though most live for about 200 years, and the European Larch has been reported to live as long as 2,000 years, almost all grow among other tree species. They often grow in pure stands and occasionally as an understory tree to other conifers. Insects and small mammals consume the tree’s bark and needles. Often, ospreys will choose to nest in its crown. 
-<param ve-compare curtain="true" url="https://upload.wikimedia.org/wikipedia/commons/e/eb/Larix_decidua_Modrzew_europejski_2023-06-25_01.jpg">
-<param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/8/83/Annual_report_of_the_Forest%2C_Fish_and_Game_Commission_of_the_State_of_New_York_%281899%29_%2814568730049%29.jpg">
+<param ve-compare curtain curtain="true" url="https://upload.wikimedia.org/wikipedia/commons/f/fb/Hollihaka_Park_Oulu_20120115.JPG">
+<param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/e/eb/Larix_decidua_Modrzew_europejski_2023-06-25_01.jpg">
+
 
 Among the three North American species, ectomycorrhizal fungi are often found burrowing in their tree roots; these microorganisms are essential for 90 percent of all temperate and boreal forest trees for nutrient cycling, plant health, decomposition, and carbon sequestration.[^ref11]
 <param ve-image center="1,-13,1137,958" label="Purple Coryne Sarcoides living happily on a Larch trunk" url="https://upload.wikimedia.org/wikipedia/commons/3/3a/Purple_Coryne_sarcoides_on_larch_stump%2C_often_round_annual_rings%2C_The_Glyn%2C_10_10_1982_%2825385830249%29.jpg">
