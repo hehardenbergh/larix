@@ -23,7 +23,7 @@ In the telling of the story, the Tamarack becomes a signifier of something large
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Through_the_year_with_birds_and_poets_%28poems%29%3B_%281900%29_%2814564594379%29.jpg"
        label="Ojibwe stories help show the interconnectedness and relationships between species, an ideology fundamental to many indigenous philosophies. Image source: Wikimedia Commons">
 
-The needles of each Tamarack meet the ground every autumn, golden and crisp, marking the passage of time. Its lively expression in October is brief and wondrous. <span data-mouseover-image-zoomto="377,276,231,191">Vibrant fuchsia cones</span> and <span data-mouseover-image-zoomto="257,13,332,274">baby-green needles</span> are part of the cycle of new growth in spring. This and the Tamarack’s “wind-swept sweetness” define the character of the landscapes where it grows.[^ref2] 
+The needles of each Tamarack meet the ground every autumn, golden and crisp, marking the passage of time. Its lively expression in October is brief and wondrous. <span data-mouseover-image-zoomto="345,454,858,739">Vibrant fuchsia cones</span> and <span data-mouseover-image-zoomto="493,1015,715,616">baby-green needles</span> are part of the cycle of new growth in spring. This and the Tamarack’s “wind-swept sweetness” define the character of the landscapes where it grows.[^ref2] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4b/Larix_laricina_15-p.bot-larix.lari-19.jpg"
        fit="cover"
        label="Cones develop around 25 years after Tamarack trees first sprout. Image Source: iNaturalist.org">
