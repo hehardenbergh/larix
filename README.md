@@ -127,8 +127,8 @@ If we consider the Tamarack as a wetland stabilizer that aids in phytoremediatio
 
 
 ### Design Considerations
-Traditional knowledge practices teach us more about plants than just their medicinal and other practical uses. They teach us about our <span data-mouseover-video-playat="189"> relationship with larger ecological systems </span>. They relate us to place. Through oral traditions like the Ojibwe legend about the tamarack, we begin to understand the spiritual meaning of the species, and the place that it occupies in the worldview of Indigenous communities. Through a single species, we begin to understand the symbiotic patterns of the relationship between humans and plants. This deeper understanding can also shift our perspective on the meaning and purpose of designed spaces. 
-<param ve-video vid="eH5zJxQETl4" play="189">
+Traditional knowledge practices teach us more about plants than just their medicinal and other practical uses. They teach us about our <span data-click-video-play="189"> relationship with larger ecological systems </span>. They relate us to place. Through oral traditions like the Ojibwe legend about the tamarack, we begin to understand the spiritual meaning of the species, and the place that it occupies in the worldview of Indigenous communities. Through a single species, we begin to understand the symbiotic patterns of the relationship between humans and plants. This deeper understanding can also shift our perspective on the meaning and purpose of designed spaces. 
+<param ve-video vid="eH5zJxQETl4">
 
 Design can represent the relationships between plants and by grouping certain species or making connections by storytelling through plants. The key to using plants as the catalyst in the design process is that it must acknowledge the role of the people whose stories are being told. The design may be the agent, but the people are the protagonists. If one were to tell the story of the Tamarack through design, it should be built around the living stories, past and present, about this tree. 
 <param ve-image
