@@ -52,7 +52,7 @@ Larch trees belong to the pine family and are native to the northern hemisphere 
 <param ve-image url="9341208604_d991f91516_k.jpg" fit="490,0,1557,1312" label="Small wetland at the headwaters of Doe Run, a mountain stream in Loyalsock State Forest, Lycoming County Pennsylvania. Tamarack trees line the edge of the water. Image source: Wikimedia Commons">
 
 Each tamarack species prefers distinct growing conditions. In the Pacific Northwest, long swaths of gold needles from Western Larch *(Larix occidentalis)* cover the sunny mountainsides, depending on snowmelt to carry nutrients and water to its roots in early summer. The Tamarack, or American Larch *(Larix laricina)*, can be found in wet soil along wetlands and bogs across the Northern Hemisphere in Canada and the northeastern United States. Its prominent Asian counterparts are *Larix siberica*, which has inhabited the Northern taiga in Siberia, and *potaninii* and *kaempferi*, found in the temperate forests in China and Japan, respectively.[^ref10]
-<param ve-entity eid="Q128362200" title="Larix occidentalis">
+<param ve-entity eid="Q576585" title="Larix occidentalis">
 <param ve-plant-specimen 
        jpid="10.5555/al.ap.specimen.p00662193">
 <param ve-image 
@@ -63,7 +63,7 @@ Larches grow old, but not alone. Like most forest trees, the Larch is part of a 
 <param ve-compare url="portraitlarchesinwinter.jpeg" fit="cover" label="Swipe across images to view the conditions of the European Larch, 'Larix decidua,' in winter and in summer. Image sources: Wikimedia Commons">
 <param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/e/eb/Larix_decidua_Modrzew_europejski_2023-06-25_01.jpg" fit="cover" label="Swipe across images to view the conditions of the European Larch, 'Larix decidua,' in winter and in summer. Image sources: Wikimedia Commons">
 
-Among the three North American species, ectomycorrhizal fungi are often found burrowing in their tree roots; these microorganisms are essential for 90 percent of all temperate and boreal forest trees for nutrient cycling, plant health, decomposition, and carbon sequestration.[^ref11]
+Among the three North American species, [ectomycorrhizal fungi](https://www.youtube.com/watch?v=SrKMhSNWPAw&t=3s) are often found burrowing in their tree roots; these microorganisms are essential for 90 percent of all temperate and boreal forest trees for nutrient cycling, plant health, decomposition, and carbon sequestration.[^ref11]
 <param ve-image 
        url="diagram_michorrizal fungi in tamarack roots_Section 2.png"
        fit="1,-13,1137,958" 
