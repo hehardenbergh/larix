@@ -146,6 +146,7 @@ Traditional practices ultimately protect ecosystems by forging a strong connecti
        
 
 If we consider the Tamarack as a wetland stabilizer that aids in phytoremediation, associating the tree with values of reciprocity can further generate values and respect for our wetland ecologies, which can catalyze efforts to restore and preserve this important landscape typology. When considered alongside Western botanical studies, the two sources of knowledge have very different perspectives to offer. In using texts such as Charles Sargent’s *Silva of North America* to identify the Tamarack, and in considering the spiritual meaning of the species for shaman rituals, a sense of place can be understood more meaningfully as a complex network of individuals coexisting in places that are unique to the climate, species, and rituals of that area. 
+<param ve-entity eid="Q283180" title="phytoremediation">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4c/Mechanisms_involved_in_phytoremediation.png" fit="77,-257,3594,3095" label="Graphic description of the many types of Phytoremediation, the practice of utilizing plant material to consume, degrade, or accumulate hard metals and contaminants in the atmosphere and in the soil. Image source: Wikimedia Commons">
 
 Traditional knowledge practices teach us more about plants than just their medicinal and other practical uses. They teach us about our **relationship with larger ecological systems**. They relate us to place. Through oral traditions like the Ojibwe legend about the tamarack, we begin to understand the spiritual meaning of the species, and the place that it occupies in the worldview of Indigenous communities. Through a single species, we begin to understand the symbiotic patterns of the relationship between humans and plants. This deeper understanding can also shift our perspective on the meaning and purpose of designed spaces. 
@@ -158,7 +159,8 @@ Design can represent the relationships between plants and by grouping certain sp
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/7/79/Autumn%27s_promise_%2848973911991%29.png">
 
-The beautiful colors of Tamarack that are catalyzed by the seasonal cycle of decay and renewal make it an atypical choice for design projects. Yet, there are potential opportunities to consider the tree as a symbol to encourage wetland habitats across New England. Tamarack tree forests usually have a dense herbaceous layer and a somewhat full shrub layer, contributing to a rich ecosystem along riparian borders.
+The beautiful colors of Tamarack that are catalyzed by the seasonal cycle of decay and renewal make it an atypical choice for design projects. Yet, there are potential opportunities to consider the tree as a symbol to encourage wetland habitats across New England. Tamarack tree forests usually have a dense herbaceous layer and a somewhat full shrub layer, contributing to a rich ecosystem along riparian zones.
+<param ve=entity eid="Q13360049" "riparian zone">
 <param ve-image url="larchforestswathwinter.jpg" 
        label="There is so much potential in curating a planting design that both benefits the ecosystem and creates unique aesthetic and textural moments that pleases the eye. For example, a single tree can create a punctum in the landscape. Planting large swaths of Tamarack trees to mimick their growing conditions in the natural environment can create a vastly different effect. Image source: Wikimedia Commons">
 
@@ -174,7 +176,7 @@ Wetlands are incredibly biodiverse ecosystems that sustain the ecological health
 
 Due to these characteristics, the Tamarack could be the poster child of wetland restoration within the design disciplines. The associations it builds with soil, water, climate, and people are at the core of creating a functional and thriving wetland ecosystem. Drawing from Ojibwe stories about the Tamarack can incite a level of reciprocity and acknowledging the tree's role in a larger living network of beings, one which designers should protect and curate for the health of future wetland landscapes. To conserve marshes along the eastern coast and Great Lakes regions of the United States, the Tamarack could help highlight the significance and history of these landscapes.	
 <param ve-image
-       label="The Tamarack: A Stabilizer for Ecological Communities"
+       label="The Tamarack: A Stabilizer for Ecological Communities. Illustration by Author"
        url="Hardenbergh_wetland sketch-02.png">
 
 ### References
