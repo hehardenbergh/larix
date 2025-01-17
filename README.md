@@ -75,14 +75,10 @@ One need not look far into New England’s temperate forests in the fall before 
        title="Natural Growth Dispersal of the Tamarack, 'Larix laricina.'"
        prefer-geojson 
        basemap="Esri_WorldPhysical">
-<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/0/0f/Lilac_Sunday_view%2C_Arnold_Arboretum%2C_Jamaica_Plain_MA.jpg"
-       coords="42.29866800637251, -71.12696103381026"
-       size="700, 500"
-       circle="true">
 <param ve-map-layer geojson
        url="https://raw.githubusercontent.com/hehardenbergh/larix/refs/heads/main/mapgraphics.json"
        show-labels
-       stroke-width="0">
+       stroke-width="1">
 
 ### Western Botanical Documentations of Tamarack
 Early European travelers’ accounts sometimes referred to the medicinal properties of the Tamarack in North America before Linnean classification became the standard in the eighteenth century. John Josselyn, an English traveler and physician, recorded medicinal uses of the tree while recording species of plants in America. “The Turpentine that issueth from the Cones of the Larch-tree ... is singularly good to heal wounds, and to draw out the malice of any Ach,” recalls Josselyn in his travel record, *An Account of two Voyages to New England*, in 1674.[^ref13] “Groundsels made of Larch-tree will never rot … Oh, that my Countreymen might obtain that blessing with their buildings,” he writes of the benefits of using the tree for timber.[^ref14] Josselyn’s account also preserves some Indigenous knowledge of North American trees recorded at the time by white settlers.
