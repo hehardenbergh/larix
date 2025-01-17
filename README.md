@@ -59,8 +59,8 @@ Each tamarack species prefers distinct growing conditions. In the Pacific Northw
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/12/Japanese_Larch_Larix_kaempferi_Cone_and_Needles_3008px.jpg">
 
 Larches grow old, but not alone. Like most forest trees, the Larch is part of a network of living systems. Even though most live for about 200 years, and the European Larch has been reported to live as long as 2,000 years, almost all grow among other tree species. They often grow in pure stands and occasionally as an understory tree to other conifers. Insects and small mammals consume the tree’s bark and needles. Often, ospreys will choose to nest in its crown. 
-<param ve-compare url="portraitlarchesinwinter.jpeg" fit="cover" label="Swipe across images to view the conditions of the European Larch, 'Larix decidua,' in winter and in summer.">
-<param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/e/eb/Larix_decidua_Modrzew_europejski_2023-06-25_01.jpg">
+<param ve-compare url="portraitlarchesinwinter.jpeg" fit="cover" label="Swipe across images to view the conditions of the European Larch, 'Larix decidua,' in winter and in summer. Image sources: Wikimedia Commons">
+<param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/e/eb/Larix_decidua_Modrzew_europejski_2023-06-25_01.jpg" fit="cover" label="Swipe across images to view the conditions of the European Larch, 'Larix decidua,' in winter and in summer. Image sources: Wikimedia Commons">
 
 Among the three North American species, ectomycorrhizal fungi are often found burrowing in their tree roots; these microorganisms are essential for 90 percent of all temperate and boreal forest trees for nutrient cycling, plant health, decomposition, and carbon sequestration.[^ref11]
 <param ve-image center="1,-13,1137,958" label="Ectomychorrhizal Activity within 1-2mm of soil directly surrounding a root, an area called the Rhizosphere. Illustration by Author." url="diagram_michorrizal fungi in tamarack roots_Section 2.png">
