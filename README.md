@@ -151,13 +151,14 @@ Traditional knowledge practices teach us more about plants than just their medic
 
 Design can represent the relationships between plants and by grouping certain species or making connections by storytelling through plants. The key to using plants as the catalyst in the design process is that it must acknowledge the role of the people whose stories are being told. The design may be the agent, but the people are the protagonists. If one were to tell the story of the Tamarack through design, it should be built around the living stories, past and present, about this tree. 
 <param ve-image
-       label="Larch trees in fall at Mar Bleue Bog, Southern Ontario"
+       label="Larch trees in fall at Mar Bleue Bog, Southern Ontario. Image Source: Wikimedia Commons"
        description="Photograph"
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/7/79/Autumn%27s_promise_%2848973911991%29.png">
 
 The beautiful colors of Tamarack that are catalyzed by the seasonal cycle of decay and renewal make it an atypical choice for design projects. Yet, there are potential opportunities to consider the tree as a symbol to encourage wetland habitats across New England. Tamarack tree forests usually have a dense herbaceous layer and a somewhat full shrub layer, contributing to a rich ecosystem along riparian borders.
-<param ve-image url="https://commons.wikimedia.org/wiki/File:Winter_colours_-_geograph.org.uk_-_1715026.jpg" label="There is so much potential in curating a planting design that both benefits the ecosystem and creates unique aesthetic and textural moments that pleases the eye. For example, a single tree can create a punctum in the landscape. Planting large swaths of Tamarack trees can create a vastly different effect. Image source: Wikimedia Commons">
+<param ve-image url="https://commons.wikimedia.org/wiki/File:Winter_colours_-_geograph.org.uk_-_1715026.jpg" 
+       label="There is so much potential in curating a planting design that both benefits the ecosystem and creates unique aesthetic and textural moments that pleases the eye. For example, a single tree can create a punctum in the landscape. Planting large swaths of Tamarack trees to mimick their growing conditions in the natural environment can create a vastly different effect. Image source: Wikimedia Commons">
 
 Additionally, wetland habitats in the United States have been historically filled in to transform marshes into fields to sustain crops. At the time of European settlement, the United States had 221 million acres of wetlands. Generally viewed as wastelands in the 1700s, wetlands were drained by early colonizers by constructing ditches and rerouting waterways into canals to navigate to western regions.[^ref35] This manipulation of American watersheds continued through the Industrial Revolution and increased sharply in the 1900s through government-supported rebate programs for farmers for building levees, water-diversion projects, and dams. By the 1980s, 50 percent of these wetlands had disappeared.
 <param ve-image
