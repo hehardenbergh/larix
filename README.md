@@ -126,6 +126,7 @@ In addition to its medicinal uses known to both First Nations and traditional Ch
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2a/Larix_sibirica_Urals2.jpg" label="Siberian Larch, 'Larix sibirica' in autumn colour with a dusting of fresh snow in the Ural Mountains, Russia. Image source: Wikimedia Commons">
 
 *Tuuru* translates to “world tree” in the Indigenous Siberian Evenki Tungus language.[^ref28] The Evenki people believe that *Tuuru* connected their three worlds: the upper world, where deities and spirits of nature resided, the middle world, inhabited by humans, and the lower world, home to spirits of the dead. Siberian Shamans believe that the tree is the bridge that connects them to the three worlds.[^ref29] Perhaps the Siberian Larch is chosen for its grittiness, its strength to survive the harsh taiga, or for its fire-resistant bark. While it is not clear why Evenki Shamans chose the Larch tree, the practice of selecting a tree as symbolic of worldviews is common among many shamanic religions. 
+<param ve-entity eid="Q267376" title="world tree">
 <param ve-image       url="https://upload.wikimedia.org/wikipedia/commons/9/9f/%D0%A0%D0%BE%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D0%BE%D0%BB%D0%B1%D1%8B_%D1%81%D1%8D%D1%80%D0%B3%D1%8D.jpg" 
        label="The Buryats and Yakut People of Siberia place hitching posts called serge at the entrances to yurts or houses to indicate ownership and for shamanistic practices. Image source: Wikimedia Commons">
 
