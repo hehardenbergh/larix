@@ -49,9 +49,7 @@ Humanity’s fascination with trees has been expressed in many ways across time,
 Larch trees belong to the pine family and are native to the northern hemisphere in North America, Europe, and Asia.[^ref8] Like most pine trees, they prefer colder climates. Unlike any other pine species, however, the Larch is deciduous. It stores nutrients in dormancy during winter, adapting to tough climates easily: without needles, branches are less likely to break from the weight of snow and the force of wind. It is also more fire resilient when new shoots emerge in the spring. Its roots are fibrous, shallow, and wide-reaching. The Larch is monoecious--having male and female cones. On average, most tamaracks don’t produce cones until they are twenty-five years old.[^ref9]
 <param ve-entity title="deciduous" eid="Q1131316">
 <param ve-entity title="monoecious" eid="Q66368485">
-<param ve-image 
-       url="1000pxmountainbog.jpg" 
-       label="Small wetland at the headwaters of Doe Run, a mountain stream in Loyalsock State Forest, Lycoming County Pennsylvania. Tamarack trees line the edge of the water. Image source: Wikimedia Commons">
+<param ve-image url="1000pxmountainbog.jpg" fit="240,0,761,642" label="Small wetland at the headwaters of Doe Run, a mountain stream in Loyalsock State Forest, Lycoming County Pennsylvania. Tamarack trees line the edge of the water. Image source: Wikimedia Commons">
 
 Each tamarack species prefers distinct growing conditions. In the Pacific Northwest, long swaths of gold needles from Western Larch *(Larix occidentalis)* cover the sunny mountainsides, depending on snowmelt to carry nutrients and water to its roots in early summer. The Tamarack, or American Larch *(Larix laricina)*, can be found in wet soil along wetlands and bogs across the Northern Hemisphere in Canada and the northeastern United States. Its prominent Asian counterparts are *Larix siberica*, which has inhabited the Northern taiga in Siberia, and *potaninii* and *kaempferi*, found in the temperate forests in China and Japan, respectively.[^ref10]
 <param ve-plant-specimen 
@@ -113,17 +111,17 @@ Enter Charles Sprague Sargent, a leading American botanist, conservationist, and
 
 Sargent’s interest in Asian species was primarily scientific, though he also counted on the endeavors of botanists seeking to introduce new plants to nurseries for commercial purposes. This is how he met E. H. Wilson, who had been collecting seeds for a large nursery in England called Veitch & Sons. Wilson provided much of the text for *Plantae Wilsonianae*, an account of the species native to Western Sichuan, the seeds of which Wilson sent to Sargent for the Arboretum. Many of the species that grow in Boston’s soil today originated from expeditions such as Wilson’s. 
 <param ve-image
-       label="E. H. Wilson and his collecting team on a houseboat, traveling the rivers of Chengdu"
+       label="E. H. Wilson and his collecting team on a houseboat, traveling the rivers of Chengdu. Source: Arnold Arboretum Stories"
        url="291170-4512874-cropped-scaled.jpg">
 
 Wilson referred to Chinese Larch *(Larix potaninii)*, noting its “decidedly handsome and striking” qualities.[^ref21] He writes of the tree’s practical use for construction as a valuable timber in the western Sichuan region.[^ref22] As Sylvia Barry Sutton, the author of Sargent’s biography, writes: “One is thankful, finally, that it was Wilson and not Sargent who explored China, because it is unlikely that Sargent would have written about anything but the flora.”[^ref23] Indeed, Wilson was interested in much more than the species itself, although he did not mention any of the traditional uses of the Chinese Larch. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/db/Pseudolarix_kaempferi_4zz.jpg" label="Chinese Larch, 'Pseudolarix kaempferi.'">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/db/Pseudolarix_kaempferi_4zz.jpg" label="Chinese Larch, 'Pseudolarix kaempferi.' Image Source: Wikimedia Commons">
 
 ### Traditional Uses of the Tamarack
 “Narratives of all kinds—stories, tales, and rumors—are the stuff of ideas—concepts and hypotheses—and the stuffing of history,” write the authors of [*Dirt*](https://mitpress.mit.edu/9780262516921/dirt/).[^ref24] But how do we cite, record, and archive oral histories, especially when such stories have been nearly eradicated through colonial and extractive forces? The Tamarack tree, as a living archive, could be one answer. Indigenous groups and shamans have harnessed its bark, sap, and needles for medicinal purposes for over 3,000 years. The long, spindly form of *Larix siberica* has ties to spiritual worlds of nomadic groups in northern Asia, and local water management organizations have recognized the Tamarack for its role in stabilizing wetlands across the midwestern United States.[^ref25]
 <param ve-entity eid="Q754765" title="Larix siberica">
 <param ve-image
-       url="https://upload.wikimedia.org/wikipedia/commons/6/6f/Western_Larch_%28Larix_occidentalis%29_--_young_leaves.jpg" label="Needles growing from the branch of a Western Larch, 'Larix occidentalis.'">
+       url="https://upload.wikimedia.org/wikipedia/commons/6/6f/Western_Larch_%28Larix_occidentalis%29_--_young_leaves.jpg" label="Needles growing from the branch of a Western Larch, 'Larix occidentalis.' Image Source: Wikimedia Commons">
 
 In addition to its medicinal uses known to both First Nations and traditional Chinese Medicine practitioners, _Larix_ is a subject of living legends that reflect traditional lifestyles and plant knowledge.[^ref26] Across the Pacific, the world’s largest taiga stretches across Siberia from the Ural Mountains to the Pacific Ocean. People indigenous to the region believe that the Siberian Larch holds great spiritual power and is the connection between their spiritual and physical worlds. Since as early as 600 CE, the Evenki people, nomadic groups of three to ten immediate families indigenous to northern Siberia, Mongolia, and eastern China, revered the Larch tree for its practical uses and spiritual meaning. In the winter, they use its needles for insulation inside shelters as protection from the frozen ground. They use the timber for crafting ceremonial sculptures, such as carvings of birds that sit atop a “spirit pole” at the residence of a shaman to signify the connection between the human and spirit worlds.[^ref27]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2a/Larix_sibirica_Urals2.jpg" label="Siberian Larch, 'Larix sibirica' in autumn colour with a dusting of fresh snow in the Ural Mountains, Russia. Image source: Wikimedia Commons">
@@ -133,13 +131,9 @@ In addition to its medicinal uses known to both First Nations and traditional Ch
        label="The Buryats and Yakut People of Siberia place hitching posts called serge at the entrances to yurts or houses to indicate ownership and for shamanistic practices. Image source: Wikimedia Commons">
 
 Shamanic traditions that center on the Larch tree continue today, including securing ribbons to the tree trunk to symbolize a myriad of offerings for the spirits.[^ref29] Thousands of Siberian Larches dot the shores of Lake Baikal, where the Buryat people live, another nomadic clan in the Siberian region. Their offerings are tied to the ancient tree's branches, reaching toward the sun in search of nutrients, and passing down knowledge from the spirits above. 
-<param ve-image label="Spiritual poles on lake Baikal in Khuzhir, Russia. Image source: Wikimedia Commons" url="https://upload.wikimedia.org/wikipedia/commons/b/be/Spirits_Of_Shamanism_%28173117241%29.jpeg">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/be/Spirits_Of_Shamanism_%28173117241%29.jpeg" label="Spiritual poles on lake Baikal in Khuzhir, Russia. Image source: Wikimedia Commons" >
 
 The North Asian Reindeer-Evenki are a small nomadic group of 200 people whose culture is in danger of extinction. They continue to practice traditional ways of life including having their shaman as a “mediator between human society and the world of spirits.”[^ref30] Under shamans’ leadership, the clan, or *kala* in Tungus northern dialect, developed a system of beliefs whereby the spirits of the upper world cause all events in nature, including births and deaths.[^ref31] *Tuuru* is the physical symbol of how the spirits travel between worlds and is, therefore, one of the cornerstones of Evenki cosmology.
-<param ve-image
-       label=""
-       url="https://upload.wikimedia.org/wikipedia/commons/c/c9/Khagdaev_02.jpg"
-       fit="1836,945,2683,2311">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c9/Khagdaev_02.jpg"
        label="Pictured is Valentin Hagdaev - the head shaman of Olkhon Island on Lake Baikal in Buryatia, Siberia in 2009. Note the graphic of a spirit tree centered on Hagdaev's drum. Image source: Wikimedia Commons">
 
