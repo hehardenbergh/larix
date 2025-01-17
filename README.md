@@ -72,12 +72,12 @@ Among the three North American species, [ectomycorrhizal fungi](https://www.yout
 One need not look far into New England’s temperate forests in the fall before seeing the golden cloak of Tamarack needles. In an urban context, 169 Larches representing six species, including the Tamarack, currently thrive at the <span data-mouseover-map-flyto="42.29866800637251, -71.12696103381026, 14">Arnold Arboretum</span> in Boston. The Arboretum has documented each of the trees’ provenance, tracing their place of origin as a seed from Siberia, Mongolia, and Russia to Western Sichuan, China, to Central Europe and the Pacific Northwestern United States. Many of the trees arrived as seeds, shipped from other continents in the 1800s to exhibit *Larix’s* diversity of species. Botanists were confident these non-native species would thrive alongside the Tamarack in the New England climate due to similar growing conditions in east Asia.[^ref12]
 <param ve-map center="Q568666" 
        zoom=3
-       title="Many Larch species, including the Tamarack, were transported to the Arnold Arboretum to produce a living archive of plant material in Boston, Massachusetts. The arboretum is open to the public." 
+       title="Natural Growth Dispersal of the Tamarack, 'Larix laricina.'"
        prefer-geojson 
        basemap="Esri_WorldPhysical">
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/0/0f/Lilac_Sunday_view%2C_Arnold_Arboretum%2C_Jamaica_Plain_MA.jpg"
        coords="42.29866800637251, -71.12696103381026"
-       size="512, 328"
+       size="700, 500"
        circle="true">
 <param ve-map-layer geojson
        url="https://raw.githubusercontent.com/hehardenbergh/larix/refs/heads/main/mapgraphics.json"
