@@ -137,15 +137,16 @@ The North Asian Reindeer-Evenki are a small nomadic group of 200 people whose cu
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c9/Khagdaev_02.jpg"
        label="Pictured is Valentin Hagdaev - the head shaman of Olkhon Island on Lake Baikal in Buryatia, Siberia in 2009. Note the graphic of a spirit tree centered on Hagdaev's drum. Image source: Wikimedia Commons">
 
+### Design Considerations
 Traditional practices ultimately protect ecosystems by forging a strong connection of people with place through an understanding of plant relationships.[^ref33] Consider how the spiritual practice of Ojibwe storytelling may impact the daily practice of protecting the value of wetlands, lakes, and the species that thrive there. The [Tribal Council of the Leech Lake Band of Ojibwe](https://www.llojibwe.org/drm/environmental/environmental.html)’s Division of Resource Management and Environmental Lands Department lists resources and information about wetland health and protection on its website for local landowners to reference and to encourage wetland restoration on the Leech Lake Reservation in northern Minnesota.[^ref34] While there are no direct mentions of the Tamarack, their website lists the importance of healthy wetlands, including how vegetation along agricultural areas has aided in containing excess phosphorus and nitrogen from runoff water.[^ref35] 
 <param ve-image
-       label="Robin Wall Kimmerer's accounts of the interconnectedness of plants and people in *Braiding Sweetgrass*"
-       url="https://upload.wikimedia.org/wikipedia/commons/9/9b/Braiding_Sweetgrass_book_cover.jpg">
+       label="Wetland areas in northern Minnesota with developed borders and an urbanized edge. Image source: Wikimedia Commons"
+       url="https://upload.wikimedia.org/wikipedia/commons/a/a0/New_London%2C_Minnesota_%286031260800%29.jpg">
+       
 
 If we consider the Tamarack as a wetland stabilizer that aids in phytoremediation, associating the tree with values of reciprocity can further generate values and respect for our wetland ecologies, which can catalyze efforts to restore and preserve this important landscape typology. When considered alongside Western botanical studies, the two sources of knowledge have very different perspectives to offer. In using texts such as Charles Sargent’s *Silva of North America* to identify the Tamarack, and in considering the spiritual meaning of the species for shaman rituals, a sense of place can be understood more meaningfully as a complex network of individuals coexisting in places that are unique to the climate, species, and rituals of that area. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4c/Mechanisms_involved_in_phytoremediation.png" fit="77,-257,3594,3095" label="Graphic description of the many types of Phytoremediation, the practice of utilizing plant material to consume, degrade, or accumulate hard metals and contaminants in the atmosphere and in the soil. Image source: Wikimedia Commons">
 
-### Design Considerations
 Traditional knowledge practices teach us more about plants than just their medicinal and other practical uses. They teach us about our **relationship with larger ecological systems**. They relate us to place. Through oral traditions like the Ojibwe legend about the tamarack, we begin to understand the spiritual meaning of the species, and the place that it occupies in the worldview of Indigenous communities. Through a single species, we begin to understand the symbiotic patterns of the relationship between humans and plants. This deeper understanding can also shift our perspective on the meaning and purpose of designed spaces. 
 <param ve-video vid="eH5zJxQETl4" play=189>
 
